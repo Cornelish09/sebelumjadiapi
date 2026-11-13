@@ -6,7 +6,7 @@ import tseslint from 'typescript-eslint'
 import { defineConfig, globalIgnores } from 'eslint/config'
 
 export default defineConfig([
-  globalIgnores(['dist']),
+  globalIgnores(['dist', 'tmp/audio-audit-env/**', 'tmp/audio-audit-models/**']),
   {
     files: ['**/*.{ts,tsx}'],
     extends: [

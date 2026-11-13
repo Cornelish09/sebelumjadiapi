@@ -1,0 +1,14 @@
+{
+  "created": "2026-11-09",
+  "method": "OpenAI ImageGen; lima gambar orisinal dibuat dari prompt, dikonversi menjadi WebP kualitas 90",
+  "context": "Visual artistik untuk prototipe #SebelumJadiApi, bukan dokumentasi lokasi atau kondisi hutan nyata",
+  "promptSummary": "Hutan tropis fotorealistis sinematik 16:9, detail alami di tepi, ruang negatif gelap di tengah, saturasi tertahan, tanpa manusia, teks, logo, atau api menyala",
+  "files": {
+    "peace-bg.webp": "Hijau-emas redup, hutan utuh dan tenang; sumber exec-b1ec3b33-0866-4bc5-8819-c4d2e0cfd981.png",
+    "awareness-bg.webp": "Hutan hidup lebih sunyi, cahaya terbatas, kabut lembut; sumber exec-3eec0dc3-ba0f-4c46-a86a-4661e3dd5316.png",
+    "sorrow-bg.webp": "Biru-abu dan ungu dingin, hening, kehilangan; sumber exec-938e67f3-dbfa-4f7c-8fc3-523a3a4110e5.png",
+    "anger-bg.webp": "Amber-coklat tertahan, hutan lelah, tanpa kebakaran besar; sumber exec-2fd50ebe-7c07-4d9d-a933-a5eeba21be87.png",
+    "hope-bg.webp": "Hutan gelap dengan pembukaan cahaya emas lembut; sumber exec-a1e8fc0f-8976-4412-ae8b-0a9c71479a8a.png"
+  },
+  "replace": "Ganti file background di folder ini atau ubah background pada src/content/meditations.ts. Komponen utama tidak perlu diubah."
+}

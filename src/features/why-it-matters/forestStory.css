@@ -1,0 +1,89 @@
+/* Scroll native + 2.5D multi-plane depth stack + living stage animations. */
+.forest-story{height:430svh;position:relative;isolation:isolate;background:#080f0c;outline:none}
+.forest-story-stage{--story-px:0;--story-py:0;height:100svh;position:sticky;top:0;overflow:hidden;contain:layout paint}
+.forest-story-images,.forest-story-image,.forest-story-shade,.forest-story-fx{position:absolute;inset:0}
+.forest-story-images{overflow:hidden;background:#08120e}
+.forest-story-image{transform:translate3d(0,0,0) scale(1.045);overflow:hidden}
+.forest-story-back,.forest-story-mid,.forest-story-front{position:absolute;inset:0;height:100%;width:100%;object-fit:cover;object-position:65% center;display:block;pointer-events:none;will-change:transform}
+.forest-story-back{z-index:1;transform:translate3d(calc(var(--story-px,0) * -10px + var(--story-shift,0) * -14px),calc(var(--story-py,0) * -6px),0) scale(1.055);transition:transform .38s cubic-bezier(.22,1,.36,1)}
+.forest-story-mid{z-index:2;mix-blend-mode:screen;opacity:.86;transform:translate3d(calc(var(--story-px,0) * 7px + var(--story-shift,0) * 10px),calc(var(--story-py,0) * 4px),0) scale(1.065);transition:transform .36s cubic-bezier(.22,1,.36,1);animation:storyMidBreath 9s ease-in-out infinite alternate}
+.forest-story-fx{z-index:3;pointer-events:none;overflow:hidden}
+.forest-story-fx>span{position:absolute;inset:-6%;pointer-events:none;will-change:transform,opacity}
+.forest-story-animal{position:absolute;z-index:4;right:3%;bottom:9%;width:48%;height:70%;object-fit:contain;object-position:right bottom;opacity:0;pointer-events:none;will-change:opacity,transform;filter:drop-shadow(0 20px 36px rgba(0,0,0,.72));transition:transform .34s cubic-bezier(.22,1,.36,1)}
+.forest-story-front{z-index:5;transform:translate3d(calc(var(--story-px,0) * 22px + var(--story-shift,0) * 26px),calc(var(--story-py,0) * 12px),0) scale(1.08);transition:transform .32s cubic-bezier(.22,1,.36,1);filter:drop-shadow(0 18px 34px rgba(0,0,0,.65))}
+.forest-story-shade{z-index:6;background:linear-gradient(90deg,#06110ef2,#06110eb5 34%,#06110e18 66%),linear-gradient(0deg,#080f0c 0%,transparent 22%,#080f0c52);pointer-events:none}
+.forest-story-top,.forest-story-copy,.forest-story-navigation{z-index:7}
+
+/* Stage 01: Tanah dan air — flowing stream ripples, sunbeam pulse, rising mist */
+.forest-story-fx-water .forest-story-fx-a{background:radial-gradient(ellipse 46% 58% at 66% 24%,rgba(175,235,190,.22),transparent 70%),linear-gradient(125deg,transparent 38%,rgba(186,240,198,.14) 52%,transparent 66%);mix-blend-mode:screen;animation:storySunbeamPulse 7.5s ease-in-out infinite alternate}
+.forest-story-fx-water .forest-story-fx-b{top:48%;left:32%;right:-8%;bottom:-6%;background:repeating-linear-gradient(172deg,transparent 0 28px,rgba(140,225,205,.12) 28px 34px,transparent 34px 68px),radial-gradient(ellipse 55% 28% at 68% 72%,rgba(110,210,185,.20),transparent 72%);mix-blend-mode:screen;animation:storyStreamFlow 6.2s linear infinite}
+.forest-story-fx-water .forest-story-fx-c{background:radial-gradient(circle 3px at 56% 74%,rgba(210,255,235,.75),transparent 100%),radial-gradient(circle 2.5px at 68% 66%,rgba(195,250,225,.7),transparent 100%),radial-gradient(circle 3.5px at 78% 78%,rgba(210,255,235,.65),transparent 100%),radial-gradient(circle 2px at 62% 58%,rgba(210,255,235,.6),transparent 100%),radial-gradient(ellipse 48% 22% at 66% 64%,rgba(165,228,202,.18),transparent 72%);animation:storyMistRise 8.5s ease-in-out infinite alternate}
+
+/* Stage 02: Satwa dan habitat — drifting post-fire smoke, rising embers, ground heat */
+.forest-story-fx-habitat .forest-story-fx-a{background:radial-gradient(ellipse 55% 32% at 68% 48%,rgba(225,145,82,.22),transparent 72%),radial-gradient(ellipse 44% 28% at 52% 62%,rgba(195,122,68,.18),transparent 70%);mix-blend-mode:screen;animation:storySmokeRoll 10s ease-in-out infinite alternate}
+.forest-story-fx-habitat .forest-story-fx-b{background:radial-gradient(circle 3px at 54% 78%,rgba(255,168,76,.85),transparent 100%),radial-gradient(circle 2.5px at 64% 84%,rgba(255,140,56,.8),transparent 100%),radial-gradient(circle 3.5px at 76% 72%,rgba(255,185,95,.75),transparent 100%),radial-gradient(circle 2px at 84% 80%,rgba(255,152,64,.8),transparent 100%),radial-gradient(circle 2.5px at 59% 64%,rgba(255,176,88,.7),transparent 100%);animation:storyEmbersRise 7.2s linear infinite}
+.forest-story-fx-habitat .forest-story-fx-c{background:radial-gradient(ellipse 48% 20% at 66% 84%,rgba(235,112,42,.20),transparent 72%);mix-blend-mode:screen;animation:storyHeatPulse 5.2s ease-in-out infinite alternate}
+
+/* Stage 03: Manusia dan udara — rolling transboundary smog banks & airborne PM2.5 particulates */
+.forest-story-fx-air .forest-story-fx-a{background:radial-gradient(ellipse 62% 28% at 64% 42%,rgba(218,192,158,.26),transparent 74%),radial-gradient(ellipse 54% 24% at 74% 64%,rgba(202,178,146,.22),transparent 72%);animation:storyHazeDriftA 12s ease-in-out infinite alternate}
+.forest-story-fx-air .forest-story-fx-b{background:radial-gradient(ellipse 58% 22% at 58% 56%,rgba(212,188,156,.22),transparent 72%),linear-gradient(90deg,transparent 24%,rgba(205,182,150,.14) 58%,transparent 92%);animation:storyHazeDriftB 9s ease-in-out infinite alternate}
+.forest-story-fx-air .forest-story-fx-c{background:radial-gradient(circle 2.5px at 52% 46%,rgba(238,220,195,.55),transparent 100%),radial-gradient(circle 2px at 66% 38%,rgba(238,220,195,.5),transparent 100%),radial-gradient(circle 3px at 78% 52%,rgba(238,220,195,.52),transparent 100%),radial-gradient(circle 2px at 61% 64%,rgba(238,220,195,.48),transparent 100%);animation:storyParticulateFloat 8.5s linear infinite}
+
+/* Stage 04: Iklim dan karbon — water-table shimmer, rising subterranean carbon bubbles, deep peat glow */
+.forest-story-fx-carbon .forest-story-fx-a{background:radial-gradient(ellipse 58% 8% at 66% 46%,rgba(145,235,195,.28),transparent 75%);mix-blend-mode:screen;animation:storyWaterTableShimmer 6s ease-in-out infinite alternate}
+.forest-story-fx-carbon .forest-story-fx-b{background:radial-gradient(circle 3.5px at 54% 82%,rgba(110,235,205,.78),transparent 100%),radial-gradient(circle 2.5px at 64% 76%,rgba(235,192,105,.75),transparent 100%),radial-gradient(circle 3px at 73% 86%,rgba(110,235,205,.72),transparent 100%),radial-gradient(circle 2.5px at 82% 74%,rgba(235,192,105,.7),transparent 100%),radial-gradient(circle 3px at 59% 68%,rgba(120,240,210,.68),transparent 100%);animation:storyCarbonRise 8s linear infinite}
+.forest-story-fx-carbon .forest-story-fx-c{background:radial-gradient(ellipse 46% 24% at 66% 78%,rgba(72,198,172,.22),transparent 72%),radial-gradient(ellipse 36% 18% at 74% 72%,rgba(218,162,78,.18),transparent 70%);mix-blend-mode:screen;animation:storyCarbonPulse 5.6s ease-in-out infinite alternate}
+
+@keyframes storyMidBreath{0%{opacity:.74}100%{opacity:.95}}
+@keyframes storySunbeamPulse{0%{transform:translate3d(-1.2%,-1%,0) scale(1);opacity:.68}100%{transform:translate3d(1.5%,1.2%,0) scale(1.04);opacity:1}}
+@keyframes storyStreamFlow{0%{transform:translate3d(-2.5%,0,0)}50%{transform:translate3d(0,1.2%,0)}100%{transform:translate3d(2.5%,0,0)}}
+@keyframes storyMistRise{0%{transform:translate3d(-1.5%,1.8%,0);opacity:.55}100%{transform:translate3d(1.8%,-2.2%,0);opacity:.95}}
+@keyframes storySmokeRoll{0%{transform:translate3d(-3%,.8%,0) scale(1.02);opacity:.65}100%{transform:translate3d(3%,-1.2%,0) scale(1.06);opacity:.96}}
+@keyframes storyEmbersRise{0%{transform:translate3d(0,3.5%,0);opacity:.35}50%{transform:translate3d(-1.4%,0,0);opacity:.95}100%{transform:translate3d(1.2%,-4%,0);opacity:.25}}
+@keyframes storyHeatPulse{0%{opacity:.52;transform:scale(1)}100%{opacity:.94;transform:scale(1.05)}}
+@keyframes storyHazeDriftA{0%{transform:translate3d(-4%,0,0);opacity:.68}100%{transform:translate3d(4%,.8%,0);opacity:.96}}
+@keyframes storyHazeDriftB{0%{transform:translate3d(3.5%,0,0);opacity:.62}100%{transform:translate3d(-3.5%,-.8%,0);opacity:.92}}
+@keyframes storyParticulateFloat{0%{transform:translate3d(-2%,1.5%,0);opacity:.45}50%{transform:translate3d(1%,-1%,0);opacity:.9}100%{transform:translate3d(3%,-2.5%,0);opacity:.4}}
+@keyframes storyWaterTableShimmer{0%{transform:translate3d(-2%,0,0) scaleY(.92);opacity:.62}100%{transform:translate3d(2%,0,0) scaleY(1.12);opacity:.98}}
+@keyframes storyCarbonRise{0%{transform:translate3d(0,3.2%,0);opacity:.35}50%{transform:translate3d(1.1%,0,0);opacity:.92}100%{transform:translate3d(-.9%,-3.6%,0);opacity:.28}}
+@keyframes storyCarbonPulse{0%{opacity:.55;transform:scale(.98)}100%{opacity:.96;transform:scale(1.04)}}
+.forest-story-top{position:absolute;top:32px;left:6vw;right:6vw;display:flex;justify-content:space-between;align-items:center;color:#e2e5d5}
+.forest-story-top>span{font:clamp(1.6rem,2.4vw,2.35rem)/1.2 Georgia,serif;letter-spacing:-.025em}
+.forest-story-top a{font-size:.72rem;color:#c0c7b5;text-decoration:none;border-bottom:1px solid #c1c7b555;padding-block:10px}
+.forest-story-copy{position:absolute;left:6vw;top:50%;width:min(480px,43vw);transform:translateY(calc(-50% + 8px));opacity:0;visibility:hidden;transition:opacity .3s ease,transform .4s ease,visibility .3s;pointer-events:none}
+.forest-story-copy.is-current{opacity:1;visibility:visible;transform:translateY(-50%);pointer-events:auto}
+.forest-story-static-image,.forest-story-static-animal{display:none}
+.forest-story-label{font-size:.76rem;color:#c7caaf;margin:0 0 22px;letter-spacing:.02em}.forest-story-label>span{margin-right:16px;color:#a8b299;font-size:.64rem}
+.why-page .forest-story-copy h2{font-size:clamp(2rem,3vw,3.25rem);line-height:1.12;margin:0 0 24px}
+.forest-story-body{font-size:clamp(.9rem,1.05vw,1.02rem);line-height:1.85;color:#e0e3d8;max-width:425px;margin:0}
+.forest-story-links{display:flex;align-items:center;gap:26px;flex-wrap:wrap;margin-top:24px}.forest-story-links .why-source-link{margin:0;font-size:.7rem}
+.forest-story-hotspot{background:none;border:0;color:#d1d7c1;padding:0;min-height:44px;font-size:.72rem;display:flex;align-items:center;gap:12px}
+.forest-story-soil-label{color:#c1bea5;font-size:.7rem;line-height:1.6;margin:20px 0 0;padding-left:14px;border-left:1px solid #c1bea55c}
+.forest-story-navigation{position:absolute;bottom:25px;left:6vw;right:6vw}
+.forest-story-track{position:relative;display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid #c3ccb52b}
+.forest-story-progress{position:absolute;top:-1px;left:0;height:1px;width:100%;background:#d7d9b6;transform:scaleX(0);transform-origin:left;will-change:transform;pointer-events:none}
+.forest-story-track button{border:0;background:none;color:#a2ad98;text-align:left;padding:13px 5px 0;min-height:44px;display:flex;gap:10px;align-items:center;font-size:.69rem}.forest-story-track button>span:first-child{font-size:.58rem;color:#88957e}.forest-story-track button[aria-current=step]{color:#f3efdb}
+.forest-context-dialog{background:#101b15;color:#e3e6d7;border:1px solid #80927255;width:min(540px,calc(100% - 40px));padding:44px;max-height:90svh;overscroll-behavior:contain}.forest-context-dialog::backdrop{background:#020805c9}.forest-context-dialog h2{font:2rem/1.2 Georgia,serif;margin-block:20px}.forest-context-dialog>p:not(.forest-story-label){font-size:.95rem;line-height:1.9}.forest-context-close{position:absolute;top:10px;right:12px;border:0;background:none;color:#d6decc;width:44px;font-size:1.5rem}
+.why-intro-copy .why-page-title{font:clamp(1.8rem,2.6vw,2.6rem)/1.2 Georgia,serif!important;letter-spacing:-.025em;color:#e5e6d5!important;max-width:none!important;margin:16px 0 22px}
+.why-intro h1{margin-top:22px}
+@media(max-width:700px){
+ .forest-story{height:430svh}.forest-story-top{top:22px;left:24px;right:24px;gap:15px}.forest-story-top>span{font-size:1.55rem}.forest-story-top a{font-size:.59rem;white-space:nowrap}
+ .forest-story-back,.forest-story-mid,.forest-story-front{object-position:72% center}.forest-story-shade{background:linear-gradient(0deg,#07100dfc 0%,#07100de8 45%,#07100d42 80%)}
+ .forest-story-copy{left:24px;right:24px;top:auto;bottom:98px;width:auto;transform:translateY(8px)}.forest-story-copy.is-current{transform:none}
+ .why-page .forest-story-copy h2{font-size:clamp(1.8rem,6.8vw,2.3rem);margin-bottom:20px;max-width:430px}
+ .forest-story-label{margin-bottom:15px;font-size:.69rem}.forest-story-body{font-size:.86rem;line-height:1.8}.forest-story-links{margin-top:17px;gap:22px}.forest-story-links .why-source-link,.forest-story-hotspot{font-size:.67rem}
+ .forest-story-animal{width:68%;height:35%;right:-8%;bottom:53%;opacity:0}.forest-story-navigation{bottom:23px;left:24px;right:24px}.forest-story-track button{justify-content:center;padding-top:14px}.forest-story-track button>span:last-child{display:none}.forest-story-track button>span:first-child{font-size:.73rem}.forest-context-dialog{padding:36px 25px}.forest-context-dialog h2{font-size:1.65rem}
+ .forest-story-soil-label{margin-top:14px;font-size:.65rem}
+}
+/* Layar pendek dan reduced motion memakai bab mengalir, tanpa scroll bersarang. */
+@media(prefers-reduced-motion:reduce),(max-height:650px),(max-width:700px) and (max-height:740px){
+ .forest-story{height:auto}.forest-story-stage{height:auto;position:relative;overflow:clip;contain:none;padding-top:95px}
+ .forest-story-images,.forest-story-shade,.forest-story-animal{display:none}
+ .forest-story-top{top:25px}.forest-story-copy,.forest-story-copy.is-current{position:relative;left:auto;right:auto;top:auto;bottom:auto;width:100%;min-height:100svh;padding:250px 7vw 90px;opacity:1;visibility:visible;transform:none;pointer-events:auto;transition:none;isolation:isolate}
+ .forest-story-static-image{display:block;position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:70% center;z-index:-2}
+ .forest-story-copy:after{content:'';position:absolute;inset:0;background:linear-gradient(0deg,#07100dfc,#07100dc4 55%,#07100d22);z-index:-1}
+ .forest-story-static-animal{display:block;position:absolute;right:0;top:0;width:60%;height:50%;object-fit:contain;z-index:-1}
+ .forest-story-reading{max-width:480px}.forest-story-navigation{position:relative;left:auto;right:auto;bottom:auto;margin:20px 24px}
+}
+.why-page .forest-context-dialog h2{font-size:2rem;line-height:1.2}
+@media(max-width:700px){.why-page .forest-context-dialog h2{font-size:1.65rem}}

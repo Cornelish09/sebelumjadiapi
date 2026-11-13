@@ -1,0 +1,40 @@
+{
+  "createdAt": "2026-11-12",
+  "description": "Natural 2.5D multi-plane background visuals (backplate, atmospheric midground, foreground plane) for all 4 stages of ForestStory in 01 / Why It Matters.",
+  "stages": {
+    "01-tanah-dan-air": {
+      "back": "/assets/images/why-it-matters/story-25d/stage-01-back.webp",
+      "mid": "/assets/images/why-it-matters/story-25d/stage-01-mid.webp",
+      "front": "/assets/images/why-it-matters/story-25d/stage-01-front.webp",
+      "sources": [
+        "Wikimedia Commons: File:Tajor waterfall - Natural pool - Bako National Park - Sarawak - Borneo - Malaysia - panoramio.jpg (CC BY 3.0)",
+        "First-party rainforest watershed & mossy riverbank plates (fact_air_back, water-back, foreground-alive)"
+      ]
+    },
+    "02-satwa-dan-habitat": {
+      "back": "/assets/images/why-it-matters/story-25d/stage-02-back.webp",
+      "mid": "/assets/images/why-it-matters/story-25d/stage-02-mid.webp",
+      "front": "/assets/images/why-it-matters/story-25d/stage-02-front.webp",
+      "animal": "/assets/images/why-it-matters/story-25d/stage-02-orangutan.webp",
+      "sources": [
+        "First-party post-fire Borneo habitat & survivor orangutan plates (fact_bara_back, eco_world_broken, foreground-ash, orangutan-risk)"
+      ]
+    },
+    "03-manusia-dan-udara": {
+      "back": "/assets/images/why-it-matters/story-25d/stage-03-back.webp",
+      "mid": "/assets/images/why-it-matters/story-25d/stage-03-mid.webp",
+      "front": "/assets/images/why-it-matters/story-25d/stage-03-front.webp",
+      "sources": [
+        "Wikimedia Commons: File:Kabut Asap di Tengah Sungai Kapuas Teluk Batang Kota, Kayong Utara.jpg (CC BY-SA 4.0)"
+      ]
+    },
+    "04-iklim-dan-karbon": {
+      "back": "/assets/images/why-it-matters/story-25d/stage-04-back.webp",
+      "mid": "/assets/images/why-it-matters/story-25d/stage-04-mid.webp",
+      "front": "/assets/images/why-it-matters/story-25d/stage-04-front.webp",
+      "sources": [
+        "First-party subterranean peat-dome & root-carbon cross-section plates (eco_peatdome_back, eco_mycorrhiza_back)"
+      ]
+    }
+  }
+}

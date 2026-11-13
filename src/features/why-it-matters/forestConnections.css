@@ -1,0 +1,1003 @@
+.why-connections {
+  position: relative;
+}
+
+.why-connections-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 18px 28px;
+  margin-bottom: 24px;
+}
+
+.why-header-copy {
+  max-width: 560px;
+}
+
+.why-connections .why-connections-title {
+  font-size: clamp(1.75rem, 2.5vw, 2.4rem);
+  margin: 0 0 8px;
+  line-height: 1.18;
+  color: #eeebdf;
+}
+
+.why-connections-lead {
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.55;
+  color: #b4bcaf;
+}
+
+/* Switch Tanpa Titik & Tanpa Warna Hijau (Neutral Charcoal + Ivory Timbul) */
+.why-sim-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px;
+  border-radius: 12px;
+  background: #0e1310;
+  border: 1px solid rgba(238, 235, 223, 0.14);
+  box-shadow:
+    0 12px 26px -10px rgba(0, 0, 0, 0.8),
+    inset 0 1px 0 rgba(255, 255, 255, 0.06);
+}
+
+.why-sim-switch button {
+  min-height: 38px;
+  padding: 7px 15px;
+  border: 1px solid transparent;
+  border-radius: 9px;
+  background: transparent;
+  color: #9ea69a;
+  font-size: 0.76rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.why-sim-switch button:hover {
+  color: #eeebdf;
+}
+
+.why-sim-switch button.is-active {
+  background: #1a201c;
+  color: #eeebdf;
+  border-color: rgba(238, 235, 223, 0.22);
+  box-shadow:
+    0 4px 12px rgba(0, 0, 0, 0.5),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+
+.why-sim-switch button.is-active.is-warning {
+  background: #281b13;
+  color: #f4dec8;
+  border-color: rgba(226, 175, 125, 0.34);
+}
+
+/* Grid Utama: Kanvas 16:9 dan Kartu Kanan Terkunci pada Tinggi yang Sama Persis */
+.why-connections .why-explore-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.6fr) minmax(330px, 1fr);
+  gap: 20px;
+  align-items: stretch;
+  border-block: 0;
+}
+
+/* Kanvas Panggung 16:9 Murni: Tidak Pernah Melar Karena Teks Kanan */
+.why-connections .why-hotspot-scene {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  align-self: start;
+  overflow: hidden;
+  border-radius: 16px;
+  background: #0a100d;
+  border: 1px solid rgba(238, 235, 223, 0.14);
+  box-shadow:
+    0 24px 50px -18px rgba(0, 0, 0, 0.85),
+    0 6px 16px -4px rgba(0, 0, 0, 0.55),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  contain: layout paint;
+  --depth-x: 0;
+  --depth-y: 0;
+}
+
+.why-connections .why-hotspot-world {
+  position: absolute;
+  inset: 0;
+  transform-origin: center;
+  transition: transform 860ms cubic-bezier(0.2, 0.75, 0.2, 1), filter 500ms ease;
+  will-change: transform;
+}
+
+.why-connections .why-hotspot-world > img.why-world-img {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transform: translate3d(
+    calc(var(--depth-x, 0) * -6px),
+    calc(var(--depth-y, 0) * -4px),
+    0
+  ) scale(1.02);
+  transition:
+    opacity 420ms ease,
+    transform 240ms cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+.why-connections .why-hotspot-world > img.why-world-img.is-active {
+  opacity: 1;
+}
+
+.why-connections .why-hotspot-wash {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at 50% 50%, transparent 55%, rgba(5, 9, 7, 0.45) 100%),
+    linear-gradient(180deg, rgba(5, 10, 8, 0.22) 0%, transparent 20%, transparent 78%, rgba(5, 10, 8, 0.55) 100%);
+}
+
+/* Garis Penghubung Stabil Tanpa Animasi Gerak yang Mengganggu */
+.why-eco-web {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.why-connections .why-hotspot-scene.has-focus .why-eco-web {
+  opacity: 0;
+}
+
+.why-eco-edge {
+  fill: none;
+  stroke: rgba(238, 235, 223, 0.24);
+  stroke-width: 0.32;
+  stroke-dasharray: 1.4 1.4;
+  animation: none;
+  transition: stroke 0.25s ease, stroke-width 0.25s ease;
+}
+
+.why-eco-edge.is-lit {
+  stroke: rgba(238, 235, 223, 0.78);
+  stroke-width: 0.52;
+}
+
+.why-eco-edge.is-stressed {
+  stroke: rgba(226, 168, 112, 0.38);
+}
+
+.why-eco-edge.is-stressed.is-lit {
+  stroke: #eab076;
+  stroke-width: 0.56;
+}
+
+/* Titik Hotspot: Bulatan Stabil Tanpa Denyut / Scale Berubah-ubah */
+.why-connections .why-hotspot {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  min-width: 34px;
+  min-height: 34px;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  background: transparent;
+  transform: translate(-50%, -50%);
+  display: grid;
+  place-items: center;
+  z-index: 3;
+  cursor: pointer;
+  transition: opacity 0.25s ease;
+}
+
+.why-connections .why-hotspot-scene.has-focus .why-hotspot {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.why-connections .why-hotspot-scene.has-focus .why-hotspot:focus-visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.why-connections .why-hotspot-dot {
+  position: relative;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: #eeebdf;
+  border: 2px solid #090f0c;
+  box-shadow: 0 0 0 4px rgba(238, 235, 223, 0.22), 0 3px 10px rgba(0, 0, 0, 0.75);
+  transform: none !important;
+  transition: background-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.why-connections.is-disrupted .why-hotspot-dot {
+  background: #ecc399;
+}
+
+/* Matikan animasi why-breathe dari whyItMatters.css agar tidak denyut-denyut */
+.why-connections .why-hotspot-dot:after,
+.why-connections .why-hotspot.is-selected .why-hotspot-dot:after {
+  content: '';
+  position: absolute;
+  inset: -6px;
+  border-radius: 50%;
+  border: 1px solid rgba(238, 235, 223, 0.48);
+  animation: none !important;
+  transform: none !important;
+  opacity: 1;
+  transition: border-color 0.2s ease;
+}
+
+/* Label Titik Terkunci di Kanan Titik Tanpa Bergeser Saat Hover */
+.why-connections .why-hotspot .why-hotspot-label,
+.why-connections .why-hotspot:hover .why-hotspot-label,
+.why-connections .why-hotspot:focus-visible .why-hotspot-label,
+.why-connections .why-hotspot.is-selected .why-hotspot-label {
+  position: absolute;
+  top: 50%;
+  left: calc(100% + 4px);
+  transform: translateY(-50%) !important;
+  opacity: 1;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 11px;
+  border-radius: 999px;
+  background: rgba(11, 16, 13, 0.92);
+  border: 1px solid rgba(238, 235, 223, 0.24);
+  color: #eeebdf;
+  font-size: 0.72rem;
+  font-weight: 500;
+  white-space: nowrap;
+  pointer-events: auto;
+  box-shadow:
+    0 8px 18px rgba(0, 0, 0, 0.65),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.why-connections .why-hotspot.is-label-left .why-hotspot-label,
+.why-connections .why-hotspot.is-label-left:hover .why-hotspot-label,
+.why-connections .why-hotspot.is-label-left:focus-visible .why-hotspot-label,
+.why-connections .why-hotspot.is-label-left.is-selected .why-hotspot-label {
+  left: auto;
+  right: calc(100% + 4px);
+}
+
+.why-connections .why-hotspot .why-hotspot-label em {
+  font-style: normal;
+  font-size: 0.65rem;
+  color: #c8c29e;
+  font-weight: 700;
+}
+
+.why-connections .why-hotspot:hover .why-hotspot-dot,
+.why-connections .why-hotspot.is-neighbor .why-hotspot-dot {
+  box-shadow: 0 0 0 6px rgba(238, 235, 223, 0.34), 0 3px 10px rgba(0, 0, 0, 0.8);
+}
+
+.why-connections .why-hotspot:hover .why-hotspot-dot:after,
+.why-connections .why-hotspot.is-neighbor .why-hotspot-dot:after {
+  border-color: rgba(238, 235, 223, 0.9);
+}
+
+.why-connections .why-hotspot:hover .why-hotspot-label,
+.why-connections .why-hotspot.is-neighbor .why-hotspot-label {
+  background: #17201b;
+  border-color: rgba(238, 235, 223, 0.58);
+}
+
+/* Layer Morph 16-titik & Cutout 2.5D di Panggung */
+.why-morph-layer {
+  position: absolute;
+  inset: 0;
+  z-index: 4;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  background: #09100d;
+  transition:
+    clip-path 760ms cubic-bezier(0.16, 0.84, 0.28, 1),
+    opacity 340ms ease,
+    visibility 760ms;
+  will-change: clip-path, opacity;
+}
+
+.why-morph-layer.is-visible {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+
+.why-morph-back-wrap {
+  position: absolute;
+  inset: -4%;
+  overflow: hidden;
+}
+
+.why-morph-back {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: translate3d(
+    calc(var(--depth-x, 0) * -12px),
+    calc(var(--depth-y, 0) * -8px),
+    0
+  ) scale(1.05);
+  transition: transform 240ms cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+.why-morph-atmosphere {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(90deg, rgba(6, 12, 9, 0.68) 0%, rgba(6, 12, 9, 0.2) 45%, transparent 78%),
+    linear-gradient(0deg, rgba(5, 10, 8, 0.75) 0%, transparent 34%);
+}
+
+.why-morph-front-wrap {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.why-morph-front {
+  position: relative;
+  object-fit: contain;
+  pointer-events: none;
+  opacity: 0;
+  transform: translate3d(
+    calc(var(--depth-x, 0) * 14px),
+    calc(var(--depth-y, 0) * 10px),
+    0
+  ) scale(1);
+  filter: drop-shadow(-14px 20px 26px rgba(0, 0, 0, 0.68));
+  transition:
+    transform 360ms cubic-bezier(0.2, 0.75, 0.25, 1),
+    opacity 420ms ease 80ms;
+}
+
+.why-morph-layer.is-visible .why-morph-front {
+  opacity: 1;
+  transform: translate3d(
+    calc(var(--depth-x, 0) * 14px),
+    calc(var(--depth-y, 0) * 10px),
+    0
+  ) scale(1);
+}
+
+.why-morph-front--canopy {
+  width: min(55%, 470px);
+  max-height: 78%;
+  margin-right: 4%;
+  margin-bottom: 3%;
+}
+
+.why-morph-front--hornbill {
+  width: min(62%, 520px);
+  max-height: 82%;
+  margin-right: 2%;
+  margin-top: 5%;
+}
+
+.why-morph-front--mycorrhiza {
+  width: min(38%, 330px);
+  max-height: 82%;
+  margin-right: 9%;
+}
+
+.why-morph-front--peatdome {
+  width: min(55%, 470px);
+  max-height: 72%;
+  margin-right: 4%;
+  margin-top: 6%;
+}
+
+.why-connections.is-disrupted .why-morph-atmosphere {
+  background: radial-gradient(circle at 60% 54%, transparent 48%, rgba(5, 8, 10, 0.58) 100%);
+}
+
+.why-connections.is-disrupted .why-morph-front--hornbill,
+.why-connections.is-disrupted .why-morph-front--mycorrhiza,
+.why-connections.is-disrupted .why-morph-front--peatdome {
+  width: 104%;
+  height: 104%;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  object-fit: cover;
+  filter: drop-shadow(-16px 18px 28px rgba(0, 0, 0, 0.85));
+}
+
+.why-scene-topbar {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  z-index: 6;
+}
+
+.why-connections .why-focus-reset {
+  border-radius: 10px;
+  border: 1px solid rgba(238, 235, 223, 0.26);
+  background: rgba(12, 17, 14, 0.9);
+  color: #eeebdf;
+  min-height: 36px;
+  padding: 6px 13px;
+  font-size: 0.73rem;
+  font-weight: 500;
+  cursor: pointer;
+  box-shadow:
+    0 10px 22px rgba(0, 0, 0, 0.6),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.why-connections .why-focus-reset:hover {
+  background: #1a231e;
+  border-color: rgba(238, 235, 223, 0.48);
+}
+
+/* Kanan: Kartu Timbul dengan Tinggi Terkunci Sama Persis dengan Kanvas 16:9 (Tidak Pernah Membesar/Mengecil!) */
+.why-connections .why-info-panel {
+  box-sizing: border-box;
+  height: 0;
+  min-height: 100%;
+  max-height: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  padding: 18px 20px 16px;
+  border-radius: 16px;
+  background: linear-gradient(180deg, #141a16 0%, #0d120f 100%);
+  border: 1px solid rgba(238, 235, 223, 0.14);
+  box-shadow:
+    0 24px 50px -18px rgba(0, 0, 0, 0.85),
+    0 6px 16px -4px rgba(0, 0, 0, 0.55),
+    inset 0 1px 0 rgba(255, 255, 255, 0.09);
+}
+
+.why-connections.is-disrupted .why-info-panel {
+  background: linear-gradient(180deg, #1b1510 0%, #100d0a 100%);
+  border-color: rgba(226, 175, 125, 0.24);
+}
+
+.why-story-progress {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 6px;
+  margin-bottom: 10px;
+  flex-shrink: 0;
+}
+
+.why-story-bar {
+  height: 3px;
+  border-radius: 999px;
+  background: rgba(238, 235, 223, 0.12);
+  transition: background-color 0.2s ease;
+}
+
+.why-story-bar.is-filled {
+  background: rgba(238, 235, 223, 0.42);
+}
+
+.why-story-bar.is-current {
+  background: #eeebdf;
+}
+
+/* Matikan animasi why-copy-in dari whyItMatters.css dan kunci flex container */
+.why-connections .why-panel-copy,
+.why-connections .why-panel-empty {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+  gap: 8px;
+  padding: 0;
+  animation: none !important;
+}
+
+.why-panel-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.why-connections .why-panel-top .why-kicker {
+  margin: 0;
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: #c8c29e;
+}
+
+.why-close-btn {
+  display: inline-grid;
+  place-items: center;
+  min-width: 28px;
+  min-height: 28px;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 1px solid rgba(238, 235, 223, 0.18);
+  background: rgba(255, 255, 255, 0.03);
+  color: #dedcd0;
+  font-size: 0.95rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.why-close-btn:hover {
+  border-color: rgba(238, 235, 223, 0.42);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.why-connections .why-panel-copy h3,
+.why-connections .why-panel-empty h3 {
+  font-size: clamp(1.12rem, 1.35vw, 1.32rem);
+  line-height: 1.22;
+  margin: 0;
+  color: #eeebdf;
+  flex-shrink: 0;
+}
+
+.why-connections .why-panel-lead {
+  margin: 0;
+  font-size: 0.77rem;
+  line-height: 1.44;
+  color: #c2c8be;
+  flex-shrink: 0;
+}
+
+.why-detail-tabs {
+  display: inline-grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 4px;
+  padding: 3px;
+  border-radius: 9px;
+  background: #0a0e0c;
+  border: 1px solid rgba(238, 235, 223, 0.12);
+  flex-shrink: 0;
+}
+
+.why-detail-tabs button {
+  min-height: 28px;
+  padding: 4px 8px;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: #9ca498;
+  font-size: 0.71rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.why-detail-tabs button.is-active {
+  background: #1b211d;
+  color: #eeebdf;
+  box-shadow:
+    0 3px 8px rgba(0, 0, 0, 0.45),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+}
+
+/* Kotak Isi: Mengisi Ruang Tersedia & Scroll di Dalam Jika Teks Panjang (Tidak Pernah Memanjangkan Kartu/Frame!) */
+.why-detail-card {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  padding: 10px 12px;
+  border-radius: 10px;
+  background: #171d19;
+  border: 1px solid rgba(238, 235, 223, 0.11);
+  box-shadow:
+    0 8px 18px -10px rgba(0, 0, 0, 0.6),
+    inset 0 1px 0 rgba(255, 255, 255, 0.06);
+}
+
+.why-connections.is-disrupted .why-detail-card {
+  background: #211812;
+  border-color: rgba(226, 175, 125, 0.18);
+}
+
+.why-detail-card > p {
+  margin: 0;
+  font-size: 0.76rem;
+  line-height: 1.46;
+  color: #d6dbd2;
+}
+
+.why-bridge-line {
+  margin-top: 7px !important;
+  padding-top: 7px;
+  border-top: 1px solid rgba(238, 235, 223, 0.1);
+  color: #b5bcaf !important;
+  font-size: 0.72rem !important;
+}
+
+.why-indicator-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  gap: 7px;
+}
+
+.why-indicator-list li {
+  position: relative;
+  padding-left: 14px;
+  font-size: 0.76rem;
+  line-height: 1.45;
+  color: #d4dad0;
+}
+
+.why-indicator-list li:before {
+  content: '•';
+  position: absolute;
+  left: 2px;
+  top: 0;
+  color: #c8c29e;
+}
+
+/* Daftar Urutan 01-04 di Panel Kanan: Terbagi Rata & Tanpa Efek Loncat (No translateY) */
+.why-overview-steps {
+  list-style: none;
+  margin: 2px 0 0;
+  padding: 0;
+  flex: 1;
+  min-height: 0;
+  display: grid;
+  grid-template-rows: repeat(4, minmax(0, 1fr));
+  gap: 6px;
+}
+
+.why-overview-steps li {
+  min-height: 0;
+  display: flex;
+}
+
+.why-overview-steps li button {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 11px;
+  border-radius: 10px;
+  border: 1px solid rgba(238, 235, 223, 0.12);
+  background: #171d19;
+  color: #eeebdf;
+  text-align: left;
+  cursor: pointer;
+  transform: none !important;
+  box-shadow:
+    0 6px 14px -6px rgba(0, 0, 0, 0.6),
+    inset 0 1px 0 rgba(255, 255, 255, 0.06);
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.why-overview-steps li button:hover {
+  background: #1e2621;
+  border-color: rgba(238, 235, 223, 0.36);
+}
+
+.why-step-num {
+  display: grid;
+  place-items: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 6px;
+  background: rgba(238, 235, 223, 0.08);
+  color: #c8c29e;
+  font-size: 0.68rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.why-step-text {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-width: 0;
+}
+
+.why-step-text strong {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #eeebdf;
+  line-height: 1.2;
+}
+
+.why-step-text small {
+  font-size: 0.68rem;
+  color: #a3aba0;
+  line-height: 1.2;
+}
+
+.why-step-arrow {
+  margin-left: auto;
+  color: #9ba397;
+  font-size: 0.82rem;
+}
+
+/* Footer Panel */
+.why-panel-footer {
+  margin-top: auto;
+  padding-top: 8px;
+  border-top: 1px solid rgba(238, 235, 223, 0.11);
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  flex-shrink: 0;
+}
+
+.why-source-row {
+  display: flex;
+  align-items: center;
+}
+
+.why-connections .why-source-link {
+  margin-top: 0;
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(238, 235, 223, 0.2);
+  background: rgba(255, 255, 255, 0.03);
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 0.68rem;
+  color: #d0ccb4;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: border-color 0.2s ease, background-color 0.2s ease, color 0.2s ease;
+}
+
+.why-connections .why-source-link:hover {
+  color: #faf7e6;
+  background: rgba(255, 255, 255, 0.07);
+  border-color: rgba(238, 235, 223, 0.42);
+}
+
+.why-sequential-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.why-btn-prev {
+  min-height: 35px;
+  padding: 6px 11px;
+  border-radius: 9px;
+  border: 1px solid rgba(238, 235, 223, 0.18);
+  background: #141916;
+  color: #d6dbd2;
+  font-size: 0.73rem;
+  font-weight: 500;
+  cursor: pointer;
+  white-space: nowrap;
+  transform: none !important;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.45);
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.why-btn-prev:hover {
+  background: #1c231f;
+  border-color: rgba(238, 235, 223, 0.36);
+}
+
+.why-btn-next {
+  flex: 1;
+  min-height: 35px;
+  padding: 6px 12px;
+  border-radius: 9px;
+  border: 1px solid rgba(238, 235, 223, 0.32);
+  background: #202723;
+  color: #eeebdf;
+  font-size: 0.74rem;
+  font-weight: 600;
+  cursor: pointer;
+  transform: none !important;
+  box-shadow:
+    0 8px 18px -6px rgba(0, 0, 0, 0.7),
+    inset 0 1px 0 rgba(255, 255, 255, 0.14);
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.why-btn-next:hover {
+  background: #29322d;
+  border-color: rgba(238, 235, 223, 0.55);
+}
+
+.why-btn-start {
+  width: 100%;
+}
+
+/* 4 Kartu Timbul di Bawah: Ukuran Tetap & Tanpa Loncat Saat Hover/Hold */
+.why-connections .why-connection-index {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 18px;
+}
+
+.why-connections .why-connection-index .why-step-card {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: 6px;
+  height: 78px;
+  min-height: 78px;
+  max-height: 78px;
+  padding: 13px 16px;
+  border-radius: 14px;
+  background: linear-gradient(180deg, #151b17 0%, #0e1310 100%);
+  border: 1px solid rgba(238, 235, 223, 0.14);
+  color: #d4dad0;
+  text-align: left;
+  cursor: pointer;
+  transform: none !important;
+  box-shadow:
+    0 12px 26px -12px rgba(0, 0, 0, 0.8),
+    0 3px 8px rgba(0, 0, 0, 0.45),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  transition:
+    box-shadow 0.2s ease,
+    border-color 0.2s ease,
+    background 0.2s ease;
+}
+
+.why-connections .why-connection-index .why-step-card:hover {
+  border-color: rgba(238, 235, 223, 0.38);
+  background: linear-gradient(180deg, #1b221e 0%, #121814 100%);
+  box-shadow:
+    0 16px 30px -12px rgba(0, 0, 0, 0.88),
+    0 4px 12px rgba(0, 0, 0, 0.5),
+    inset 0 1px 0 rgba(255, 255, 255, 0.12);
+}
+
+.why-connections .why-connection-index .why-step-card.is-current {
+  border-color: rgba(238, 235, 223, 0.58);
+  background: linear-gradient(180deg, #202823 0%, #141a16 100%);
+  color: #eeebdf;
+  box-shadow:
+    0 18px 34px -10px rgba(0, 0, 0, 0.92),
+    0 6px 14px rgba(0, 0, 0, 0.55),
+    inset 0 1px 0 rgba(255, 255, 255, 0.16);
+}
+
+.why-index-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: #c8c29e;
+}
+
+.why-index-check {
+  color: #eeebdf;
+  font-weight: 700;
+}
+
+.why-index-title {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+}
+
+.why-index-title strong {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #eeebdf;
+  line-height: 1.2;
+}
+
+.why-index-title small {
+  font-size: 0.71rem;
+  color: #9ea69a;
+  line-height: 1.2;
+}
+
+/* Responsif Tablet & Mobile: Tinggi Kartu Kanan Tetap Terkunci Stabil */
+@media (max-width: 1020px) {
+  .why-connections .why-explore-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .why-connections .why-info-panel {
+    height: 400px;
+    min-height: 400px;
+    max-height: 400px;
+  }
+
+  .why-connections .why-connection-index {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 700px) {
+  .why-connections-header {
+    align-items: flex-start;
+  }
+
+  .why-sim-switch {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .why-sim-switch button {
+    flex: 1;
+    justify-content: center;
+    padding: 8px 10px;
+    font-size: 0.72rem;
+  }
+
+  .why-connections .why-info-panel {
+    height: 410px;
+    min-height: 410px;
+    max-height: 410px;
+    padding: 16px;
+  }
+
+  .why-connections .why-hotspot .why-hotspot-label,
+  .why-connections .why-hotspot:hover .why-hotspot-label,
+  .why-connections .why-hotspot:focus-visible .why-hotspot-label,
+  .why-connections .why-hotspot.is-selected .why-hotspot-label {
+    font-size: 0.62rem;
+    padding: 4px 8px;
+  }
+
+  .why-morph-front--canopy,
+  .why-morph-front--hornbill,
+  .why-morph-front--peatdome {
+    width: 65%;
+  }
+
+  .why-morph-front--mycorrhiza {
+    width: 46%;
+  }
+
+  .why-connections .why-connection-index {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .why-connections .why-hotspot-world,
+  .why-connections .why-hotspot-world > img,
+  .why-morph-layer,
+  .why-morph-back,
+  .why-morph-front,
+  .why-connections .why-connection-index .why-step-card {
+    transition: none;
+    transform: none !important;
+    will-change: auto;
+  }
+
+  .why-connections .why-hotspot-dot:after,
+  .why-eco-edge {
+    animation: none !important;
+  }
+}

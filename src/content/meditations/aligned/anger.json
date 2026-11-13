@@ -1,0 +1,489 @@
+{
+  "id": "anger",
+  "label": "04 — ANGER",
+  "title": "Yang Seharusnya Tak Terjadi",
+  "theme": "Human Responsibility",
+  "intro": "Sebagian kehilangan seharusnya bisa dicegah. Episode ini mengajak kita mempertanyakan keputusan, kelalaian, dan tanggung jawab.",
+  "audioCandidatePath": "/assets/audio/meditations/anger/anger audio.mp3",
+  "audioContentsVerified": true,
+  "timingStatus": "AUTO_ALIGNED",
+  "cues": [
+    {
+      "id": "anger-001",
+      "start": 0.0,
+      "end": 2.2,
+      "text": "Kalau sebagian kehilangan itu sebenarnya bisa"
+    },
+    {
+      "id": "anger-002",
+      "start": 2.2,
+      "end": 6.22,
+      "text": "dicegah lalu kenapa masih ada yang membiarkannya"
+    },
+    {
+      "id": "anger-003",
+      "start": 6.22,
+      "end": 6.74,
+      "text": "terjadi?"
+    },
+    {
+      "id": "anger-004",
+      "start": 7.52,
+      "end": 9.42,
+      "text": "aku mencoba memahami"
+    },
+    {
+      "id": "anger-005",
+      "start": 10.24,
+      "end": 12.84,
+      "text": "mungkin ada yang hanya memikirkan bagaimana"
+    },
+    {
+      "id": "anger-006",
+      "start": 12.84,
+      "end": 14.64,
+      "text": "pekerjaan bisa selesai lebih cepat"
+    },
+    {
+      "id": "anger-007",
+      "start": 15.2,
+      "end": 17.52,
+      "text": "bagaimana lahan bisa dibuka dengan biaya lebih"
+    },
+    {
+      "id": "anger-008",
+      "start": 17.52,
+      "end": 20.62,
+      "text": "murah bagaimana keuntungan hari ini bisa didapat"
+    },
+    {
+      "id": "anger-009",
+      "start": 20.62,
+      "end": 23.2,
+      "text": "tanpa terlalu memikirkan apa yang akan terjadi"
+    },
+    {
+      "id": "anger-010",
+      "start": 23.2,
+      "end": 26.3,
+      "text": "besok tapi bagaimana dengan orang lain?"
+    },
+    {
+      "id": "anger-011",
+      "start": 26.3,
+      "end": 28.9,
+      "text": "Bagaimana dengan keluarga yang harus menghirup"
+    },
+    {
+      "id": "anger-012",
+      "start": 28.9,
+      "end": 31.18,
+      "text": "asap, padahal mereka nggak pernah ikut mengambil"
+    },
+    {
+      "id": "anger-013",
+      "start": 31.18,
+      "end": 31.88,
+      "text": "keputusan itu."
+    },
+    {
+      "id": "anger-014",
+      "start": 32.46,
+      "end": 34.6,
+      "text": "Bagaimana dengan anak-anak yang harus mengurangi"
+    },
+    {
+      "id": "anger-015",
+      "start": 34.6,
+      "end": 36.82,
+      "text": "aktivitas di luar rumah karena kualitas udara"
+    },
+    {
+      "id": "anger-016",
+      "start": 36.82,
+      "end": 37.38,
+      "text": "memburuk."
+    },
+    {
+      "id": "anger-017",
+      "start": 37.76,
+      "end": 39.62,
+      "text": "Dan bagaimana dengan satwa yang kehilangan"
+    },
+    {
+      "id": "anger-018",
+      "start": 39.62,
+      "end": 42.04,
+      "text": "habitat tanpa pernah punya kesempatan untuk"
+    },
+    {
+      "id": "anger-019",
+      "start": 42.04,
+      "end": 42.6,
+      "text": "memilih."
+    },
+    {
+      "id": "anger-020",
+      "start": 43.5,
+      "end": 45.9,
+      "text": "Kita sering mendengar bahwa kebakaran hutan dan"
+    },
+    {
+      "id": "anger-021",
+      "start": 45.9,
+      "end": 47.12,
+      "text": "lahan adalah bencana."
+    },
+    {
+      "id": "anger-022",
+      "start": 47.64,
+      "end": 50.56,
+      "text": "Dan memang, dampaknya bisa menjadi bencana bagi"
+    },
+    {
+      "id": "anger-023",
+      "start": 50.56,
+      "end": 51.82,
+      "text": "begitu banyak kehidupan."
+    },
+    {
+      "id": "anger-024",
+      "start": 52.48,
+      "end": 54.74,
+      "text": "Tapi kita juga harus berani mengakui satu hal."
+    },
+    {
+      "id": "anger-025",
+      "start": 54.74,
+      "end": 58.16,
+      "text": "Tidak semua kebakaran hanya soal cuaca panas atau"
+    },
+    {
+      "id": "anger-026",
+      "start": 58.16,
+      "end": 58.98,
+      "text": "musim kemarau."
+    },
+    {
+      "id": "anger-027",
+      "start": 59.4,
+      "end": 62.18,
+      "text": "Ada tindakan manusia yang meningkatkan risikonya."
+    },
+    {
+      "id": "anger-028",
+      "start": 62.76,
+      "end": 64.7,
+      "text": "Ada lahan yang dibakar dengan sengaja."
+    },
+    {
+      "id": "anger-029",
+      "start": 65.12,
+      "end": 67.02,
+      "text": "Ada gambut yang dikeringkan tanpa"
+    },
+    {
+      "id": "anger-030",
+      "start": 67.02,
+      "end": 68.48,
+      "text": "mempertimbangkan kerentanannya."
+    },
+    {
+      "id": "anger-031",
+      "start": 68.86,
+      "end": 72.02,
+      "text": "Dan ada keputusan yang akibatnya bisa dirasakan"
+    },
+    {
+      "id": "anger-032",
+      "start": 72.02,
+      "end": 74.24,
+      "text": "oleh orang-orang yang bahkan nggak pernah tahu"
+    },
+    {
+      "id": "anger-033",
+      "start": 74.24,
+      "end": 75.36,
+      "text": "keputusan itu dibuat."
+    },
+    {
+      "id": "anger-034",
+      "start": 75.86,
+      "end": 78.54,
+      "text": "Yang membuatku marah, bukan karena manusia nggak"
+    },
+    {
+      "id": "anger-035",
+      "start": 78.54,
+      "end": 80.02,
+      "text": "pernah melakukan kesalahan."
+    },
+    {
+      "id": "anger-036",
+      "start": 80.48,
+      "end": 81.62,
+      "text": "Kita semua bisa salah."
+    },
+    {
+      "id": "anger-037",
+      "start": 82.2,
+      "end": 84.0,
+      "text": "Tapi ketika risiko sudah diketahui,"
+    },
+    {
+      "id": "anger-038",
+      "start": 84.0,
+      "end": 86.82,
+      "text": "Ketika dampaknya sudah berulang kali terlihat,"
+    },
+    {
+      "id": "anger-039",
+      "start": 87.04,
+      "end": 89.48,
+      "text": "dan ketika masih ada yang memilih mengabaikannya,"
+    },
+    {
+      "id": "anger-040",
+      "start": 89.78,
+      "end": 92.1,
+      "text": "rasanya sulit untuk terus menganggap semuanya"
+    },
+    {
+      "id": "anger-041",
+      "start": 92.1,
+      "end": 93.54,
+      "text": "sebagai sesuatu yang biasa."
+    },
+    {
+      "id": "anger-042",
+      "start": 94.44,
+      "end": 95.86,
+      "text": "Coba pikirkan sebentar."
+    },
+    {
+      "id": "anger-043",
+      "start": 96.64,
+      "end": 98.8,
+      "text": "Seseorang mungkin hanya melihat sebidang lahan"
+    },
+    {
+      "id": "anger-044",
+      "start": 98.8,
+      "end": 99.98,
+      "text": "yang ingin dibersihkan."
+    },
+    {
+      "id": "anger-045",
+      "start": 100.56,
+      "end": 102.6,
+      "text": "Tapi bagi makhluk hidup yang tinggal di sana,"
+    },
+    {
+      "id": "anger-046",
+      "start": 103.14,
+      "end": 104.3,
+      "text": "tempat itu adalah rumah."
+    },
+    {
+      "id": "anger-047",
+      "start": 105.06,
+      "end": 107.9,
+      "text": "Bagi masyarakat di sekitarnya, udara yang bersih"
+    },
+    {
+      "id": "anger-048",
+      "start": 107.9,
+      "end": 110.08,
+      "text": "bukan kemewahan, itu kebutuhan."
+    },
+    {
+      "id": "anger-049",
+      "start": 110.08,
+      "end": 113.46,
+      "text": "Dan bagi generasi yang akan datang, hutan bukan"
+    },
+    {
+      "id": "anger-050",
+      "start": 113.46,
+      "end": 115.76,
+      "text": "sesuatu yang bisa begitu saja kita gantikan"
+    },
+    {
+      "id": "anger-051",
+      "start": 115.76,
+      "end": 116.78,
+      "text": "ketika sudah hilang."
+    },
+    {
+      "id": "anger-052",
+      "start": 117.36,
+      "end": 119.58,
+      "text": "Lalu, siapa yang harus bertanggung jawab?"
+    },
+    {
+      "id": "anger-053",
+      "start": 120.1,
+      "end": 122.42,
+      "text": "Apakah cukup hanya menunggu petugas datang ketika"
+    },
+    {
+      "id": "anger-054",
+      "start": 122.42,
+      "end": 123.42,
+      "text": "api sudah membesar?"
+    },
+    {
+      "id": "anger-055",
+      "start": 124.0,
+      "end": 126.2,
+      "text": "Apakah cukup merasa sedih setiap kali melihat"
+    },
+    {
+      "id": "anger-056",
+      "start": 126.2,
+      "end": 127.36,
+      "text": "berita tentang kebakaran?"
+    },
+    {
+      "id": "anger-057",
+      "start": 127.82,
+      "end": 130.1,
+      "text": "Lalu melupakannya ketika asap mulai menghilang?"
+    },
+    {
+      "id": "anger-058",
+      "start": 130.84,
+      "end": 132.28,
+      "text": "Aku rasa nggak."
+    },
+    {
+      "id": "anger-059",
+      "start": 132.88,
+      "end": 135.42,
+      "text": "Karena tanggung jawab nggak berhenti ketika api"
+    },
+    {
+      "id": "anger-060",
+      "start": 135.42,
+      "end": 136.6,
+      "text": "berhasil dipadamkan."
+    },
+    {
+      "id": "anger-061",
+      "start": 136.6,
+      "end": 140.34,
+      "text": "Ada keputusan yang harus diperbaiki, ada aturan"
+    },
+    {
+      "id": "anger-062",
+      "start": 140.34,
+      "end": 143.58,
+      "text": "yang harus dijalankan, ada tindakan yang harus"
+    },
+    {
+      "id": "anger-063",
+      "start": 143.58,
+      "end": 146.4,
+      "text": "dipertanggungjawabkan, dan ada lingkungan yang"
+    },
+    {
+      "id": "anger-064",
+      "start": 146.4,
+      "end": 150.22,
+      "text": "harus dijaga, bahkan ketika nggak ada kebakaran yang"
+    },
+    {
+      "id": "anger-065",
+      "start": 150.22,
+      "end": 151.26,
+      "text": "sedang diberitakan."
+    },
+    {
+      "id": "anger-066",
+      "start": 151.96,
+      "end": 155.42,
+      "text": "Kadang yang paling mengecewakan bukan kenyataan"
+    },
+    {
+      "id": "anger-067",
+      "start": 155.42,
+      "end": 158.54,
+      "text": "bahwa hutan bisa terbakar, tapi kenyataan bahwa"
+    },
+    {
+      "id": "anger-068",
+      "start": 158.54,
+      "end": 161.62,
+      "text": "kita sudah tahu risikonya dan masih ada yang"
+    },
+    {
+      "id": "anger-069",
+      "start": 161.62,
+      "end": 163.16,
+      "text": "memilih untuk tidak peduli."
+    },
+    {
+      "id": "anger-070",
+      "start": 163.16,
+      "end": 166.68,
+      "text": "Tapi aku juga tahu, marah saja nggak akan"
+    },
+    {
+      "id": "anger-071",
+      "start": 166.68,
+      "end": 168.14,
+      "text": "menyelamatkan satu pohon pun."
+    },
+    {
+      "id": "anger-072",
+      "start": 168.56,
+      "end": 171.46,
+      "text": "Kita boleh kecewa, kita boleh mempertanyakan."
+    },
+    {
+      "id": "anger-073",
+      "start": 171.8,
+      "end": 173.88,
+      "text": "Kita bahkan perlu menuntut tanggung jawab."
+    },
+    {
+      "id": "anger-074",
+      "start": 174.14,
+      "end": 177.32,
+      "text": "Tapi setelah semua itu, ada satu pertanyaan yang"
+    },
+    {
+      "id": "anger-075",
+      "start": 177.32,
+      "end": 178.64,
+      "text": "jauh lebih penting."
+    },
+    {
+      "id": "anger-076",
+      "start": 179.14,
+      "end": 181.82,
+      "text": "Kalau kita masih punya kesempatan untuk mencegah"
+    },
+    {
+      "id": "anger-077",
+      "start": 181.82,
+      "end": 184.68,
+      "text": "kehilangan berikutnya, apa yang akan kita lakukan"
+    },
+    {
+      "id": "anger-078",
+      "start": 184.68,
+      "end": 186.7,
+      "text": "sebelum semuanya terlambat?"
+    }
+  ],
+  "audioKind": "narration",
+  "alignment": {
+    "audioSrc": "/assets/audio/meditations/anger/anger audio.mp3",
+    "duration": 186.906,
+    "reviewedAt": "",
+    "method": "faster-whisper small multilingual CPU float32 language=id word_timestamps=True",
+    "audioSha256": "5e61901440c11b8e812a419f70ba92c5fc0fec80258d384aabe512244012a6ea"
+  },
+  "wordCount": 417
+}

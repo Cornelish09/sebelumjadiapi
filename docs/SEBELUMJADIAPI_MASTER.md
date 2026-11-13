@@ -1205,3 +1205,7 @@ Di `docs/HANDOFF_NON_TECHNICAL.md`, jelaskan dengan **bahasa Indonesia sangat mu
 
 **Proyek master:** `SEBELUMJADIAPI`  
 **Kontrol revisi:** setiap perubahan ruang lingkup dicatat di `docs/DECISION_LOG.md`, dan status aktual di `docs/PROJECT_STATUS.md`.
+
+## Revisi keputusan hero — 9 November 2026
+
+Permintaan eksplisit terbaru pengguna menggantikan rekomendasi procedural 3D untuk hero utama di dokumen ini: gunakan cinematic 2.5D berlayer dari LANDING SCREEN.png. Kedalaman menggunakan hutan inpainted, pohon cutout dan foliage transparan; bukan orbit 360 derajat. Lighting lokal, parallax halus, fallback, reduced motion dan tujuan edukasi tetap dipertahankan. Lihat DECISION_LOG.md.

@@ -1,0 +1,465 @@
+{
+  "id": "awareness",
+  "label": "02 — AWARENESS",
+  "title": "Yang Tak Terlihat Sebelum Api",
+  "theme": "Before the Fire",
+  "intro": "Di balik hutan yang tampak tenang, ada kondisi yang menentukan kerentanannya. Dengarkan apa yang terjadi jauh sebelum asap terlihat.",
+  "audioCandidatePath": "/assets/audio/meditations/awareness/awareness audio.mp3",
+  "audioContentsVerified": true,
+  "timingStatus": "AUTO_ALIGNED",
+  "cues": [
+    {
+      "id": "awareness-001",
+      "start": 0.0,
+      "end": 2.78,
+      "text": "Tadi, kita sudah mendengar bagaimana hutan"
+    },
+    {
+      "id": "awareness-002",
+      "start": 2.78,
+      "end": 4.82,
+      "text": "menyimpan begitu banyak kehidupan."
+    },
+    {
+      "id": "awareness-003",
+      "start": 5.34,
+      "end": 6.24,
+      "text": "Suara burung,"
+    },
+    {
+      "id": "awareness-004",
+      "start": 6.86,
+      "end": 9.98,
+      "text": "angin yang melewati dedaunan, dan semua hal kecil"
+    },
+    {
+      "id": "awareness-005",
+      "start": 9.98,
+      "end": 11.26,
+      "text": "yang membuatnya terasa hidup."
+    },
+    {
+      "id": "awareness-006",
+      "start": 11.92,
+      "end": 13.38,
+      "text": "Tapi pernah nggak kamu berpikir,"
+    },
+    {
+      "id": "awareness-007",
+      "start": 13.94,
+      "end": 16.7,
+      "text": "apa yang sebenarnya terjadi sebelum sebuah hutan"
+    },
+    {
+      "id": "awareness-008",
+      "start": 16.7,
+      "end": 17.34,
+      "text": "terbakar?"
+    },
+    {
+      "id": "awareness-009",
+      "start": 17.78,
+      "end": 20.4,
+      "text": "Kita sering tahu ada kebakaran ketika asap mulai"
+    },
+    {
+      "id": "awareness-010",
+      "start": 20.4,
+      "end": 23.42,
+      "text": "terlihat, ketika langit berubah warna, atau"
+    },
+    {
+      "id": "awareness-011",
+      "start": 23.42,
+      "end": 25.7,
+      "text": "ketika berita tentang hutan yang terbakar mulai"
+    },
+    {
+      "id": "awareness-012",
+      "start": 25.7,
+      "end": 26.66,
+      "text": "muncul di mana-mana."
+    },
+    {
+      "id": "awareness-013",
+      "start": 26.66,
+      "end": 30.46,
+      "text": "Padahal ceritanya bisa dimulai jauh sebelum itu."
+    },
+    {
+      "id": "awareness-014",
+      "start": 30.9,
+      "end": 33.5,
+      "text": "Coba bayangkan tanah yang ada di bawah kaki kita."
+    },
+    {
+      "id": "awareness-015",
+      "start": 34.12,
+      "end": 36.86,
+      "text": "Di beberapa kawasan hutan Indonesia, ada tanah"
+    },
+    {
+      "id": "awareness-016",
+      "start": 36.86,
+      "end": 37.86,
+      "text": "yang disebut gambut."
+    },
+    {
+      "id": "awareness-017",
+      "start": 38.38,
+      "end": 40.0,
+      "text": "Mungkin kedengarannya biasa saja ya."
+    },
+    {
+      "id": "awareness-018",
+      "start": 40.46,
+      "end": 41.62,
+      "text": "Tapi gambut itu unik."
+    },
+    {
+      "id": "awareness-019",
+      "start": 42.06,
+      "end": 44.12,
+      "text": "Ia terbentuk dari sisa-sisa tumbuhan yang"
+    },
+    {
+      "id": "awareness-020",
+      "start": 44.12,
+      "end": 47.36,
+      "text": "menumpuk dan terurai sangat lambat selama waktu"
+    },
+    {
+      "id": "awareness-021",
+      "start": 47.36,
+      "end": 48.0,
+      "text": "yang panjang."
+    },
+    {
+      "id": "awareness-022",
+      "start": 48.54,
+      "end": 50.88,
+      "text": "Dalam kondisi alaminya yang basah, gambut"
+    },
+    {
+      "id": "awareness-023",
+      "start": 50.88,
+      "end": 52.08,
+      "text": "menyimpan banyak air."
+    },
+    {
+      "id": "awareness-024",
+      "start": 52.56,
+      "end": 54.48,
+      "text": "Bayangkan sebuah spons yang penuh air."
+    },
+    {
+      "id": "awareness-025",
+      "start": 54.48,
+      "end": 57.86,
+      "text": "Sekarang, bayangkan spons itu perlahan mengering."
+    },
+    {
+      "id": "awareness-026",
+      "start": 58.32,
+      "end": 59.08,
+      "text": "Apa yang berubah?"
+    },
+    {
+      "id": "awareness-027",
+      "start": 59.5,
+      "end": 62.32,
+      "text": "Ketika gambut kehilangan kelembapannya, tanah itu"
+    },
+    {
+      "id": "awareness-028",
+      "start": 62.32,
+      "end": 64.22,
+      "text": "menjadi jauh lebih rentan terbakar."
+    },
+    {
+      "id": "awareness-029",
+      "start": 64.48,
+      "end": 67.42,
+      "text": "Dan yang sering nggak kita sadari, api pada lahan"
+    },
+    {
+      "id": "awareness-030",
+      "start": 67.42,
+      "end": 70.24,
+      "text": "gambut bisa merambat di bawah permukaan tanah."
+    },
+    {
+      "id": "awareness-031",
+      "start": 70.32,
+      "end": 72.72,
+      "text": "Jadi, meskipun dari atas semuanya terlihat"
+    },
+    {
+      "id": "awareness-032",
+      "start": 72.72,
+      "end": 75.52,
+      "text": "tenang, bukan berarti nggak ada bahaya di bawahnya."
+    },
+    {
+      "id": "awareness-033",
+      "start": 76.24,
+      "end": 78.66,
+      "text": "Tapi ada hal lain yang juga perlu kita pahami."
+    },
+    {
+      "id": "awareness-034",
+      "start": 79.2,
+      "end": 81.54,
+      "text": "Kebakaran hutan dan lahan nggak selalu terjadi"
+    },
+    {
+      "id": "awareness-035",
+      "start": 81.54,
+      "end": 82.16,
+      "text": "begitu saja."
+    },
+    {
+      "id": "awareness-036",
+      "start": 82.16,
+      "end": 84.92,
+      "text": "aktivitas manusia juga punya peran besar,"
+    },
+    {
+      "id": "awareness-037",
+      "start": 85.04,
+      "end": 87.84,
+      "text": "pembukaan lahan menggunakan api, pengeringan"
+    },
+    {
+      "id": "awareness-038",
+      "start": 87.84,
+      "end": 90.04,
+      "text": "gambut, dan pengelolaan lahan yang tidak"
+    },
+    {
+      "id": "awareness-039",
+      "start": 90.04,
+      "end": 92.34,
+      "text": "bertanggung jawab dapat meningkatkan risiko"
+    },
+    {
+      "id": "awareness-040",
+      "start": 92.34,
+      "end": 92.86,
+      "text": "kebakaran."
+    },
+    {
+      "id": "awareness-041",
+      "start": 93.04,
+      "end": 95.24,
+      "text": "Dan ketika kondisi lingkungan sudah semakin"
+    },
+    {
+      "id": "awareness-042",
+      "start": 95.24,
+      "end": 95.64,
+      "text": "kering,"
+    },
+    {
+      "id": "awareness-043",
+      "start": 96.22,
+      "end": 98.68,
+      "text": "satu sumber api saja bisa membawa dampak yang"
+    },
+    {
+      "id": "awareness-044",
+      "start": 98.68,
+      "end": 99.82,
+      "text": "jauh lebih luas."
+    },
+    {
+      "id": "awareness-045",
+      "start": 100.2,
+      "end": 103.08,
+      "text": "Bukan hanya pada pepohonan, tapi juga pada satwa"
+    },
+    {
+      "id": "awareness-046",
+      "start": 103.08,
+      "end": 105.68,
+      "text": "yang kehilangan habitatnya, masyarakat yang harus"
+    },
+    {
+      "id": "awareness-047",
+      "start": 105.68,
+      "end": 108.0,
+      "text": "menghadapi kabut asap, dan lingkungan yang"
+    },
+    {
+      "id": "awareness-048",
+      "start": 108.0,
+      "end": 110.0,
+      "text": "membutuhkan waktu panjang untuk pulih."
+    },
+    {
+      "id": "awareness-049",
+      "start": 110.0,
+      "end": 113.2,
+      "text": "Kadang aku berpikir, kenapa kita sering baru"
+    },
+    {
+      "id": "awareness-050",
+      "start": 113.2,
+      "end": 115.9,
+      "text": "benar-benar memperhatikan hutan ketika sesuatu"
+    },
+    {
+      "id": "awareness-051",
+      "start": 115.9,
+      "end": 117.18,
+      "text": "yang buruk sudah terjadi?"
+    },
+    {
+      "id": "awareness-052",
+      "start": 117.72,
+      "end": 120.24,
+      "text": "Kenapa kita menunggu asapnya terlihat sebelum"
+    },
+    {
+      "id": "awareness-053",
+      "start": 120.24,
+      "end": 121.9,
+      "text": "mulai bertanya apa yang salah?"
+    },
+    {
+      "id": "awareness-054",
+      "start": 122.56,
+      "end": 125.24,
+      "text": "Padahal, ada banyak hal yang bisa diperhatikan"
+    },
+    {
+      "id": "awareness-055",
+      "start": 125.24,
+      "end": 126.0,
+      "text": "lebih awal."
+    },
+    {
+      "id": "awareness-056",
+      "start": 126.36,
+      "end": 129.0,
+      "text": "Kondisi air, perubahan penggunaan lahan,"
+    },
+    {
+      "id": "awareness-057",
+      "start": 129.58,
+      "end": 132.28,
+      "text": "risiko kekeringan, dan keputusan manusia dalam"
+    },
+    {
+      "id": "awareness-058",
+      "start": 132.28,
+      "end": 133.34,
+      "text": "memperlakukan lingkungan."
+    },
+    {
+      "id": "awareness-059",
+      "start": 133.96,
+      "end": 136.3,
+      "text": "Karena mencegah kebakaran bukan cuma soal"
+    },
+    {
+      "id": "awareness-060",
+      "start": 136.3,
+      "end": 138.1,
+      "text": "memadamkan api sebelum membesar,"
+    },
+    {
+      "id": "awareness-061",
+      "start": 138.1,
+      "end": 140.92,
+      "text": "Tapi juga tentang menjaga, agar kondisi yang"
+    },
+    {
+      "id": "awareness-062",
+      "start": 140.92,
+      "end": 144.08,
+      "text": "memungkinkan kebakaran itu terjadi, tidak semakin"
+    },
+    {
+      "id": "awareness-063",
+      "start": 144.08,
+      "end": 144.68,
+      "text": "buruk."
+    },
+    {
+      "id": "awareness-064",
+      "start": 145.08,
+      "end": 145.58,
+      "text": "Jadi,"
+    },
+    {
+      "id": "awareness-065",
+      "start": 146.14,
+      "end": 148.48,
+      "text": "lain kali ketika kamu melihat hutan yang masih"
+    },
+    {
+      "id": "awareness-066",
+      "start": 148.48,
+      "end": 149.64,
+      "text": "hijau dan tenang,"
+    },
+    {
+      "id": "awareness-067",
+      "start": 150.32,
+      "end": 150.86,
+      "text": "ingatlah,"
+    },
+    {
+      "id": "awareness-068",
+      "start": 151.52,
+      "end": 154.1,
+      "text": "ada hal-hal penting yang mungkin tidak terlihat"
+    },
+    {
+      "id": "awareness-069",
+      "start": 154.1,
+      "end": 154.86,
+      "text": "oleh mata kita."
+    },
+    {
+      "id": "awareness-070",
+      "start": 155.4,
+      "end": 156.82,
+      "text": "Karena sebelum api muncul,"
+    },
+    {
+      "id": "awareness-071",
+      "start": 157.56,
+      "end": 159.88,
+      "text": "selalu ada kondisi yang perlu kita pahami."
+    },
+    {
+      "id": "awareness-072",
+      "start": 160.64,
+      "end": 163.48,
+      "text": "Dan kadang, kesempatan terbaik untuk menjaga"
+    },
+    {
+      "id": "awareness-073",
+      "start": 163.48,
+      "end": 163.9,
+      "text": "hutan,"
+    },
+    {
+      "id": "awareness-074",
+      "start": 164.46,
+      "end": 167.1,
+      "text": "datang jauh sebelum kita melihat asapnya."
+    }
+  ],
+  "audioKind": "narration",
+  "alignment": {
+    "audioSrc": "/assets/audio/meditations/awareness/awareness audio.mp3",
+    "duration": 169.408,
+    "reviewedAt": "",
+    "method": "faster-whisper small multilingual CPU float32 language=id word_timestamps=True",
+    "audioSha256": "7ba78055dcb59cc239c5e759d208f3beafe655e29c91800c0ee21336a4e67b0d"
+  },
+  "wordCount": 381
+}

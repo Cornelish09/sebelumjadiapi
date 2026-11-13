@@ -1,0 +1,35 @@
+{
+  "createdAt": "2026-11-12",
+  "method": "ImageGen bawaan, dikompresi ke WebP dengan FFmpeg. Aset foreground memakai kanal alfa.",
+  "status": "Ilustrasi orisinal untuk prototipe akademik #SebelumJadiApi. Adegan lapangan bersifat ilustratif.",
+  "assets": {
+    "verify-back.webp": {
+      "alpha": false,
+      "prompt": "Create a vertical 9:16 near-photographic editorial background plate for a sophisticated Indonesian forest fire fact-checking campaign card. Riau peat forest research setting, dark forest-green and teal palette. Image is shot through deep wet tropical understory in blue hour, slim trunks across upper half and a single dim smoky opening in upper right, dark out-of-focus forest floor across lower half. A restrained beam of cold light between trunks, natural soft grained film and nuanced shadow. In the lower third leave depth for a separate cutout of a black field camera and contact sheet to be composited later. Slightly soft, dark middle for cream title to be laid on top by developer. Edge-to-edge imagery, no text, no graphic, no people, no camera, no phone, no orange flames. Reference is high-end environmental photojournalism with low-key natural lighting."
+    },
+    "verify-front.webp": {
+      "alpha": true,
+      "prompt": "Single isolated low-key editorial still life, transparent background with TRUE alpha, landscape composition. A compact rugged dark graphite digital camera at a three-quarter angle with a lens (real camera anatomy), resting on a gently curled paper photographic contact sheet of tiny abstract peat forest photographs, a tiny wet serrated tropical leaf in the corner. One connected object cluster, fully in frame with generous transparent margins, no floor, backdrop or cast shadow beyond the cluster, no writing, brand, symbols or UI. Cool teal raking side light from upper left, dark steel and slate tones, realistic material, fine forest humidity. Intended as a cutout overlapping the bottom edge of a vertical Indonesian forest fire fact-checking card. Do not add colored background."
+    },
+    "water-back.webp": {
+      "alpha": false,
+      "prompt": "Create a vertical 9:16 photographic editorial plate for a sophisticated Indonesian tropical peat hydrology campaign card. Low ground-level view of a real Indonesian waterlogged peat-swamp floor, almost black mirror of tannin water, buttress roots, fine moss and unbroken ripples catching soft amber sunrise, tall out-of-focus jungle stems in upper half. Dark tobacco olive, green-black and copper glints. Composition leaves center and bottom third dark and visually calm to host a cream title and separate foreground macro moss. Beautiful accurate material details, wet mud, organic textures, tactile natural asymmetry. Low-key documentary still, not a generic heroic tree, no people, no large single tree, no typography, no icons, no flames. Edge-to-edge image."
+    },
+    "water-front.webp": {
+      "alpha": true,
+      "prompt": "Isolate one elegant compact cluster of actual damp Indonesian peat bank: fine dark brown fibrous peat, deep olive moss growing naturally over its top, with two short slender curled tropical leaves and a few clear beads of water. Transparent background with TRUE alpha, no backdrop, no stage, no labels, no detached elements. Landscape composition, the connected low shape fits fully in frame with transparent margins. Side view three-quarter macro, textured realistic mineral and plant details, dim amber side lighting matching waterlogged peat at dawn, cinematic conservation photo. Subtle and grounded rather than an extravagant fantasy island."
+    },
+    "share-back.webp": {
+      "alpha": false,
+      "prompt": "Create vertical 9:16 editorial photographic background for an Indonesian wildfire awareness campaign card about sharing reliable information. A dusk research outpost in the field: quiet dark plum/slate atmosphere, silhouettes of distant Indonesian tropical trees through a rain-flecked window, warm muted copper light reflecting across a dark olive wooden workbench at bottom, one subtle out-of-focus light off to far right. A field notebook and device cutout will be composited later so keep center visually calm, dark and quiet. Rich color grading, fine natural 35mm grain, controlled palette, cinematic but real. Edge to edge, no people, no text, no objects on workbench, no icons, no logos, no fire."
+    },
+    "share-front.webp": {
+      "alpha": true,
+      "prompt": "Transparent background true alpha, isolated connected editorial still-life cutout. Small weathered open tan field notebook with entirely blank unruled pages resting under a slim dark handheld smartphone in 3/4 view; its screen shows only a very faint photographic reflection of tropical branches, no interface, no letters, no brand. A pencil tucked under the notebook. Three compact overlapping objects as a single silhouette, landscape layout with transparent margins, no exterior ground or cast shadow. Muted bronze and violet evening side light, beautiful realistic material and page detail. Fits lower corner of a modern portrait campaign card about sharing trustworthy forest fire information. The subject must be cut out against transparency."
+    },
+    "field.webp": {
+      "alpha": false,
+      "prompt": "Wide 3:1 crop-safe cinematic documentary-style illustration for the footer of an Indonesian peat forest fire prevention campaign site. Medium-wide scene from behind: two locally dressed field conservation volunteers in simple practical earth-tone rain gear quietly checking a wooden water level staff beside a narrow reflective peatland canal, surrounded by local ferns and tropical secondary forest. Keep the two people at the right third and some bright wet copper details right, left half primarily dark uninterrupted reeds and water in deep blue-green with room for white text laid on top separately. Art-directed documentary realism with dim late morning fog and tactile forest details, authentic restrained palette. No text, no watermark, no WWF logos, no uniforms implying official affiliations, no catastrophe, no fire. Image is a visual illustration, not claiming an actual event."
+    }
+  }
+}

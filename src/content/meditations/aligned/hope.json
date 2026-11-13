@@ -1,0 +1,555 @@
+{
+  "id": "hope",
+  "label": "05 — HOPE",
+  "title": "Kita Masih Punya Waktu",
+  "theme": "Take Action",
+  "intro": "Harapan bukan berarti semuanya sudah pulih. Harapan berarti masih ada kehidupan yang bisa dijaga, dan tindakan yang bisa kita pilih.",
+  "audioCandidatePath": "/assets/audio/meditations/hope/hope.mp3",
+  "audioContentsVerified": true,
+  "timingStatus": "AUTO_ALIGNED",
+  "cues": [
+    {
+      "id": "hope-001",
+      "start": 0.0,
+      "end": 3.16,
+      "text": "Setelah semua yang kita dengar, tentang kehidupan"
+    },
+    {
+      "id": "hope-002",
+      "start": 3.16,
+      "end": 6.14,
+      "text": "yang hilang, tentang keputusan yang menyakiti"
+    },
+    {
+      "id": "hope-003",
+      "start": 6.14,
+      "end": 9.9,
+      "text": "begitu banyak makhluk hidup, mungkin ada satu"
+    },
+    {
+      "id": "hope-004",
+      "start": 9.9,
+      "end": 11.48,
+      "text": "pertanyaan yang masih tertinggal."
+    },
+    {
+      "id": "hope-005",
+      "start": 12.58,
+      "end": 14.16,
+      "text": "Apa masih ada yang bisa kita lakukan?"
+    },
+    {
+      "id": "hope-006",
+      "start": 15.4,
+      "end": 17.54,
+      "text": "Aku percaya, masih ada."
+    },
+    {
+      "id": "hope-007",
+      "start": 18.46,
+      "end": 20.56,
+      "text": "Bukan karena semua yang rusak bisa kembali"
+    },
+    {
+      "id": "hope-008",
+      "start": 20.56,
+      "end": 21.32,
+      "text": "seperti semula."
+    },
+    {
+      "id": "hope-009",
+      "start": 21.86,
+      "end": 24.52,
+      "text": "Bukan karena hutan yang terbakar bisa tumbuh lagi"
+    },
+    {
+      "id": "hope-010",
+      "start": 24.52,
+      "end": 25.22,
+      "text": "dalam semalam."
+    },
+    {
+      "id": "hope-011",
+      "start": 25.22,
+      "end": 28.6,
+      "text": "dan bukan karena satu tindakan kecil mampu"
+    },
+    {
+      "id": "hope-012",
+      "start": 28.6,
+      "end": 29.7,
+      "text": "menyelesaikan semuanya."
+    },
+    {
+      "id": "hope-013",
+      "start": 30.04,
+      "end": 33.16,
+      "text": "Tapi karena masa depan belum sepenuhnya"
+    },
+    {
+      "id": "hope-014",
+      "start": 33.16,
+      "end": 33.68,
+      "text": "ditentukan."
+    },
+    {
+      "id": "hope-015",
+      "start": 34.4,
+      "end": 35.46,
+      "text": "Coba ingat lagi,"
+    },
+    {
+      "id": "hope-016",
+      "start": 36.06,
+      "end": 38.7,
+      "text": "di awal perjalanan ini kita mendengar suara"
+    },
+    {
+      "id": "hope-017",
+      "start": 38.7,
+      "end": 39.2,
+      "text": "burung."
+    },
+    {
+      "id": "hope-018",
+      "start": 39.56,
+      "end": 42.26,
+      "text": "Kita membayangkan cahaya matahari yang menembus"
+    },
+    {
+      "id": "hope-019",
+      "start": 42.26,
+      "end": 45.78,
+      "text": "dedaunan, dan kita mengenal kehidupan yang selama"
+    },
+    {
+      "id": "hope-020",
+      "start": 45.78,
+      "end": 48.06,
+      "text": "ini berjalan tanpa banyak kita sadari."
+    },
+    {
+      "id": "hope-021",
+      "start": 48.84,
+      "end": 51.04,
+      "text": "Semua itu mengingatkan kita pada sesuatu,"
+    },
+    {
+      "id": "hope-022",
+      "start": 51.64,
+      "end": 54.18,
+      "text": "bahwa hutan bukan hanya tentang apa yang sudah"
+    },
+    {
+      "id": "hope-023",
+      "start": 54.18,
+      "end": 57.6,
+      "text": "hilang, tapi juga tentang apa yang masih ada, dan"
+    },
+    {
+      "id": "hope-024",
+      "start": 57.6,
+      "end": 59.06,
+      "text": "masih bisa kita jaga."
+    },
+    {
+      "id": "hope-025",
+      "start": 59.78,
+      "end": 62.68,
+      "text": "Mungkin kamu pernah berpikir, aku cuma satu"
+    },
+    {
+      "id": "hope-026",
+      "start": 62.68,
+      "end": 63.06,
+      "text": "orang,"
+    },
+    {
+      "id": "hope-027",
+      "start": 63.64,
+      "end": 65.24,
+      "text": "memangnya apa yang bisa aku lakukan."
+    },
+    {
+      "id": "hope-028",
+      "start": 65.92,
+      "end": 66.68,
+      "text": "Aku paham,"
+    },
+    {
+      "id": "hope-029",
+      "start": 67.26,
+      "end": 69.2,
+      "text": "karena kalau kita melihat persoalan sebesar"
+    },
+    {
+      "id": "hope-030",
+      "start": 69.2,
+      "end": 70.08,
+      "text": "kebakaran hutan,"
+    },
+    {
+      "id": "hope-031",
+      "start": 70.64,
+      "end": 72.48,
+      "text": "rasanya usaha kita terlalu kecil."
+    },
+    {
+      "id": "hope-032",
+      "start": 73.06,
+      "end": 75.84,
+      "text": "Tapi menjaga hutan, nggak selalu berarti kita harus"
+    },
+    {
+      "id": "hope-033",
+      "start": 75.84,
+      "end": 76.9,
+      "text": "berada di tengah hutan."
+    },
+    {
+      "id": "hope-034",
+      "start": 77.8,
+      "end": 80.14,
+      "text": "Kita bisa mulai dengan memahami persoalannya,"
+    },
+    {
+      "id": "hope-035",
+      "start": 80.66,
+      "end": 82.66,
+      "text": "mencari informasi dari sumber yang bisa"
+    },
+    {
+      "id": "hope-036",
+      "start": 82.66,
+      "end": 85.54,
+      "text": "dipercaya, berhenti sebentar sebelum membagikan"
+    },
+    {
+      "id": "hope-037",
+      "start": 85.54,
+      "end": 88.42,
+      "text": "berita yang belum jelas kebenarannya, mendukung"
+    },
+    {
+      "id": "hope-038",
+      "start": 88.42,
+      "end": 90.86,
+      "text": "komunitas dan orang-orang yang bekerja menjaga"
+    },
+    {
+      "id": "hope-039",
+      "start": 90.86,
+      "end": 91.24,
+      "text": "lingkungan,"
+    },
+    {
+      "id": "hope-040",
+      "start": 91.82,
+      "end": 94.14,
+      "text": "dan mengajak orang lain untuk ikut peduli."
+    },
+    {
+      "id": "hope-041",
+      "start": 94.84,
+      "end": 97.1,
+      "text": "Mungkin langkah-langkah itu terlihat sederhana,"
+    },
+    {
+      "id": "hope-042",
+      "start": 97.66,
+      "end": 100.14,
+      "text": "tapi setidaknya, kita memilih untuk tidak"
+    },
+    {
+      "id": "hope-043",
+      "start": 100.14,
+      "end": 100.66,
+      "text": "berpaling."
+    },
+    {
+      "id": "hope-044",
+      "start": 101.68,
+      "end": 104.4,
+      "text": "Dan tentu saja, tanggung jawab ini bukan hanya"
+    },
+    {
+      "id": "hope-045",
+      "start": 104.4,
+      "end": 105.9,
+      "text": "milik kita sebagai individu."
+    },
+    {
+      "id": "hope-046",
+      "start": 106.44,
+      "end": 108.48,
+      "text": "Ada pihak yang membuat keputusan tentang"
+    },
+    {
+      "id": "hope-047",
+      "start": 108.48,
+      "end": 111.12,
+      "text": "penggunaan lahan, ada aturan yang harus"
+    },
+    {
+      "id": "hope-048",
+      "start": 111.12,
+      "end": 114.28,
+      "text": "ditegakkan, ada masyarakat yang harus dilibatkan"
+    },
+    {
+      "id": "hope-049",
+      "start": 114.28,
+      "end": 117.28,
+      "text": "dan didengarkan dan ada orang-orang yang bekerja"
+    },
+    {
+      "id": "hope-050",
+      "start": 117.28,
+      "end": 119.9,
+      "text": "setiap hari untuk melindungi apa yang masih"
+    },
+    {
+      "id": "hope-051",
+      "start": 119.9,
+      "end": 123.28,
+      "text": "tersisa mereka juga membutuhkan dukungan karena"
+    },
+    {
+      "id": "hope-052",
+      "start": 123.28,
+      "end": 125.82,
+      "text": "perubahan nggak bisa dibebankan pada satu orang"
+    },
+    {
+      "id": "hope-053",
+      "start": 125.82,
+      "end": 129.84,
+      "text": "saja tahu nggak, ada sesuatu yang terasa berbeda"
+    },
+    {
+      "id": "hope-054",
+      "start": 129.84,
+      "end": 132.82,
+      "text": "ketika kita mulai peduli hutan yang tadinya hanya"
+    },
+    {
+      "id": "hope-055",
+      "start": 132.82,
+      "end": 135.76,
+      "text": "terlihat seperti hamparan hijau perlahan menjadi"
+    },
+    {
+      "id": "hope-056",
+      "start": 135.76,
+      "end": 138.8,
+      "text": "sesuatu yang punya arti kita mulai melihatnya"
+    },
+    {
+      "id": "hope-057",
+      "start": 138.8,
+      "end": 141.6,
+      "text": "sebagai rumah sebagai tempat kehidupan saling"
+    },
+    {
+      "id": "hope-058",
+      "start": 141.6,
+      "end": 144.42,
+      "text": "bergantung sebagai sesuatu yang keberadaannya"
+    },
+    {
+      "id": "hope-059",
+      "start": 144.42,
+      "end": 147.06,
+      "text": "nggak bisa kita anggap biasa aku nggak tahu"
+    },
+    {
+      "id": "hope-060",
+      "start": 147.06,
+      "end": 149.56,
+      "text": "seperti apa keadaan hutan kita bertahun-tahun"
+    },
+    {
+      "id": "hope-061",
+      "start": 149.56,
+      "end": 152.34,
+      "text": "dari sekarang aku juga nggak bisa menjanjikan"
+    },
+    {
+      "id": "hope-062",
+      "start": 152.34,
+      "end": 155.22,
+      "text": "bahwa semua kebakaran akan berhenti tapi aku"
+    },
+    {
+      "id": "hope-063",
+      "start": 155.22,
+      "end": 158.6,
+      "text": "percaya, kepedulian yang diikuti tindakan jauh"
+    },
+    {
+      "id": "hope-064",
+      "start": 158.6,
+      "end": 161.08,
+      "text": "lebih berarti daripada sekadar berharap semuanya"
+    },
+    {
+      "id": "hope-065",
+      "start": 161.08,
+      "end": 164.46,
+      "text": "baik-baik saja dan mungkin itulah alasan kita"
+    },
+    {
+      "id": "hope-066",
+      "start": 164.46,
+      "end": 165.66,
+      "text": "perlu memulai sekarang"
+    },
+    {
+      "id": "hope-067",
+      "start": 165.66,
+      "end": 167.84,
+      "text": "Bukan setelah langit dipenuhi asap,"
+    },
+    {
+      "id": "hope-068",
+      "start": 168.06,
+      "end": 170.54,
+      "text": "Bukan setelah berita kebakaran kembali memenuhi"
+    },
+    {
+      "id": "hope-069",
+      "start": 170.54,
+      "end": 171.08,
+      "text": "layar kita,"
+    },
+    {
+      "id": "hope-070",
+      "start": 171.5,
+      "end": 174.4,
+      "text": "Tapi saat hutan masih berdiri, Saat burung-burung"
+    },
+    {
+      "id": "hope-071",
+      "start": 174.4,
+      "end": 177.18,
+      "text": "masih bernyanyi, Saat masih ada kehidupan yang"
+    },
+    {
+      "id": "hope-072",
+      "start": 177.18,
+      "end": 177.92,
+      "text": "bisa dilindungi."
+    },
+    {
+      "id": "hope-073",
+      "start": 178.84,
+      "end": 181.14,
+      "text": "Kalau suatu hari nanti, kamu kembali mendengar"
+    },
+    {
+      "id": "hope-074",
+      "start": 181.14,
+      "end": 183.82,
+      "text": "suara angin di antara pepohonan, Atau melihat"
+    },
+    {
+      "id": "hope-075",
+      "start": 183.82,
+      "end": 185.86,
+      "text": "cahaya matahari menyentuh dedaunan."
+    },
+    {
+      "id": "hope-076",
+      "start": 186.26,
+      "end": 189.26,
+      "text": "Aku harap kamu mengingat perjalanan ini, Bahwa"
+    },
+    {
+      "id": "hope-077",
+      "start": 189.26,
+      "end": 191.78,
+      "text": "hutan menyimpan lebih banyak kehidupan daripada"
+    },
+    {
+      "id": "hope-078",
+      "start": 191.78,
+      "end": 192.9,
+      "text": "yang bisa kita lihat."
+    },
+    {
+      "id": "hope-079",
+      "start": 192.9,
+      "end": 195.86,
+      "text": "Bahwa kehilangan bukan sesuatu yang harus kita"
+    },
+    {
+      "id": "hope-080",
+      "start": 195.86,
+      "end": 196.58,
+      "text": "anggap biasa."
+    },
+    {
+      "id": "hope-081",
+      "start": 196.72,
+      "end": 199.86,
+      "text": "Dan bahwa kepedulian baru benar-benar berarti"
+    },
+    {
+      "id": "hope-082",
+      "start": 199.86,
+      "end": 202.5,
+      "text": "ketika kita memilih melakukan sesuatu."
+    },
+    {
+      "id": "hope-083",
+      "start": 203.04,
+      "end": 205.78,
+      "text": "Kita mungkin nggak bisa mengubah kemarin, tapi kita"
+    },
+    {
+      "id": "hope-084",
+      "start": 205.78,
+      "end": 207.56,
+      "text": "masih punya pilihan untuk hari ini."
+    },
+    {
+      "id": "hope-085",
+      "start": 207.94,
+      "end": 210.72,
+      "text": "Karena menjaga hutan, bukan pekerjaan yang baru"
+    },
+    {
+      "id": "hope-086",
+      "start": 210.72,
+      "end": 212.8,
+      "text": "dimulai setelah semuanya terbakar."
+    },
+    {
+      "id": "hope-087",
+      "start": 213.26,
+      "end": 216.16,
+      "text": "Sebelum api muncul, masih ada kesempatan."
+    },
+    {
+      "id": "hope-088",
+      "start": 216.54,
+      "end": 219.64,
+      "text": "Dan kesempatan itu ada di tangan kita bersama."
+    },
+    {
+      "id": "hope-089",
+      "start": 220.14,
+      "end": 222.1,
+      "text": "#SebelumJadiApi."
+    }
+  ],
+  "audioKind": "narration",
+  "alignment": {
+    "audioSrc": "/assets/audio/meditations/hope/hope.mp3",
+    "duration": 222.354,
+    "reviewedAt": "",
+    "method": "faster-whisper small multilingual CPU float32 language=id word_timestamps=True",
+    "audioSha256": "be70eb8964465209fd19d657d1a8219ceb4c896d26d536cb91cc66e320a0e783"
+  },
+  "wordCount": 494
+}

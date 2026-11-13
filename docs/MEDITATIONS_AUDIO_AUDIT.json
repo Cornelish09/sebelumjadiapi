@@ -1,0 +1,1820 @@
+{
+  "date": "2026-11-09",
+  "method": "faster-whisper base multilingual, CPU float32, CTranslate2 4.6.0, beam=1, tanpa VAD, decode FFmpeg; seluruh durasi lima MP3 diproses lokal",
+  "status": "MACHINE_AUDIT_NOT_FINAL_ALIGNMENT",
+  "limitations": "Transkripsi otomatis mengandung salah eja dan batas segmen kasar. Ini bukan forced alignment yang sudah diperiksa. Angka waktu tidak diimpor oleh website. Sumber pengguna tidak diubah.",
+  "episodes": [
+    {
+      "id": "peace",
+      "audioSrc": "/assets/audio/meditations/peace/peace audio.mp3",
+      "audioSha256": "b827dc878afabcd50c7bcc8f99004ce19e8f1404087c7a43bdd460edc0ca76d6",
+      "durationSeconds": 118.806,
+      "narrationDetectedByASR": true,
+      "contentManuallyReviewed": false,
+      "timingVerified": false,
+      "scriptReview": "PEACE: hasil otomatis menunjukkan versi ringkas yang berbeda dari sumber panjang; cocokkan naskah final.",
+      "machineSegments": [
+        {
+          "start": 0.0,
+          "end": 10.0,
+          "text": " Pernahga, kamu benar-benar berhenti sebenar, hanya untuk mendengarkan suara alam.",
+          "noSpeechProbability": 0.2625153064727783,
+          "avgLogProbability": -0.39768624570100536,
+          "words": []
+        },
+        {
+          "start": 10.0,
+          "end": 15.0,
+          "text": " Bukan suara kendaraan yang lewat, bukan notifikasi yang terus berdatangan,",
+          "noSpeechProbability": 0.2625153064727783,
+          "avgLogProbability": -0.39768624570100536,
+          "words": []
+        },
+        {
+          "start": 15.0,
+          "end": 19.0,
+          "text": " tapi sesuatu yang selama ini mungkin jarang kita perhatikan.",
+          "noSpeechProbability": 0.2625153064727783,
+          "avgLogProbability": -0.39768624570100536,
+          "words": []
+        },
+        {
+          "start": 19.0,
+          "end": 24.0,
+          "text": " Suara angin yang menyenang tu di daunan, burung-burung yang salahing memanggil,",
+          "noSpeechProbability": 0.2625153064727783,
+          "avgLogProbability": -0.39768624570100536,
+          "words": []
+        },
+        {
+          "start": 24.0,
+          "end": 27.0,
+          "text": " dari serangga-serangga kecil yang diyambi yang menisikannya.",
+          "noSpeechProbability": 0.2625153064727783,
+          "avgLogProbability": -0.39768624570100536,
+          "words": []
+        },
+        {
+          "start": 27.0,
+          "end": 32.0,
+          "text": " Coba bayangkan, sekarang kamu sudah merdiri di Tena Hutan pada suatu pagi.",
+          "noSpeechProbability": 0.8143160343170166,
+          "avgLogProbability": -0.2941095897346545,
+          "words": []
+        },
+        {
+          "start": 32.0,
+          "end": 35.0,
+          "text": " Cahaya mata hari perlahan menembus celah pahunan,",
+          "noSpeechProbability": 0.8143160343170166,
+          "avgLogProbability": -0.2941095897346545,
+          "words": []
+        },
+        {
+          "start": 35.0,
+          "end": 39.0,
+          "text": " Udara terasa sejuk, tanah masih lembab setelah hujan semalam.",
+          "noSpeechProbability": 0.8143160343170166,
+          "avgLogProbability": -0.2941095897346545,
+          "words": []
+        },
+        {
+          "start": 39.0,
+          "end": 45.0,
+          "text": " Tenang sekali ya, tapi tau ya, Hutan sebenarnya gak pernah benar-benar dia.",
+          "noSpeechProbability": 0.8143160343170166,
+          "avgLogProbability": -0.2941095897346545,
+          "words": []
+        },
+        {
+          "start": 45.0,
+          "end": 50.0,
+          "text": " Di balik setiap daun, setiap akar dan setiap batang pahun,",
+          "noSpeechProbability": 0.8143160343170166,
+          "avgLogProbability": -0.2941095897346545,
+          "words": []
+        },
+        {
+          "start": 50.0,
+          "end": 52.0,
+          "text": " ada kehidupan yang terus berjalan.",
+          "noSpeechProbability": 0.8143160343170166,
+          "avgLogProbability": -0.2941095897346545,
+          "words": []
+        },
+        {
+          "start": 52.0,
+          "end": 56.0,
+          "text": " Ada burung yang mencari makan, ada satwa yang menemukan tepat berlindung,",
+          "noSpeechProbability": 0.8143160343170166,
+          "avgLogProbability": -0.2941095897346545,
+          "words": []
+        },
+        {
+          "start": 56.0,
+          "end": 62.0,
+          "text": " ada akar yang membantu menjaga tanah dan air yang menjadi bagian penting dari kehidupan di sekitarnya",
+          "noSpeechProbability": 0.8256807327270508,
+          "avgLogProbability": -0.28106784993323725,
+          "words": []
+        },
+        {
+          "start": 62.0,
+          "end": 65.0,
+          "text": " dan semuanya saling terhubung",
+          "noSpeechProbability": 0.8256807327270508,
+          "avgLogProbability": -0.28106784993323725,
+          "words": []
+        },
+        {
+          "start": 65.0,
+          "end": 69.0,
+          "text": " kadang kita melihat hutan hanya sebagai kumpulan pahun yang hijau dan indah",
+          "noSpeechProbability": 0.8256807327270508,
+          "avgLogProbability": -0.28106784993323725,
+          "words": []
+        },
+        {
+          "start": 69.0,
+          "end": 74.0,
+          "text": " pada hal, hutan adalah rumah, rumah bagi begitu banyak kehidupan",
+          "noSpeechProbability": 0.8256807327270508,
+          "avgLogProbability": -0.28106784993323725,
+          "words": []
+        },
+        {
+          "start": 74.0,
+          "end": 77.0,
+          "text": " juga bagian dari link hutan yang mendukung kehidupan musil",
+          "noSpeechProbability": 0.8256807327270508,
+          "avgLogProbability": -0.28106784993323725,
+          "words": []
+        },
+        {
+          "start": 77.0,
+          "end": 81.0,
+          "text": " hutan membantu menjaga siglos air, menyimpan karbon",
+          "noSpeechProbability": 0.8256807327270508,
+          "avgLogProbability": -0.28106784993323725,
+          "words": []
+        },
+        {
+          "start": 81.0,
+          "end": 84.0,
+          "text": " dan menyediakan habitat bagi berbagai malu hidup",
+          "noSpeechProbability": 0.8256807327270508,
+          "avgLogProbability": -0.28106784993323725,
+          "words": []
+        },
+        {
+          "start": 84.0,
+          "end": 91.0,
+          "text": " Bayangkan, berapa banyak kehidupan yang bergantung pada satu linkungan yang selama ini mungkin kita angkap biasa saja?",
+          "noSpeechProbability": 0.44653522968292236,
+          "avgLogProbability": -0.18174293067144312,
+          "words": []
+        },
+        {
+          "start": 91.0,
+          "end": 97.0,
+          "text": " Kita mungkin gak bisa mendengar setiap suara di dalamnya, gak bisa melihat setiap kehidupan yang tersembunyi,",
+          "noSpeechProbability": 0.44653522968292236,
+          "avgLogProbability": -0.18174293067144312,
+          "words": []
+        },
+        {
+          "start": 97.0,
+          "end": 99.0,
+          "text": " tapi bukan berarti semuanya tidak ada.",
+          "noSpeechProbability": 0.44653522968292236,
+          "avgLogProbability": -0.18174293067144312,
+          "words": []
+        },
+        {
+          "start": 99.0,
+          "end": 106.0,
+          "text": " Jadi sebelum cerita ini berlanjut, sebelum kita berbicara tentang api, asap, dan kehilangan,",
+          "noSpeechProbability": 0.44653522968292236,
+          "avgLogProbability": -0.18174293067144312,
+          "words": []
+        },
+        {
+          "start": 106.0,
+          "end": 115.0,
+          "text": " Coba luangkan satu momen untuk mengingat bahwa sebelum api muncul ada kehidupan dan kehidupan itu layak kita jaga.",
+          "noSpeechProbability": 0.02290206030011177,
+          "avgLogProbability": -0.25869284346699717,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "awareness",
+      "audioSrc": "/assets/audio/meditations/awareness/awareness audio.mp3",
+      "audioSha256": "7ba78055dcb59cc239c5e759d208f3beafe655e29c91800c0ee21336a4e67b0d",
+      "durationSeconds": 169.408,
+      "narrationDetectedByASR": true,
+      "contentManuallyReviewed": false,
+      "timingVerified": false,
+      "scriptReview": "Narasi Indonesia terdeteksi; kecocokan seluruh naskah dan timing masih perlu ditinjau.",
+      "machineSegments": [
+        {
+          "start": 0.0,
+          "end": 5.0,
+          "text": " tadi, kita sudah mendengar bagaimana hutan menyimpan begitu banyak kehidupan",
+          "noSpeechProbability": 0.004913513548672199,
+          "avgLogProbability": -0.23396814169643596,
+          "words": []
+        },
+        {
+          "start": 5.0,
+          "end": 8.5,
+          "text": " suara burung, anggin yang melawat hidup daunan",
+          "noSpeechProbability": 0.004913513548672199,
+          "avgLogProbability": -0.23396814169643596,
+          "words": []
+        },
+        {
+          "start": 8.5,
+          "end": 11.5,
+          "text": " dan semua hakecil yang membuatnya terasa hidup",
+          "noSpeechProbability": 0.004913513548672199,
+          "avgLogProbability": -0.23396814169643596,
+          "words": []
+        },
+        {
+          "start": 11.5,
+          "end": 13.5,
+          "text": " tapi pernah ga kamu berfikir",
+          "noSpeechProbability": 0.004913513548672199,
+          "avgLogProbability": -0.23396814169643596,
+          "words": []
+        },
+        {
+          "start": 13.5,
+          "end": 17.5,
+          "text": " apa yang sebenarnya terjadi sebelum sebuah hutan terbakar?",
+          "noSpeechProbability": 0.004913513548672199,
+          "avgLogProbability": -0.23396814169643596,
+          "words": []
+        },
+        {
+          "start": 17.5,
+          "end": 21.0,
+          "text": " kita sering tahu ada kebakaran ketika asap mulai terlihat",
+          "noSpeechProbability": 0.004913513548672199,
+          "avgLogProbability": -0.23396814169643596,
+          "words": []
+        },
+        {
+          "start": 21.0,
+          "end": 23.0,
+          "text": " ketika langit berubah warna",
+          "noSpeechProbability": 0.004913513548672199,
+          "avgLogProbability": -0.23396814169643596,
+          "words": []
+        },
+        {
+          "start": 23.0,
+          "end": 27.0,
+          "text": " atau ketika berita tentang hutan yang terbakar mulai muncul di mana-mana",
+          "noSpeechProbability": 0.004913513548672199,
+          "avgLogProbability": -0.23396814169643596,
+          "words": []
+        },
+        {
+          "start": 27.0,
+          "end": 30.64,
+          "text": " pada hau, ceritanya bisa dimulai jauh sebelum itu.",
+          "noSpeechProbability": 0.04130062460899353,
+          "avgLogProbability": -0.29787543014838147,
+          "words": []
+        },
+        {
+          "start": 30.64,
+          "end": 33.84,
+          "text": " Coba bayangkan tanah yang ada di bawah kaki kita.",
+          "noSpeechProbability": 0.04130062460899353,
+          "avgLogProbability": -0.29787543014838147,
+          "words": []
+        },
+        {
+          "start": 33.84,
+          "end": 38.04,
+          "text": " Di beberapa kawasan hutan Indonesia, ada tanah yang disebut gambut.",
+          "noSpeechProbability": 0.04130062460899353,
+          "avgLogProbability": -0.29787543014838147,
+          "words": []
+        },
+        {
+          "start": 38.04,
+          "end": 40.2,
+          "text": " Mungkin kedengarannya biasa saja ya.",
+          "noSpeechProbability": 0.04130062460899353,
+          "avgLogProbability": -0.29787543014838147,
+          "words": []
+        },
+        {
+          "start": 40.2,
+          "end": 41.84,
+          "text": " Tapi gambut itu unik.",
+          "noSpeechProbability": 0.04130062460899353,
+          "avgLogProbability": -0.29787543014838147,
+          "words": []
+        },
+        {
+          "start": 41.84,
+          "end": 46.480000000000004,
+          "text": " Ia terbentuk dari sisi-sisi tumbuhan yang menumpuk dan terurai sangat lambat",
+          "noSpeechProbability": 0.04130062460899353,
+          "avgLogProbability": -0.29787543014838147,
+          "words": []
+        },
+        {
+          "start": 46.480000000000004,
+          "end": 48.24,
+          "text": " selama waktu yang panjang.",
+          "noSpeechProbability": 0.04130062460899353,
+          "avgLogProbability": -0.29787543014838147,
+          "words": []
+        },
+        {
+          "start": 48.24,
+          "end": 52.32,
+          "text": " Dalam kondisi alaminya yang basah, gambut menyimpan banyak air.",
+          "noSpeechProbability": 0.04130062460899353,
+          "avgLogProbability": -0.29787543014838147,
+          "words": []
+        },
+        {
+          "start": 52.32,
+          "end": 54.84,
+          "text": " Bayangkan sebuah sponsor yang penuh air.",
+          "noSpeechProbability": 0.04130062460899353,
+          "avgLogProbability": -0.29787543014838147,
+          "words": []
+        },
+        {
+          "start": 54.84,
+          "end": 58.080000000000005,
+          "text": " Sekarang, bayangkan sponsor itu perlahan ngeri.",
+          "noSpeechProbability": 0.03661162033677101,
+          "avgLogProbability": -0.29619880344556726,
+          "words": []
+        },
+        {
+          "start": 58.080000000000005,
+          "end": 59.24,
+          "text": " Apa yang berubah?",
+          "noSpeechProbability": 0.03661162033677101,
+          "avgLogProbability": -0.29619880344556726,
+          "words": []
+        },
+        {
+          "start": 59.24,
+          "end": 61.720000000000006,
+          "text": " Ketika gambut kehilangan kelembapannya,",
+          "noSpeechProbability": 0.03661162033677101,
+          "avgLogProbability": -0.29619880344556726,
+          "words": []
+        },
+        {
+          "start": 61.720000000000006,
+          "end": 64.44,
+          "text": " tanah itu menjadi jauh lebih rentan terbakar.",
+          "noSpeechProbability": 0.03661162033677101,
+          "avgLogProbability": -0.29619880344556726,
+          "words": []
+        },
+        {
+          "start": 64.44,
+          "end": 66.36,
+          "text": " Dan yang sering gak kita sadari,",
+          "noSpeechProbability": 0.03661162033677101,
+          "avgLogProbability": -0.29619880344556726,
+          "words": []
+        },
+        {
+          "start": 66.36,
+          "end": 70.16,
+          "text": " api padalahan gambut bisa merambat di bawah permukaan tanah.",
+          "noSpeechProbability": 0.03661162033677101,
+          "avgLogProbability": -0.29619880344556726,
+          "words": []
+        },
+        {
+          "start": 70.16,
+          "end": 73.32000000000001,
+          "text": " Jadi, meskipun dari atas semuanya terlihattenang,",
+          "noSpeechProbability": 0.03661162033677101,
+          "avgLogProbability": -0.29619880344556726,
+          "words": []
+        },
+        {
+          "start": 73.32000000000001,
+          "end": 75.84,
+          "text": " bukan berarti gak ada bahaya di bawahnya.",
+          "noSpeechProbability": 0.03661162033677101,
+          "avgLogProbability": -0.29619880344556726,
+          "words": []
+        },
+        {
+          "start": 75.84,
+          "end": 78.96000000000001,
+          "text": " Tapi ada hal lain yang juga perlu kita pahami.",
+          "noSpeechProbability": 0.03661162033677101,
+          "avgLogProbability": -0.29619880344556726,
+          "words": []
+        },
+        {
+          "start": 78.96000000000001,
+          "end": 82.48,
+          "text": " Kebakaran hutan danlahan gak selalu terjadi begitu saja,",
+          "noSpeechProbability": 0.03661162033677101,
+          "avgLogProbability": -0.29619880344556726,
+          "words": []
+        },
+        {
+          "start": 82.48,
+          "end": 85.0,
+          "text": " aktivitas manusia juga punya perandasar",
+          "noSpeechProbability": 0.14946898818016052,
+          "avgLogProbability": -0.37384580871078865,
+          "words": []
+        },
+        {
+          "start": 85.0,
+          "end": 88.36,
+          "text": " pembukaan lahan menggunakan api, pengegengan gambut",
+          "noSpeechProbability": 0.14946898818016052,
+          "avgLogProbability": -0.37384580871078865,
+          "words": []
+        },
+        {
+          "start": 88.36,
+          "end": 90.96000000000001,
+          "text": " dan pengegulalan lahan yang tidak bertanggung jawab",
+          "noSpeechProbability": 0.14946898818016052,
+          "avgLogProbability": -0.37384580871078865,
+          "words": []
+        },
+        {
+          "start": 90.96000000000001,
+          "end": 93.04,
+          "text": " dapat meningkatkan risiko kebakaran",
+          "noSpeechProbability": 0.14946898818016052,
+          "avgLogProbability": -0.37384580871078865,
+          "words": []
+        },
+        {
+          "start": 93.04,
+          "end": 95.92,
+          "text": " dan ketika kondisi lingkungan sudah semakin kering",
+          "noSpeechProbability": 0.14946898818016052,
+          "avgLogProbability": -0.37384580871078865,
+          "words": []
+        },
+        {
+          "start": 95.92,
+          "end": 99.96000000000001,
+          "text": " satu sumber api saja bisa membawa dampak yang jauh lebih luas",
+          "noSpeechProbability": 0.14946898818016052,
+          "avgLogProbability": -0.37384580871078865,
+          "words": []
+        },
+        {
+          "start": 99.96000000000001,
+          "end": 101.72,
+          "text": " bukan hanya pada popohona",
+          "noSpeechProbability": 0.14946898818016052,
+          "avgLogProbability": -0.37384580871078865,
+          "words": []
+        },
+        {
+          "start": 101.72,
+          "end": 104.48,
+          "text": " tapi juga pada satwa yang kehilangan habitanya",
+          "noSpeechProbability": 0.14946898818016052,
+          "avgLogProbability": -0.37384580871078865,
+          "words": []
+        },
+        {
+          "start": 104.48,
+          "end": 106.96000000000001,
+          "text": " masyarakat yang harus menghadapi kabut asap",
+          "noSpeechProbability": 0.14946898818016052,
+          "avgLogProbability": -0.37384580871078865,
+          "words": []
+        },
+        {
+          "start": 106.96000000000001,
+          "end": 110.32000000000001,
+          "text": " dan lingkungan yang membutuhkan waktu panjang untuk buli",
+          "noSpeechProbability": 0.14946898818016052,
+          "avgLogProbability": -0.37384580871078865,
+          "words": []
+        },
+        {
+          "start": 110.32000000000001,
+          "end": 111.92,
+          "text": " kadang aku berfikir",
+          "noSpeechProbability": 0.14946898818016052,
+          "avgLogProbability": -0.37384580871078865,
+          "words": []
+        },
+        {
+          "start": 111.92,
+          "end": 114.92,
+          "text": " Kenapa kita sering baru benar-benar memperhatikan hutan",
+          "noSpeechProbability": 0.0779704600572586,
+          "avgLogProbability": -0.17162044871021326,
+          "words": []
+        },
+        {
+          "start": 114.92,
+          "end": 117.92,
+          "text": " ketika sesuatu yang buruk sudah terjadi?",
+          "noSpeechProbability": 0.0779704600572586,
+          "avgLogProbability": -0.17162044871021326,
+          "words": []
+        },
+        {
+          "start": 117.92,
+          "end": 119.92,
+          "text": " Kenapa kita menunggu asapnya terlihat",
+          "noSpeechProbability": 0.0779704600572586,
+          "avgLogProbability": -0.17162044871021326,
+          "words": []
+        },
+        {
+          "start": 119.92,
+          "end": 121.92,
+          "text": " sebelum mulai bertanya apa yang salah?",
+          "noSpeechProbability": 0.0779704600572586,
+          "avgLogProbability": -0.17162044871021326,
+          "words": []
+        },
+        {
+          "start": 121.92,
+          "end": 125.92,
+          "text": " Padahal ada banyak hal yang bisa diperhatikan lebih awal",
+          "noSpeechProbability": 0.0779704600572586,
+          "avgLogProbability": -0.17162044871021326,
+          "words": []
+        },
+        {
+          "start": 125.92,
+          "end": 129.92000000000002,
+          "text": " Kondisi air, perubahan penggunaan lahan, risiko kekeringan",
+          "noSpeechProbability": 0.0779704600572586,
+          "avgLogProbability": -0.17162044871021326,
+          "words": []
+        },
+        {
+          "start": 129.92000000000002,
+          "end": 132.92000000000002,
+          "text": " dan keputusan manusia dalam memperlakukan lingkungan",
+          "noSpeechProbability": 0.0779704600572586,
+          "avgLogProbability": -0.17162044871021326,
+          "words": []
+        },
+        {
+          "start": 132.92000000000002,
+          "end": 137.92000000000002,
+          "text": " Karena mencegah kebakaran bukan cuma soal memadamkan api sebelum membesar",
+          "noSpeechProbability": 0.0779704600572586,
+          "avgLogProbability": -0.17162044871021326,
+          "words": []
+        },
+        {
+          "start": 137.92000000000002,
+          "end": 144.92000000000002,
+          "text": " Tapi juga tentang menjaga, agar kondisi yang memunjukkan kebakaran itu terjadi tidak semakin buruk.",
+          "noSpeechProbability": 0.49439337849617004,
+          "avgLogProbability": -0.21799294627271593,
+          "words": []
+        },
+        {
+          "start": 144.92000000000002,
+          "end": 149.92000000000002,
+          "text": " Jadi lain kali ketika kamu melihat hutan yang masih hijau dan teman,",
+          "noSpeechProbability": 0.49439337849617004,
+          "avgLogProbability": -0.21799294627271593,
+          "words": []
+        },
+        {
+          "start": 149.92000000000002,
+          "end": 154.92000000000002,
+          "text": " ingatlah, ada hapa penting yang mungkin tidak terlihat oleh mata kita,",
+          "noSpeechProbability": 0.49439337849617004,
+          "avgLogProbability": -0.21799294627271593,
+          "words": []
+        },
+        {
+          "start": 154.92000000000002,
+          "end": 159.92000000000002,
+          "text": " karena sebelum api muncul, selalu ada kondisi yang perlu kita pahami,",
+          "noSpeechProbability": 0.49439337849617004,
+          "avgLogProbability": -0.21799294627271593,
+          "words": []
+        },
+        {
+          "start": 159.92000000000002,
+          "end": 166.92000000000002,
+          "text": " dan kadang kesempatan terbaik untuk menjaga hutan datang jauh sebelum kita melihat asapnya.",
+          "noSpeechProbability": 0.49439337849617004,
+          "avgLogProbability": -0.21799294627271593,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "sorrow",
+      "audioSrc": "/assets/audio/meditations/sorrow/sorrow audio.mp3",
+      "audioSha256": "105e2cf7bbf19b515be7cb319651b130743d4a31e124aa5e40d4cbffb522e91c",
+      "durationSeconds": 163.635,
+      "narrationDetectedByASR": true,
+      "contentManuallyReviewed": false,
+      "timingVerified": false,
+      "scriptReview": "Narasi Indonesia terdeteksi; kecocokan seluruh naskah dan timing masih perlu ditinjau.",
+      "machineSegments": [
+        {
+          "start": 0.0,
+          "end": 5.7,
+          "text": " Coba ingat lagi, suara hutan yang tadi kita dengar, burung-burung yang salah memanggil,",
+          "noSpeechProbability": 0.014852351509034634,
+          "avgLogProbability": -0.3757116012275219,
+          "words": []
+        },
+        {
+          "start": 5.7,
+          "end": 13.200000000000001,
+          "text": " hangin yang melawatir di daunan, dan kehidukan kecil yang terus perjalan bahkan saat gak ada manusia yang berhatikannya.",
+          "noSpeechProbability": 0.014852351509034634,
+          "avgLogProbability": -0.3757116012275219,
+          "words": []
+        },
+        {
+          "start": 13.200000000000001,
+          "end": 18.84,
+          "text": " Sekarang, coba bayangkan kalau suatu hari, suara-suara itu perlahan ilm.",
+          "noSpeechProbability": 0.014852351509034634,
+          "avgLogProbability": -0.3757116012275219,
+          "words": []
+        },
+        {
+          "start": 18.84,
+          "end": 24.0,
+          "text": " Bukan karena malam tiba, bukan karena hutan sedang beristirah,",
+          "noSpeechProbability": 0.014852351509034634,
+          "avgLogProbability": -0.3757116012275219,
+          "words": []
+        },
+        {
+          "start": 24.0,
+          "end": 28.7,
+          "text": " tapi karena tempat yang selama ini menjadi rumah mereka sudah nggak lagi sama.",
+          "noSpeechProbability": 0.014852351509034634,
+          "avgLogProbability": -0.3757116012275219,
+          "words": []
+        },
+        {
+          "start": 28.7,
+          "end": 33.2,
+          "text": " Ada pohon yang dulu menjadi tempat berpeduh, kini tinggal batang yang mengitam.",
+          "noSpeechProbability": 0.06868857145309448,
+          "avgLogProbability": -0.3428075111742261,
+          "words": []
+        },
+        {
+          "start": 33.2,
+          "end": 35.2,
+          "text": " Ada sarang yang di tinggalkan.",
+          "noSpeechProbability": 0.06868857145309448,
+          "avgLogProbability": -0.3428075111742261,
+          "words": []
+        },
+        {
+          "start": 35.2,
+          "end": 38.7,
+          "text": " Ada satu yang harus menjauh, mencari tempat lain.",
+          "noSpeechProbability": 0.06868857145309448,
+          "avgLogProbability": -0.3428075111742261,
+          "words": []
+        },
+        {
+          "start": 38.7,
+          "end": 41.2,
+          "text": " Tampat tahu apakah tempat itu masih amat.",
+          "noSpeechProbability": 0.06868857145309448,
+          "avgLogProbability": -0.3428075111742261,
+          "words": []
+        },
+        {
+          "start": 41.2,
+          "end": 46.2,
+          "text": " Dan ada manusia yang harus menjalan di hari-hari dengan udara yang dipenuhi asal.",
+          "noSpeechProbability": 0.06868857145309448,
+          "avgLogProbability": -0.3428075111742261,
+          "words": []
+        },
+        {
+          "start": 46.2,
+          "end": 49.7,
+          "text": " Bayangkan seorang anak yang biasanya bisa bermain di luar warna.",
+          "noSpeechProbability": 0.06868857145309448,
+          "avgLogProbability": -0.3428075111742261,
+          "words": []
+        },
+        {
+          "start": 49.7,
+          "end": 52.7,
+          "text": " Tapi hari itu, jendelannya harus ditutup.",
+          "noSpeechProbability": 0.06868857145309448,
+          "avgLogProbability": -0.3428075111742261,
+          "words": []
+        },
+        {
+          "start": 52.7,
+          "end": 57.7,
+          "text": " Bukan karena huja, mengainkan karena udara di luar sudah nggak nyaman untuk dihir.",
+          "noSpeechProbability": 0.06868857145309448,
+          "avgLogProbability": -0.3428075111742261,
+          "words": []
+        },
+        {
+          "start": 57.7,
+          "end": 61.18,
+          "text": " Kadang, kita melihat kebakaran buta dan jalan takkan.",
+          "noSpeechProbability": 0.11214227974414825,
+          "avgLogProbability": -0.4593958672444532,
+          "words": []
+        },
+        {
+          "start": 61.18,
+          "end": 65.7,
+          "text": " Berapa luas lahannya terlaku, berapa banyak ketika api hadit-tukkan,",
+          "noSpeechProbability": 0.11214227974414825,
+          "avgLogProbability": -0.4593958672444532,
+          "words": []
+        },
+        {
+          "start": 65.7,
+          "end": 68.5,
+          "text": " berapa lama tetugas berusaha memadamkannya.",
+          "noSpeechProbability": 0.11214227974414825,
+          "avgLogProbability": -0.4593958672444532,
+          "words": []
+        },
+        {
+          "start": 68.5,
+          "end": 72.02000000000001,
+          "text": " Tapi ada hal-hal yang sulit dijelaskan hanya dengan takkan.",
+          "noSpeechProbability": 0.11214227974414825,
+          "avgLogProbability": -0.4593958672444532,
+          "words": []
+        },
+        {
+          "start": 72.02000000000001,
+          "end": 75.02000000000001,
+          "text": " Seperti kehilangan tempat yang kita kenal sejak kecil.",
+          "noSpeechProbability": 0.11214227974414825,
+          "avgLogProbability": -0.4593958672444532,
+          "words": []
+        },
+        {
+          "start": 75.02000000000001,
+          "end": 80.02000000000001,
+          "text": " Atau rasa cemah ketika orang-orang yang kita sayang ini harus menghirup udara yang buruk.",
+          "noSpeechProbability": 0.11214227974414825,
+          "avgLogProbability": -0.4593958672444532,
+          "words": []
+        },
+        {
+          "start": 80.02000000000001,
+          "end": 83.5,
+          "text": " Atau kehidupan satwa yang tiba-tiba kehilangan tempat berlindung,",
+          "noSpeechProbability": 0.11214227974414825,
+          "avgLogProbability": -0.4593958672444532,
+          "words": []
+        },
+        {
+          "start": 83.5,
+          "end": 85.02,
+          "text": " yang membuat kusidih,",
+          "noSpeechProbability": 0.11761987954378128,
+          "avgLogProbability": -0.3855035616003949,
+          "words": []
+        },
+        {
+          "start": 85.02,
+          "end": 87.82,
+          "text": " hutan gak bisa meminta kita untuk berhenti.",
+          "noSpeechProbability": 0.11761987954378128,
+          "avgLogProbability": -0.3855035616003949,
+          "words": []
+        },
+        {
+          "start": 87.82,
+          "end": 91.7,
+          "text": " Satu-satu itu juga gak bisa menjalaskan apa yang mereka rasa akan.",
+          "noSpeechProbability": 0.11761987954378128,
+          "avgLogProbability": -0.3855035616003949,
+          "words": []
+        },
+        {
+          "start": 91.7,
+          "end": 95.58,
+          "text": " Dan kita sering kali baru benar-benar memperhatikan mereka",
+          "noSpeechProbability": 0.11761987954378128,
+          "avgLogProbability": -0.3855035616003949,
+          "words": []
+        },
+        {
+          "start": 95.58,
+          "end": 97.82,
+          "text": " ketika semuanya sudah terlanjut terjadi.",
+          "noSpeechProbability": 0.11761987954378128,
+          "avgLogProbability": -0.3855035616003949,
+          "words": []
+        },
+        {
+          "start": 97.82,
+          "end": 101.02,
+          "text": " Padahal sebuah hutan gak tumuh di harus malah.",
+          "noSpeechProbability": 0.11761987954378128,
+          "avgLogProbability": -0.3855035616003949,
+          "words": []
+        },
+        {
+          "start": 101.02,
+          "end": 104.42,
+          "text": " Ada waktu yang panjang, ada proses yang pelak.",
+          "noSpeechProbability": 0.11761987954378128,
+          "avgLogProbability": -0.3855035616003949,
+          "words": []
+        },
+        {
+          "start": 104.42,
+          "end": 107.26,
+          "text": " Ada begitu banyak kehidupan yang saling bergantung.",
+          "noSpeechProbability": 0.11761987954378128,
+          "avgLogProbability": -0.3855035616003949,
+          "words": []
+        },
+        {
+          "start": 107.26,
+          "end": 109.38,
+          "text": " Tapi ketika kebakaran terjadi,",
+          "noSpeechProbability": 0.11761987954378128,
+          "avgLogProbability": -0.3855035616003949,
+          "words": []
+        },
+        {
+          "start": 109.38,
+          "end": 112.62,
+          "text": " semuanya bisa berubah dalam waktu yang jauh lebih singkat.",
+          "noSpeechProbability": 0.11761987954378128,
+          "avgLogProbability": -0.3855035616003949,
+          "words": []
+        },
+        {
+          "start": 112.62,
+          "end": 114.82000000000001,
+          "text": " dan yang paling sulit untuk diterempa,",
+          "noSpeechProbability": 0.17909157276153564,
+          "avgLogProbability": -0.42066768502557517,
+          "words": []
+        },
+        {
+          "start": 114.82000000000001,
+          "end": 119.54,
+          "text": " sebagian kebakaran berkaitan dengan tindakan manusia yang sebenarnya bisa dihidari.",
+          "noSpeechProbability": 0.17909157276153564,
+          "avgLogProbability": -0.42066768502557517,
+          "words": []
+        },
+        {
+          "start": 119.54,
+          "end": 121.54,
+          "text": " Adalahan yang senajari bakar,",
+          "noSpeechProbability": 0.17909157276153564,
+          "avgLogProbability": -0.42066768502557517,
+          "words": []
+        },
+        {
+          "start": 121.54,
+          "end": 126.7,
+          "text": " ada keputusan yang diambil tanpa cukup memikirkan akibatnya bagi lingkungan dan orang lain.",
+          "noSpeechProbability": 0.17909157276153564,
+          "avgLogProbability": -0.42066768502557517,
+          "words": []
+        },
+        {
+          "start": 126.7,
+          "end": 129.1,
+          "text": " Aku terus memikirkan satu pertanyaan.",
+          "noSpeechProbability": 0.17909157276153564,
+          "avgLogProbability": -0.42066768502557517,
+          "words": []
+        },
+        {
+          "start": 129.1,
+          "end": 131.78,
+          "text": " Kalau kita tahu ada kehidupan yang bisa hilang,",
+          "noSpeechProbability": 0.17909157276153564,
+          "avgLogProbability": -0.42066768502557517,
+          "words": []
+        },
+        {
+          "start": 131.78,
+          "end": 135.62,
+          "text": " kalau kita tahu ada orang lain yang harus menanggu akibatnya,",
+          "noSpeechProbability": 0.17909157276153564,
+          "avgLogProbability": -0.42066768502557517,
+          "words": []
+        },
+        {
+          "start": 135.62,
+          "end": 138.94,
+          "text": " kenapa masih ada yang memilih menganggula di Sikowito?",
+          "noSpeechProbability": 0.17909157276153564,
+          "avgLogProbability": -0.42066768502557517,
+          "words": []
+        },
+        {
+          "start": 138.94,
+          "end": 143.94,
+          "text": " Lengkin yang paling menyebihkan bukan hanya membuat uten terbaga",
+          "noSpeechProbability": 0.10348455607891083,
+          "avgLogProbability": -0.640041176478068,
+          "words": []
+        },
+        {
+          "start": 144.94,
+          "end": 149.94,
+          "text": " Tapi menyadari bahwa sebagian kehilangan ini, zarusnya bisa dicegah",
+          "noSpeechProbability": 0.10348455607891083,
+          "avgLogProbability": -0.640041176478068,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "anger",
+      "audioSrc": "/assets/audio/meditations/anger/anger audio.mp3",
+      "audioSha256": "5e61901440c11b8e812a419f70ba92c5fc0fec80258d384aabe512244012a6ea",
+      "durationSeconds": 186.906,
+      "narrationDetectedByASR": true,
+      "contentManuallyReviewed": false,
+      "timingVerified": false,
+      "scriptReview": "Narasi Indonesia terdeteksi; kecocokan seluruh naskah dan timing masih perlu ditinjau.",
+      "machineSegments": [
+        {
+          "start": 0.0,
+          "end": 3.08,
+          "text": " Kalau sebagian kehilangan itu sebenarnya bisa dicegah,",
+          "noSpeechProbability": 0.007515948265790939,
+          "avgLogProbability": -0.3965850070670799,
+          "words": []
+        },
+        {
+          "start": 3.72,
+          "end": 6.92,
+          "text": " lalu kenapa masih ada yang membiarkannya terjadi?",
+          "noSpeechProbability": 0.007515948265790939,
+          "avgLogProbability": -0.3965850070670799,
+          "words": []
+        },
+        {
+          "start": 8.0,
+          "end": 9.64,
+          "text": " Aku mencoba memahami.",
+          "noSpeechProbability": 0.007515948265790939,
+          "avgLogProbability": -0.3965850070670799,
+          "words": []
+        },
+        {
+          "start": 10.32,
+          "end": 14.76,
+          "text": " Mungkin ada yang hanya memikirkan bagaimana pekerjaan bisa selesai lebih cepat.",
+          "noSpeechProbability": 0.007515948265790939,
+          "avgLogProbability": -0.3965850070670799,
+          "words": []
+        },
+        {
+          "start": 15.16,
+          "end": 18.04,
+          "text": " Bagaimana lahan bisa dibuka dengan biaya lebih murah?",
+          "noSpeechProbability": 0.007515948265790939,
+          "avgLogProbability": -0.3965850070670799,
+          "words": []
+        },
+        {
+          "start": 18.48,
+          "end": 20.8,
+          "text": " Bagaimana keuntungan hari ini bisa didappat,",
+          "noSpeechProbability": 0.007515948265790939,
+          "avgLogProbability": -0.3965850070670799,
+          "words": []
+        },
+        {
+          "start": 20.92,
+          "end": 23.76,
+          "text": " tanpa terlalu memikirkan apa yang akan terjadi besok?",
+          "noSpeechProbability": 0.007515948265790939,
+          "avgLogProbability": -0.3965850070670799,
+          "words": []
+        },
+        {
+          "start": 24.12,
+          "end": 26.48,
+          "text": " Tapi bagaimana dengan orang lain?",
+          "noSpeechProbability": 0.007515948265790939,
+          "avgLogProbability": -0.3965850070670799,
+          "words": []
+        },
+        {
+          "start": 26.48,
+          "end": 29.32,
+          "text": " bagaimana dengan keluarga yang harus menghirup asap,",
+          "noSpeechProbability": 0.02237676829099655,
+          "avgLogProbability": -0.3419277238549653,
+          "words": []
+        },
+        {
+          "start": 29.32,
+          "end": 32.12,
+          "text": " padaham mereka tidak pernah ikut mengambil keputusan itu.",
+          "noSpeechProbability": 0.02237676829099655,
+          "avgLogProbability": -0.3419277238549653,
+          "words": []
+        },
+        {
+          "start": 32.12,
+          "end": 35.76,
+          "text": " bagaimana dengan anak-anak yang harus memurangi aktivitas di luar rumah,",
+          "noSpeechProbability": 0.02237676829099655,
+          "avgLogProbability": -0.3419277238549653,
+          "words": []
+        },
+        {
+          "start": 35.76,
+          "end": 37.56,
+          "text": " karena kualitas udara memburuk,",
+          "noSpeechProbability": 0.02237676829099655,
+          "avgLogProbability": -0.3419277238549653,
+          "words": []
+        },
+        {
+          "start": 37.56,
+          "end": 40.24,
+          "text": " dan bagaimana dengan satu yang kehilangan habita,",
+          "noSpeechProbability": 0.02237676829099655,
+          "avgLogProbability": -0.3419277238549653,
+          "words": []
+        },
+        {
+          "start": 40.24,
+          "end": 42.64,
+          "text": " tanpa pernah punya kesempatan untuk memilih.",
+          "noSpeechProbability": 0.02237676829099655,
+          "avgLogProbability": -0.3419277238549653,
+          "words": []
+        },
+        {
+          "start": 43.64,
+          "end": 47.28,
+          "text": " Kita sering mendengar bahwa kebakaran hutan dan lahan adalah bencana.",
+          "noSpeechProbability": 0.02237676829099655,
+          "avgLogProbability": -0.3419277238549653,
+          "words": []
+        },
+        {
+          "start": 47.28,
+          "end": 52.0,
+          "text": " Dan memang, dampaknya bisa menjadi bencana bagi begitu banyak kehidupan.",
+          "noSpeechProbability": 0.02237676829099655,
+          "avgLogProbability": -0.3419277238549653,
+          "words": []
+        },
+        {
+          "start": 52.0,
+          "end": 54.92,
+          "text": " Tapi kita juga harus berani mengaku i satu hal.",
+          "noSpeechProbability": 0.02237676829099655,
+          "avgLogProbability": -0.3419277238549653,
+          "words": []
+        },
+        {
+          "start": 54.92,
+          "end": 59.120000000000005,
+          "text": " Tidak semua kebakaran hanya soal juajapanas atau musim kemarau.",
+          "noSpeechProbability": 0.2248346358537674,
+          "avgLogProbability": -0.2842281706192914,
+          "words": []
+        },
+        {
+          "start": 59.120000000000005,
+          "end": 62.32,
+          "text": " Ada tindakan manusia yang meningkatkan risikonya.",
+          "noSpeechProbability": 0.2248346358537674,
+          "avgLogProbability": -0.2842281706192914,
+          "words": []
+        },
+        {
+          "start": 62.32,
+          "end": 64.92,
+          "text": " Ada lahan yang dibakar dengan sengaja.",
+          "noSpeechProbability": 0.2248346358537674,
+          "avgLogProbability": -0.2842281706192914,
+          "words": []
+        },
+        {
+          "start": 64.92,
+          "end": 68.52,
+          "text": " Ada gambut yang dikeringkan tanpa mempertimbangkan kerentanannya.",
+          "noSpeechProbability": 0.2248346358537674,
+          "avgLogProbability": -0.2842281706192914,
+          "words": []
+        },
+        {
+          "start": 68.52,
+          "end": 75.52000000000001,
+          "text": " Dan ada keputusan yang akibatnya bisa birasakan oleh orang-orang yang bahkan gak pernah tau keputusan itu dibuat.",
+          "noSpeechProbability": 0.2248346358537674,
+          "avgLogProbability": -0.2842281706192914,
+          "words": []
+        },
+        {
+          "start": 75.52000000000001,
+          "end": 80.12,
+          "text": " Yang membuat kemarah, bukan karena manusia gak pernah melakukan kesalahan.",
+          "noSpeechProbability": 0.2248346358537674,
+          "avgLogProbability": -0.2842281706192914,
+          "words": []
+        },
+        {
+          "start": 80.12,
+          "end": 81.92,
+          "text": " Kita semua bisa salah.",
+          "noSpeechProbability": 0.2248346358537674,
+          "avgLogProbability": -0.2842281706192914,
+          "words": []
+        },
+        {
+          "start": 81.92,
+          "end": 84.12,
+          "text": " Tapi ketika risikus sudah diketahui,",
+          "noSpeechProbability": 0.2248346358537674,
+          "avgLogProbability": -0.2842281706192914,
+          "words": []
+        },
+        {
+          "start": 84.12,
+          "end": 94.12,
+          "text": " ketika dampaknya sudah berulang kali terlihat dan ketika masih ada yang memilih mengabai kania, rasanya sulit untuk terus menganggap semuanya sebagai sesuatu yang biasa.",
+          "noSpeechProbability": 0.09864997863769531,
+          "avgLogProbability": -0.20854350451765388,
+          "words": []
+        },
+        {
+          "start": 94.12,
+          "end": 96.12,
+          "text": " Coba pikirkan sebentar.",
+          "noSpeechProbability": 0.09864997863769531,
+          "avgLogProbability": -0.20854350451765388,
+          "words": []
+        },
+        {
+          "start": 96.12,
+          "end": 100.12,
+          "text": " Seseorang mungkin hanya melihat sebedang lahan yang ingin dibersihkan,",
+          "noSpeechProbability": 0.09864997863769531,
+          "avgLogProbability": -0.20854350451765388,
+          "words": []
+        },
+        {
+          "start": 100.12,
+          "end": 105.12,
+          "text": " tapi bagi mahluk hidup yang tinggal di sana, tempat itu adalah rumah.",
+          "noSpeechProbability": 0.09864997863769531,
+          "avgLogProbability": -0.20854350451765388,
+          "words": []
+        },
+        {
+          "start": 105.12,
+          "end": 112.12,
+          "text": " Bagi masyarakat di sekitarnya, udara yang bersih bukan kemewahan, itu kebutuhan, dan bagi generasi yang akan datam,",
+          "noSpeechProbability": 0.09864997863769531,
+          "avgLogProbability": -0.20854350451765388,
+          "words": []
+        },
+        {
+          "start": 112.12,
+          "end": 117.12,
+          "text": " Hutan bukan sesuatu yang bisa begitu saja kita ganti kan ketika sudah hilang.",
+          "noSpeechProbability": 0.7364029884338379,
+          "avgLogProbability": -0.2297214633690383,
+          "words": []
+        },
+        {
+          "start": 117.12,
+          "end": 120.12,
+          "text": " Lalu siapa yang harus bertanggung jawab?",
+          "noSpeechProbability": 0.7364029884338379,
+          "avgLogProbability": -0.2297214633690383,
+          "words": []
+        },
+        {
+          "start": 120.12,
+          "end": 124.12,
+          "text": " Apakah cukup hanya menunggu petugas datang ketika api sudah membesar?",
+          "noSpeechProbability": 0.7364029884338379,
+          "avgLogProbability": -0.2297214633690383,
+          "words": []
+        },
+        {
+          "start": 124.12,
+          "end": 128.12,
+          "text": " Apakah cukup merasa sedih setiap kali melihat berita tentang kebakaran?",
+          "noSpeechProbability": 0.7364029884338379,
+          "avgLogProbability": -0.2297214633690383,
+          "words": []
+        },
+        {
+          "start": 128.12,
+          "end": 130.12,
+          "text": " Lalu melupakannya ketika asak mulai menghilang?",
+          "noSpeechProbability": 0.7364029884338379,
+          "avgLogProbability": -0.2297214633690383,
+          "words": []
+        },
+        {
+          "start": 130.12,
+          "end": 132.12,
+          "text": " Aku rasa...",
+          "noSpeechProbability": 0.7364029884338379,
+          "avgLogProbability": -0.2297214633690383,
+          "words": []
+        },
+        {
+          "start": 132.12,
+          "end": 133.12,
+          "text": " Engga.",
+          "noSpeechProbability": 0.7364029884338379,
+          "avgLogProbability": -0.2297214633690383,
+          "words": []
+        },
+        {
+          "start": 133.12,
+          "end": 134.12,
+          "text": " Karena tanggung jawab,",
+          "noSpeechProbability": 0.7364029884338379,
+          "avgLogProbability": -0.2297214633690383,
+          "words": []
+        },
+        {
+          "start": 134.12,
+          "end": 137.12,
+          "text": " Baga berhenti ketika api berhasil di padamkan?",
+          "noSpeechProbability": 0.7364029884338379,
+          "avgLogProbability": -0.2297214633690383,
+          "words": []
+        },
+        {
+          "start": 137.12,
+          "end": 139.12,
+          "text": " Ada keputusan yang harus diperbaiki.",
+          "noSpeechProbability": 0.7364029884338379,
+          "avgLogProbability": -0.2297214633690383,
+          "words": []
+        },
+        {
+          "start": 139.12,
+          "end": 141.12,
+          "text": " Ada aturan yang harus dijalankan.",
+          "noSpeechProbability": 0.7364029884338379,
+          "avgLogProbability": -0.2297214633690383,
+          "words": []
+        },
+        {
+          "start": 141.12,
+          "end": 151.52,
+          "text": " di jalan kan, ada gindakan yang harus dipertanggung jawab kan, dan ada link ulang yang harus dijaga, bahkan ketika gak ada kebakaran yang sedang diberitakan.",
+          "noSpeechProbability": 0.7997822165489197,
+          "avgLogProbability": -0.322617887315296,
+          "words": []
+        },
+        {
+          "start": 151.52,
+          "end": 163.52,
+          "text": " Kadang, yang paling mengcewakan bukan kenyataan bahwa hutan bisa terbakar, tapi kenyataan bahwa kita sudah tahu risikonya, dan masih ada yang memilih untuk tidak peduli.",
+          "noSpeechProbability": 0.7997822165489197,
+          "avgLogProbability": -0.322617887315296,
+          "words": []
+        },
+        {
+          "start": 163.52,
+          "end": 168.52,
+          "text": " Tapi aku juga tahu, marah saja gak akan mengilamatkan satu bohon pun.",
+          "noSpeechProbability": 0.04573561251163483,
+          "avgLogProbability": -0.2446931946490492,
+          "words": []
+        },
+        {
+          "start": 168.52,
+          "end": 171.52,
+          "text": " Kita boleh kecewa, kita boleh mempertahanya kan.",
+          "noSpeechProbability": 0.04573561251163483,
+          "avgLogProbability": -0.2446931946490492,
+          "words": []
+        },
+        {
+          "start": 171.52,
+          "end": 178.52,
+          "text": " Kita bahkan perlu menuntut tanggung jawab, tapi setelah semua itu ada satu pertanyaan yang jauh lebih penting.",
+          "noSpeechProbability": 0.04573561251163483,
+          "avgLogProbability": -0.2446931946490492,
+          "words": []
+        },
+        {
+          "start": 178.52,
+          "end": 182.52,
+          "text": " Kalau kita masih punya kesempatan untuk mencegah kehilangan berikutnya,",
+          "noSpeechProbability": 0.04573561251163483,
+          "avgLogProbability": -0.2446931946490492,
+          "words": []
+        },
+        {
+          "start": 182.52,
+          "end": 186.52,
+          "text": " apa yang akan kita lakukan sebelum semuanya terlambat?",
+          "noSpeechProbability": 0.04573561251163483,
+          "avgLogProbability": -0.2446931946490492,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "hope",
+      "audioSrc": "/assets/audio/meditations/hope/hope.mp3",
+      "audioSha256": "be70eb8964465209fd19d657d1a8219ceb4c896d26d536cb91cc66e320a0e783",
+      "durationSeconds": 222.354,
+      "narrationDetectedByASR": true,
+      "contentManuallyReviewed": false,
+      "timingVerified": false,
+      "scriptReview": "Narasi Indonesia terdeteksi; kecocokan seluruh naskah dan timing masih perlu ditinjau.",
+      "machineSegments": [
+        {
+          "start": 0.0,
+          "end": 8.0,
+          "text": " Setelah semua yang kita dengar tentang kehidupan yang hilang, tentang kaputusan yang menyakiti begitu banyak mahluk hidup,",
+          "noSpeechProbability": 0.018303416669368744,
+          "avgLogProbability": -0.20054560416826495,
+          "words": []
+        },
+        {
+          "start": 8.0,
+          "end": 12.0,
+          "text": " mungkin ada satu pertanyaan yang masih tertinggal.",
+          "noSpeechProbability": 0.018303416669368744,
+          "avgLogProbability": -0.20054560416826495,
+          "words": []
+        },
+        {
+          "start": 12.0,
+          "end": 15.0,
+          "text": " Apa masih ada yang bisa kita lakukan?",
+          "noSpeechProbability": 0.018303416669368744,
+          "avgLogProbability": -0.20054560416826495,
+          "words": []
+        },
+        {
+          "start": 15.0,
+          "end": 18.0,
+          "text": " Aku percaya, masih ada.",
+          "noSpeechProbability": 0.018303416669368744,
+          "avgLogProbability": -0.20054560416826495,
+          "words": []
+        },
+        {
+          "start": 18.0,
+          "end": 21.0,
+          "text": " Bukan karena semua yang rusak bisa kembali seperti semula,",
+          "noSpeechProbability": 0.018303416669368744,
+          "avgLogProbability": -0.20054560416826495,
+          "words": []
+        },
+        {
+          "start": 21.0,
+          "end": 25.0,
+          "text": " bukan karena hutan yang terbakar bisa tumbuh lagi dalam semalam,",
+          "noSpeechProbability": 0.018303416669368744,
+          "avgLogProbability": -0.20054560416826495,
+          "words": []
+        },
+        {
+          "start": 25.0,
+          "end": 30.0,
+          "text": " dan bukan karena satu tindakan kecil mampu menyelesaikan semuanya.",
+          "noSpeechProbability": 0.585637092590332,
+          "avgLogProbability": -0.16959048128128051,
+          "words": []
+        },
+        {
+          "start": 30.0,
+          "end": 34.0,
+          "text": " Tapi karena masa depan belum sepenuhnya ditentukan.",
+          "noSpeechProbability": 0.585637092590332,
+          "avgLogProbability": -0.16959048128128051,
+          "words": []
+        },
+        {
+          "start": 34.0,
+          "end": 39.0,
+          "text": " Coba ingat lagi. Di awal perjalanan ini kita mendengar suara burung.",
+          "noSpeechProbability": 0.585637092590332,
+          "avgLogProbability": -0.16959048128128051,
+          "words": []
+        },
+        {
+          "start": 39.0,
+          "end": 43.0,
+          "text": " Kita membayangkan cahaya mata hari yang menembus di daunan",
+          "noSpeechProbability": 0.585637092590332,
+          "avgLogProbability": -0.16959048128128051,
+          "words": []
+        },
+        {
+          "start": 43.0,
+          "end": 48.0,
+          "text": " dan kita mengenal kehidupan yang selama ini berjalan tanpa banyak kita sadari.",
+          "noSpeechProbability": 0.585637092590332,
+          "avgLogProbability": -0.16959048128128051,
+          "words": []
+        },
+        {
+          "start": 48.0,
+          "end": 51.0,
+          "text": " Semua itu mengingatkan kita pada sesuatu.",
+          "noSpeechProbability": 0.585637092590332,
+          "avgLogProbability": -0.16959048128128051,
+          "words": []
+        },
+        {
+          "start": 51.0,
+          "end": 59.0,
+          "text": " bahwa hutan bukan hanya tentang apa yang sudah hilang, tapi juga tentang apa yang masih ada dan masih bisa kita jaga.",
+          "noSpeechProbability": 0.6110181212425232,
+          "avgLogProbability": -0.16345637906015964,
+          "words": []
+        },
+        {
+          "start": 59.0,
+          "end": 66.0,
+          "text": " Mungkin kamu pernah berfikir, aku cuma satu orang, memangnya apa yang bisa aku lakukan?",
+          "noSpeechProbability": 0.6110181212425232,
+          "avgLogProbability": -0.16345637906015964,
+          "words": []
+        },
+        {
+          "start": 66.0,
+          "end": 73.0,
+          "text": " Aku paham, karena kalau kita melihat persoalan sebesar kebakaran hutan, rasanya usaha kita terlalu kecil.",
+          "noSpeechProbability": 0.6110181212425232,
+          "avgLogProbability": -0.16345637906015964,
+          "words": []
+        },
+        {
+          "start": 73.0,
+          "end": 77.0,
+          "text": " Tapi menjaga hutan, gak selalu berarti kita harus berada di tengah hutan.",
+          "noSpeechProbability": 0.6110181212425232,
+          "avgLogProbability": -0.16345637906015964,
+          "words": []
+        },
+        {
+          "start": 77.0,
+          "end": 83.0,
+          "text": " Kita bisa mulai dengan memahami persoalannya, mencari informasi dari sumber yang bisa dipercaya,",
+          "noSpeechProbability": 0.24020053446292877,
+          "avgLogProbability": -0.16089226305484772,
+          "words": []
+        },
+        {
+          "start": 83.0,
+          "end": 87.0,
+          "text": " berhenti sebetulnya sebelum membagikan berita yang belum jelas kebenarannya,",
+          "noSpeechProbability": 0.24020053446292877,
+          "avgLogProbability": -0.16089226305484772,
+          "words": []
+        },
+        {
+          "start": 87.0,
+          "end": 91.0,
+          "text": " mendukung komunitas dan orang-orang yang bekerja menjaga lingkungan,",
+          "noSpeechProbability": 0.24020053446292877,
+          "avgLogProbability": -0.16089226305484772,
+          "words": []
+        },
+        {
+          "start": 91.0,
+          "end": 94.0,
+          "text": " dan mengajak orang lain untuk ikut peduli.",
+          "noSpeechProbability": 0.24020053446292877,
+          "avgLogProbability": -0.16089226305484772,
+          "words": []
+        },
+        {
+          "start": 94.0,
+          "end": 97.0,
+          "text": " Mungkin langkah-langkah itu terlihat sederhana,",
+          "noSpeechProbability": 0.24020053446292877,
+          "avgLogProbability": -0.16089226305484772,
+          "words": []
+        },
+        {
+          "start": 97.0,
+          "end": 101.0,
+          "text": " tapi setidaknya kita memilih untuk tidak berpaling.",
+          "noSpeechProbability": 0.24020053446292877,
+          "avgLogProbability": -0.16089226305484772,
+          "words": []
+        },
+        {
+          "start": 101.0,
+          "end": 106.0,
+          "text": " Dan tentu saja tanggung jawab ini bukan hanya milik kita sebagai individu,",
+          "noSpeechProbability": 0.24020053446292877,
+          "avgLogProbability": -0.16089226305484772,
+          "words": []
+        },
+        {
+          "start": 106.0,
+          "end": 115.0,
+          "text": " Ada pihak yang membuat keputusan tentang penggunaan lahat, ada aturan yang harus di tegak-kart, ada masyarakat yang harus dilibatkan dan di dengar ke.",
+          "noSpeechProbability": 0.12783074378967285,
+          "avgLogProbability": -0.23285537542298781,
+          "words": []
+        },
+        {
+          "start": 115.0,
+          "end": 121.0,
+          "text": " Dan ada orang-orang yang bekerja setiap hari untuk melindungi apa yang masih tersisa.",
+          "noSpeechProbability": 0.12783074378967285,
+          "avgLogProbability": -0.23285537542298781,
+          "words": []
+        },
+        {
+          "start": 121.0,
+          "end": 127.0,
+          "text": " Mereka juga membutuhkan dukungan, karena perubahan gak bisa dibobankan pada satu orang saja.",
+          "noSpeechProbability": 0.12783074378967285,
+          "avgLogProbability": -0.23285537542298781,
+          "words": []
+        },
+        {
+          "start": 127.0,
+          "end": 131.0,
+          "text": " Tahu gak, ada sesuatu yang terasa berbeda ketika kita mulai peduli.",
+          "noSpeechProbability": 0.12783074378967285,
+          "avgLogProbability": -0.23285537542298781,
+          "words": []
+        },
+        {
+          "start": 131.0,
+          "end": 135.0,
+          "text": " butan yang tadinya hanya terlihat seperti hamparan hijau,",
+          "noSpeechProbability": 0.7213819026947021,
+          "avgLogProbability": -0.2466618303914328,
+          "words": []
+        },
+        {
+          "start": 135.0,
+          "end": 137.0,
+          "text": " perlahan menjadi sesuatu yang punya arti.",
+          "noSpeechProbability": 0.7213819026947021,
+          "avgLogProbability": -0.2466618303914328,
+          "words": []
+        },
+        {
+          "start": 137.0,
+          "end": 140.0,
+          "text": " Kita mulai melihatnya sebagai rumah,",
+          "noSpeechProbability": 0.7213819026947021,
+          "avgLogProbability": -0.2466618303914328,
+          "words": []
+        },
+        {
+          "start": 140.0,
+          "end": 142.0,
+          "text": " sebagai tempat kehidupan saling bergantung,",
+          "noSpeechProbability": 0.7213819026947021,
+          "avgLogProbability": -0.2466618303914328,
+          "words": []
+        },
+        {
+          "start": 142.0,
+          "end": 146.0,
+          "text": " sebagai sesuatu yang keberadaan yang gak bisa kita anggap biasa.",
+          "noSpeechProbability": 0.7213819026947021,
+          "avgLogProbability": -0.2466618303914328,
+          "words": []
+        },
+        {
+          "start": 146.0,
+          "end": 148.0,
+          "text": " Aku gak tahu seperti apa,",
+          "noSpeechProbability": 0.7213819026947021,
+          "avgLogProbability": -0.2466618303914328,
+          "words": []
+        },
+        {
+          "start": 148.0,
+          "end": 150.0,
+          "text": " dan butan kita bertahunta aku dari segara.",
+          "noSpeechProbability": 0.7213819026947021,
+          "avgLogProbability": -0.2466618303914328,
+          "words": []
+        },
+        {
+          "start": 150.0,
+          "end": 154.0,
+          "text": " Aku juga gak bisa menjanjikan bahwa semua kebakaran akan berhenti.",
+          "noSpeechProbability": 0.7213819026947021,
+          "avgLogProbability": -0.2466618303914328,
+          "words": []
+        },
+        {
+          "start": 154.0,
+          "end": 156.0,
+          "text": " Tapi aku percaya,",
+          "noSpeechProbability": 0.7213819026947021,
+          "avgLogProbability": -0.2466618303914328,
+          "words": []
+        },
+        {
+          "start": 156.0,
+          "end": 158.0,
+          "text": " kepedulian yang diikuti tindakan",
+          "noSpeechProbability": 0.7213819026947021,
+          "avgLogProbability": -0.2466618303914328,
+          "words": []
+        },
+        {
+          "start": 158.0,
+          "end": 162.0,
+          "text": " jauh lebih berarti dari pada sekedar berharap semuanya baik-baik saja.",
+          "noSpeechProbability": 0.2615353465080261,
+          "avgLogProbability": -0.2862288428515923,
+          "words": []
+        },
+        {
+          "start": 162.0,
+          "end": 166.0,
+          "text": " Dan mungkin itu lahalasan kita perlu mulai sekarang,",
+          "noSpeechProbability": 0.2615353465080261,
+          "avgLogProbability": -0.2862288428515923,
+          "words": []
+        },
+        {
+          "start": 166.0,
+          "end": 168.0,
+          "text": " bukan setelah langit di penuhi asap,",
+          "noSpeechProbability": 0.2615353465080261,
+          "avgLogProbability": -0.2862288428515923,
+          "words": []
+        },
+        {
+          "start": 168.0,
+          "end": 171.0,
+          "text": " bukan setelah berita kebakaran kembali memunuhi layar kita,",
+          "noSpeechProbability": 0.2615353465080261,
+          "avgLogProbability": -0.2862288428515923,
+          "words": []
+        },
+        {
+          "start": 171.0,
+          "end": 173.0,
+          "text": " tapi saat kutan masih berdiri,",
+          "noSpeechProbability": 0.2615353465080261,
+          "avgLogProbability": -0.2862288428515923,
+          "words": []
+        },
+        {
+          "start": 173.0,
+          "end": 175.0,
+          "text": " saat burung-burung masih bernyanyi,",
+          "noSpeechProbability": 0.2615353465080261,
+          "avgLogProbability": -0.2862288428515923,
+          "words": []
+        },
+        {
+          "start": 175.0,
+          "end": 178.0,
+          "text": " saat masih ada kehidupan yang bisa di lima.",
+          "noSpeechProbability": 0.2615353465080261,
+          "avgLogProbability": -0.2862288428515923,
+          "words": []
+        },
+        {
+          "start": 178.0,
+          "end": 183.0,
+          "text": " Kalau satu hari nanti kamu kembali mendengar suara hangin di antara popoana,",
+          "noSpeechProbability": 0.2615353465080261,
+          "avgLogProbability": -0.2862288428515923,
+          "words": []
+        },
+        {
+          "start": 183.0,
+          "end": 186.0,
+          "text": " atau melihat cahaya matahari menyatuh di daunan,",
+          "noSpeechProbability": 0.2615353465080261,
+          "avgLogProbability": -0.2862288428515923,
+          "words": []
+        },
+        {
+          "start": 186.0,
+          "end": 188.68,
+          "text": " Aku harap kamu mengingat perjalanan ini.",
+          "noSpeechProbability": 0.09855815023183823,
+          "avgLogProbability": -0.24770264442957624,
+          "words": []
+        },
+        {
+          "start": 188.68,
+          "end": 193.04,
+          "text": " Bawa Hutan menyimpan lebih banyak kehidupan dari pada yang bisa kita lihat.",
+          "noSpeechProbability": 0.09855815023183823,
+          "avgLogProbability": -0.24770264442957624,
+          "words": []
+        },
+        {
+          "start": 193.04,
+          "end": 196.8,
+          "text": " Bawa kehilangan bukan sesuatu yang harus kita angka biasa",
+          "noSpeechProbability": 0.09855815023183823,
+          "avgLogProbability": -0.24770264442957624,
+          "words": []
+        },
+        {
+          "start": 196.8,
+          "end": 202.76,
+          "text": " dan Bawa Kepedulian baru benar-benar berarti ketika kita memilih melakukan sesuatu.",
+          "noSpeechProbability": 0.09855815023183823,
+          "avgLogProbability": -0.24770264442957624,
+          "words": []
+        },
+        {
+          "start": 202.76,
+          "end": 205.16,
+          "text": " Kita mungkin gak bisa mengubah kemarin,",
+          "noSpeechProbability": 0.09855815023183823,
+          "avgLogProbability": -0.24770264442957624,
+          "words": []
+        },
+        {
+          "start": 205.16,
+          "end": 207.8,
+          "text": " tapi kita masih punya pilihan untuk hari ini.",
+          "noSpeechProbability": 0.09855815023183823,
+          "avgLogProbability": -0.24770264442957624,
+          "words": []
+        },
+        {
+          "start": 207.8,
+          "end": 213.0,
+          "text": " Karena menjaga Hutan bukan pekerjaan yang baru dimulai setelah semuanya terbakar.",
+          "noSpeechProbability": 0.09855815023183823,
+          "avgLogProbability": -0.24770264442957624,
+          "words": []
+        },
+        {
+          "start": 213.0,
+          "end": 216.32,
+          "text": " sebelum api muncul masih ada kesempatan",
+          "noSpeechProbability": 0.047371238470077515,
+          "avgLogProbability": -0.4168817599614461,
+          "words": []
+        },
+        {
+          "start": 216.32,
+          "end": 219.8,
+          "text": " dan kesempatan itu ada ditanggan kita bersama",
+          "noSpeechProbability": 0.047371238470077515,
+          "avgLogProbability": -0.4168817599614461,
+          "words": []
+        },
+        {
+          "start": 219.8,
+          "end": 222.32,
+          "text": " Tagar sebelum jadi api",
+          "noSpeechProbability": 0.047371238470077515,
+          "avgLogProbability": -0.4168817599614461,
+          "words": []
+        }
+      ]
+    }
+  ]
+}

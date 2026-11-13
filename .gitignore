@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Lingkungan audit audio lokal, tidak dikirim bersama website
+tmp/
+.openai/
+graphify-out/
+*.zip
+.env
+.env.*
+.env.local

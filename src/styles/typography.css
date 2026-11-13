@@ -1,0 +1,13 @@
+:root {
+  font-family: var(--font-body);
+  font-size: 100%;
+  line-height: 1.65;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  color: var(--color-text-primary);
+}
+h1, h2, h3, p { margin: 0; }
+h1 { font-family: var(--font-display); font-size: clamp(3.75rem, 10vw, 9rem); font-weight: 800; line-height: 1.04; letter-spacing: -0.035em; }
+h2, h3 { line-height: 1.2; }
+.eyebrow { font-size: var(--font-size-small); letter-spacing: 0.12em; text-transform: uppercase; line-height: 1.6; color: var(--color-text-muted); }

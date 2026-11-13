@@ -1,0 +1,245 @@
+{
+  "reference": "docs/SEBELUMJADIAPI_5_NARASI_MEDITATIONS.docx",
+  "corrections": {
+    "anger-001": {
+      "from": "kalau sebagian kehilangan itu sebenernya bisa",
+      "to": "Kalau sebagian kehilangan itu sebenarnya bisa"
+    },
+    "anger-012": {
+      "from": "asap, padahal mereka gak pernah ikut mengambil",
+      "to": "asap, padahal mereka nggak pernah ikut mengambil"
+    },
+    "anger-017": {
+      "from": "Dan bagaimana dengan satua yang kehilangan",
+      "to": "Dan bagaimana dengan satwa yang kehilangan"
+    },
+    "anger-024": {
+      "from": "Tapi kita juga harus berani mengangkui satu hal.",
+      "to": "Tapi kita juga harus berani mengakui satu hal."
+    },
+    "anger-032": {
+      "from": "oleh orang-orang yang bahkan gak pernah tahu",
+      "to": "oleh orang-orang yang bahkan nggak pernah tahu"
+    },
+    "anger-034": {
+      "from": "Yang membuatku marah, bukan karena manusia gak",
+      "to": "Yang membuatku marah, bukan karena manusia nggak"
+    },
+    "anger-060": {
+      "from": "berhasil di padamkan.",
+      "to": "berhasil dipadamkan."
+    },
+    "anger-062": {
+      "from": "yang harus dijalankan, ada gindakan yang harus",
+      "to": "yang harus dijalankan, ada tindakan yang harus"
+    },
+    "anger-063": {
+      "from": "dipertanggung jawabkan, dan ada lingkungan yang",
+      "to": "dipertanggungjawabkan, dan ada lingkungan yang"
+    },
+    "anger-064": {
+      "from": "harus dijaga, bahkan ketika gaada kebakaran yang",
+      "to": "harus dijaga, bahkan ketika nggak ada kebakaran yang"
+    },
+    "anger-068": {
+      "from": "kita sudah tau risikonya dan masih ada yang",
+      "to": "kita sudah tahu risikonya dan masih ada yang"
+    },
+    "anger-070": {
+      "from": "Tapi aku juga tahu, marah saja gak akan",
+      "to": "Tapi aku juga tahu, marah saja nggak akan"
+    },
+    "anger-071": {
+      "from": "mengelamatkan satu pohon pun.",
+      "to": "menyelamatkan satu pohon pun."
+    },
+    "awareness-004": {
+      "from": "angin yang melewati daunan, dan semua hal kecil",
+      "to": "angin yang melewati dedaunan, dan semua hal kecil"
+    },
+    "awareness-029": {
+      "from": "Dan yang sering gak kita sadari, api pada lahan",
+      "to": "Dan yang sering nggak kita sadari, api pada lahan"
+    },
+    "awareness-032": {
+      "from": "tenang, bukan berarti gak ada bahaya di bawahnya.",
+      "to": "tenang, bukan berarti nggak ada bahaya di bawahnya."
+    },
+    "awareness-034": {
+      "from": "Kebakaran hutan dan lahan gak selalu terjadi",
+      "to": "Kebakaran hutan dan lahan nggak selalu terjadi"
+    },
+    "awareness-036": {
+      "from": "aktivitas manusia juga punya peran desar,",
+      "to": "aktivitas manusia juga punya peran besar,"
+    },
+    "awareness-045": {
+      "from": "Bukan hanya pada popohonan, tapi juga pada satua",
+      "to": "Bukan hanya pada pepohonan, tapi juga pada satwa"
+    },
+    "awareness-066": {
+      "from": "hijau dan temang,",
+      "to": "hijau dan tenang,"
+    },
+    "awareness-075": {
+      "from": "Terima",
+      "to": null
+    },
+    "hope-003": {
+      "from": "begitu banyak mahluk hidup, mungkin ada satu",
+      "to": "begitu banyak makhluk hidup, mungkin ada satu"
+    },
+    "hope-018": {
+      "from": "Kita membayangkan cahaya mata hari yang menembus",
+      "to": "Kita membayangkan cahaya matahari yang menembus"
+    },
+    "hope-020": {
+      "from": "ini berjalan tanpa bandar kita sadari.",
+      "to": "ini berjalan tanpa banyak kita sadari."
+    },
+    "hope-032": {
+      "from": "Tapi menjaga hutan, gak selalu berarti kita harus",
+      "to": "Tapi menjaga hutan, nggak selalu berarti kita harus"
+    },
+    "hope-048": {
+      "from": "ditegarkan, ada masyarakat yang harus dilibatkan",
+      "to": "ditegakkan, ada masyarakat yang harus dilibatkan"
+    },
+    "hope-052": {
+      "from": "perubahan gak bisa dibebankan pada satu orang",
+      "to": "perubahan nggak bisa dibebankan pada satu orang"
+    },
+    "hope-053": {
+      "from": "saja tau gak, ada sesuatu yang terasa berbeda",
+      "to": "saja tahu nggak, ada sesuatu yang terasa berbeda"
+    },
+    "hope-064": {
+      "from": "lebih berarti daripada sekedar berharap semuanya",
+      "to": "lebih berarti daripada sekadar berharap semuanya"
+    },
+    "hope-066": {
+      "from": "perlu mulai sekarang",
+      "to": "perlu memulai sekarang"
+    },
+    "hope-067": {
+      "from": "Bukan setelah langit di penuhi asap,",
+      "to": "Bukan setelah langit dipenuhi asap,"
+    },
+    "hope-068": {
+      "from": "Bukan setelah beritaku bakaran kembali memenuhi",
+      "to": "Bukan setelah berita kebakaran kembali memenuhi"
+    },
+    "hope-083": {
+      "from": "Kita mungkin gak bisa mengubah kemarin, tapi kita",
+      "to": "Kita mungkin nggak bisa mengubah kemarin, tapi kita"
+    },
+    "peace-002": {
+      "from": "Kamu bener-bener berhenti sebentar Hanya untuk",
+      "to": "Kamu benar-benar berhenti sebentar Hanya untuk"
+    },
+    "peace-013": {
+      "from": "Sekarang kamu sedang berhati berdiri di tengah",
+      "to": "Sekarang kamu sedang berdiri di tengah"
+    },
+    "peace-017": {
+      "from": "Udara terasa sejuk, tanah masih lembab setelah",
+      "to": "Udara terasa sejuk, tanah masih lembap setelah"
+    },
+    "peace-020": {
+      "from": "Tapi, tau gak, hutan sebenarnya gak pernah",
+      "to": "Tapi, tahu nggak, hutan sebenarnya nggak pernah"
+    },
+    "peace-021": {
+      "from": "benar-benar gil.",
+      "to": "benar-benar diam."
+    },
+    "peace-024": {
+      "from": "Ada burung yang mencari makan, ada satua yang",
+      "to": "Ada burung yang mencari makan, ada satwa yang"
+    },
+    "peace-027": {
+      "from": "bagian penting dari kehidupan di sekitanya dan",
+      "to": "bagian penting dari kehidupan di sekitarnya dan"
+    },
+    "peace-035": {
+      "from": "karbon dan menyediakan habitat bagi berbagai malu",
+      "to": "karbon dan menyediakan habitat bagi berbagai makhluk"
+    },
+    "sorrow-003": {
+      "from": "angin yang melewati dedaunan, dan kehidukan kecil",
+      "to": "angin yang melewati dedaunan, dan kehidupan kecil"
+    },
+    "sorrow-004": {
+      "from": "yang terus perjalan, bahkan saat nggak ada",
+      "to": "yang terus berjalan, bahkan saat nggak ada"
+    },
+    "sorrow-012": {
+      "from": "Ada pohon yang dulu menjadi tempat berteduf, kini",
+      "to": "Ada pohon yang dulu menjadi tempat berteduh, kini"
+    },
+    "sorrow-013": {
+      "from": "tinggal batang yang menghitung.",
+      "to": "tinggal batang yang menghitam."
+    },
+    "sorrow-015": {
+      "from": "Ada satua yang harus menjauh, mencari tempat",
+      "to": "Ada satwa yang harus menjauh, mencari tempat"
+    },
+    "sorrow-016": {
+      "from": "lain, tanpa tahu apakah tempat itu masih amat.",
+      "to": "lain, tanpa tahu apakah tempat itu masih aman."
+    },
+    "sorrow-018": {
+      "from": "dengan udara yang dipenuhi asam.",
+      "to": "dengan udara yang dipenuhi asap."
+    },
+    "sorrow-021": {
+      "from": "Tapi hari itu, jendelannya harus ditutup.",
+      "to": "Tapi hari itu, jendelanya harus ditutup."
+    },
+    "sorrow-022": {
+      "from": "Bukan karena huja.",
+      "to": "Bukan karena hujan."
+    },
+    "sorrow-023": {
+      "from": "Melayinkan karena udara di luar sudah nggak",
+      "to": "Melainkan karena udara di luar sudah nggak"
+    },
+    "sorrow-025": {
+      "from": "Kadang kita melihat kebakaran hutan hanya dalam",
+      "to": "Kadang kita melihat kebakaran hutan hanya lewat"
+    },
+    "sorrow-035": {
+      "from": "atau kehidupan satua yang tiba-tiba kehilangan",
+      "to": "atau kehidupan satwa yang tiba-tiba kehilangan"
+    },
+    "sorrow-038": {
+      "from": "hutan gak bisa meminta kita untuk berhenti.",
+      "to": "hutan nggak bisa meminta kita untuk berhenti."
+    },
+    "sorrow-039": {
+      "from": "Satu-satu waktu itu juga gak bisa menjelaskan apa",
+      "to": "Satwa-satwa itu juga nggak bisa menjelaskan apa"
+    },
+    "sorrow-041": {
+      "from": "Dan kita, seringkali baru benar-benar",
+      "to": "Dan kita, sering kali baru benar-benar"
+    },
+    "sorrow-044": {
+      "from": "Padahal, sebuah hutan gak tumbuh dahulu semalam.",
+      "to": "Padahal, sebuah hutan nggak tumbuh dalam semalam."
+    },
+    "sorrow-062": {
+      "from": "Mungkin yang paling menyedihkan bukan hanya bayi",
+      "to": "Mungkin yang paling menyedihkan bukan hanya melihat"
+    },
+    "sorrow-063": {
+      "from": "hatutan terbakar, tapi menyadari bahwa sebagian",
+      "to": "hutan terbakar, tapi menyadari bahwa sebagian"
+    },
+    "hope-089": {
+      "from": "Tagar sebelum jadi api.",
+      "to": "#SebelumJadiApi."
+    }
+  }
+}

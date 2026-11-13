@@ -1,0 +1,42 @@
+.ca-section.prevention-lab { background: #070907; }
+.ca-section .lab-heading { margin-bottom: 34px; }
+.lab-stage { display: grid; grid-template-columns: 1.12fr 1fr; gap: clamp(22px, 4vw, 55px); align-items: stretch; animation: ca-arrive .4s both; }
+.lab-plate { min-height: 460px; border: 1px solid var(--ca-line); border-radius: 4px; }
+.lab-plate .ca-layer-back { object-position: 54% center; }
+.lab-plate .ca-layer-shade { background: linear-gradient(180deg, #080c0800 50%, #080c08bf); }
+.lab-plate .ca-depth-content { min-height: inherit; display: flex; align-items: flex-end; padding: 24px; }
+.lab-plate-index { display: flex; gap: 9px; align-items: center; font-size: .74rem; color: #e4e8d6; font-variant-numeric: tabular-nums; }
+.lab-plate-index i { width: 38px; height: 1px; background: #e4e8d69e; }
+.lab-case { min-width: 0; padding-block: 8px; align-self: center; }
+.lab-case h3 { font: 400 clamp(1.8rem, 3.2vw, 3rem)/1.08 Georgia, serif; letter-spacing: -.036em; margin-bottom: 16px; }
+.lab-scene { color: var(--ca-muted); font-size: .87rem; line-height: 1.7; margin-bottom: 22px; }
+.lab-case h4 { font: 500 .92rem/1.45 var(--font-body); margin: 0 0 11px; }
+.lab-options { display: grid; gap: 7px; }
+.lab-options button {
+  display: grid;
+  grid-template-columns: 20px minmax(0, 1fr) 12px;
+  align-items: center;
+  gap: 12px;
+  min-height: 56px;
+  padding: 11px 13px;
+  border: 1px solid var(--ca-line);
+  border-radius: 3px;
+  background: #141a13;
+  color: #ecebe0;
+  font-size: .81rem;
+  text-align: left;
+  cursor: pointer;
+  transition: transform .22s, background .22s, border-color .22s;
+}
+.lab-options button span:first-child, .lab-options button span:last-child { color: #bdd19f; font-size: .72rem; }
+.lab-options button:hover { transform: translateX(3px); border-color: #acc198; }
+.lab-options button[aria-pressed=true] { background: #293722; border-color: #b0c58b; }
+.lab-response { background: #18221a; border-left: 2px solid #b5c692; padding: 12px 14px; margin-top: 12px; font-size: .79rem; line-height: 1.55; }
+.lab-response[data-correct=false] { border-color: #cba46e; background: #251e15; }
+.lab-response p { color: #d0d6c6; margin: 4px 0 8px; }
+.lab-navigation { margin-top: 12px; }
+@media (max-width: 780px) {
+  .lab-stage { grid-template-columns: 1fr; }
+  .lab-plate { min-height: clamp(190px, 53vw, 335px); }
+  .lab-plate .ca-depth-content { padding: 15px; }
+}

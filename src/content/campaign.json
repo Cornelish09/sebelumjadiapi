@@ -1,0 +1,18 @@
+{
+  "name": "#SebelumJadiApi",
+  "eyebrow": "Kehidupan yang patut kita jaga",
+  "headline": [
+    "Sebelum api,",
+    "ada kehidupan."
+  ],
+  "introduction": "Apa yang bisa kita jaga sebelum jadi api?",
+  "scene": {
+    "label": "Pohon Penjaga / The Living Witness",
+    "description": "Interpretasi artistik pohon tropis. Aliran cahaya adalah metafora keterhubungan kehidupan, bukan proses biologis terukur.",
+    "loading": "Menelusuri jejak kehidupan…",
+    "unavailable": "Pohon interaktif tidak dapat ditampilkan di perangkat ini. Cerita pencegahan tetap dapat dibaca: apa yang bisa kita jaga, sebelum jadi api?",
+    "pause": "Jeda gerak",
+    "resume": "Lanjutkan gerak"
+  },
+  "disclaimer": "Bukan situs resmi WWF Indonesia, web ini hanya untuk memenuhi tugas Digital Public Relations Mahasiswa Ilmu Komunikasi Universitas Airlangga."
+}

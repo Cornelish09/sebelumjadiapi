@@ -1,0 +1,1590 @@
+{
+  "project": "#SebelumJadiApi",
+  "purpose": "Transcript source and untimed cue candidates for Meditations. All timings must be aligned to the real narration audio; do not calculate from word count.",
+  "episodes": [
+    {
+      "id": "peace",
+      "label": "01 — PEACE",
+      "title": "Sebelum Semuanya Berubah",
+      "theme": "Why It Matters",
+      "intro": "Dengarkan kehidupan yang sering luput dari perhatian. Sebelum kita membicarakan api, mari mengenal apa yang masih hidup di dalam hutan.",
+      "audioCandidatePath": "/assets/audio/meditations/peace/peace audio.mp3",
+      "audioContentsVerified": false,
+      "timingStatus": "UNALIGNED",
+      "cues": [
+        {
+          "id": "peace-001",
+          "text": "Pernah nggak... kamu benar-benar berhenti sebentar, hanya untuk mendengarkan suara alam?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-002",
+          "text": "Bukan suara kendaraan. Bukan notifikasi yang terus berdatangan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-003",
+          "text": "Tapi... suara angin yang melewati dedaunan. Burung-burung yang saling memanggil. Dan serangga kecil yang entah dari mana, selalu punya cara untuk mengisi keheningan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-004",
+          "text": "Coba bayangkan...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-005",
+          "text": "Kamu sedang berdiri di tengah hutan, pada suatu pagi.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-006",
+          "text": "Cahaya matahari perlahan masuk melalui celah pepohonan. Udara terasa sejuk. Tanah masih lembap setelah hujan semalam.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-007",
+          "text": "Di sekelilingmu, semuanya terlihat begitu tenang.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-008",
+          "text": "Tapi sebenarnya... hutan nggak pernah benar-benar diam.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-009",
+          "text": "Ada kehidupan yang terus berjalan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-010",
+          "text": "Di atas sana, burung-burung mencari makan dan berpindah dari satu dahan ke dahan lainnya.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-011",
+          "text": "Di antara pepohonan, berbagai makhluk hidup menemukan tempat untuk berlindung.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-012",
+          "text": "Dan jauh di bawah kaki kita... akar, air, tanah, serta organisme-organisme kecil menjadi bagian dari ekosistem yang saling terhubung.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-013",
+          "text": "Menarik, ya?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-014",
+          "text": "Sesuatu yang selama ini mungkin cuma kita lihat sebagai kumpulan pohon... ternyata menyimpan begitu banyak kehidupan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-015",
+          "text": "Dan setiap bagian dari hutan punya perannya sendiri.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-016",
+          "text": "Ada yang menjadi tempat tinggal. Ada yang menyediakan makanan. Ada yang membantu menjaga air dan tanah.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-017",
+          "text": "Semuanya saling berkaitan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-018",
+          "text": "Kadang kita lupa...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-019",
+          "text": "Bahwa hutan bukan sekadar pemandangan indah yang kita lihat dari layar ponsel.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-020",
+          "text": "Hutan adalah rumah.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-021",
+          "text": "Bukan cuma untuk satwa yang hidup di dalamnya, tapi juga bagian dari lingkungan yang mendukung kehidupan manusia.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-022",
+          "text": "Hutan membantu menyimpan karbon, menjaga berbagai habitat, dan memiliki peran penting dalam siklus air.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-023",
+          "text": "Dan bagi masyarakat yang hidup di sekitarnya, hutan juga bisa menjadi bagian dari kehidupan, pengetahuan, dan mata pencaharian mereka.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-024",
+          "text": "Sekarang, coba lihat pohon yang ada di hadapanmu.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-025",
+          "text": "Bayangkan berapa banyak kehidupan yang bergantung pada lingkungan di sekitarnya.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-026",
+          "text": "Berapa banyak hujan yang pernah membasahi tanah tempat akarnya tumbuh.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-027",
+          "text": "Berapa banyak pagi yang pernah datang... dan pergi.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-028",
+          "text": "Kita mungkin nggak tahu semua jawabannya.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-029",
+          "text": "Tapi satu hal yang bisa kita pahami...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-030",
+          "text": "Kehidupan di hutan jauh lebih besar daripada apa yang terlihat oleh mata kita.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-031",
+          "text": "Dan mungkin, selama ini kita terlalu sibuk melihat hutan...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-032",
+          "text": "sampai lupa mendengarkannya.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-033",
+          "text": "Jadi, sebelum cerita ini berlanjut...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-034",
+          "text": "aku ingin kamu mengingat satu hal.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-035",
+          "text": "Di balik setiap pohon, ada kehidupan yang layak dijaga.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-036",
+          "text": "Dan sebelum kita membicarakan api...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-037",
+          "text": "mari kita pahami terlebih dahulu...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-038",
+          "text": "apa yang bisa hilang.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-039",
+          "text": "Karena sebelum api muncul...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "peace-040",
+          "text": "ada kehidupan.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "awareness",
+      "label": "02 — AWARENESS",
+      "title": "Yang Tak Terlihat Sebelum Api",
+      "theme": "Before the Fire",
+      "intro": "Di balik hutan yang tampak tenang, ada kondisi yang menentukan kerentanannya. Dengarkan apa yang terjadi jauh sebelum asap terlihat.",
+      "audioCandidatePath": "/assets/audio/meditations/awareness/awareness audio.mp3",
+      "audioContentsVerified": false,
+      "timingStatus": "UNALIGNED",
+      "cues": [
+        {
+          "id": "awareness-001",
+          "text": "Tadi... kita sudah mendengar bagaimana hutan menyimpan begitu banyak kehidupan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-002",
+          "text": "Suara burung. Angin yang melewati dedaunan. Dan semua hal kecil yang membuatnya terasa hidup.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-003",
+          "text": "Tapi pernah nggak kamu berpikir...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-004",
+          "text": "Apa yang sebenarnya terjadi... sebelum sebuah hutan terbakar?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-005",
+          "text": "Kita sering tahu ada kebakaran ketika asap mulai terlihat. Ketika langit berubah warna. Atau ketika berita tentang hutan yang terbakar mulai muncul di mana-mana.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-006",
+          "text": "Padahal... ceritanya bisa dimulai jauh sebelum itu.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-007",
+          "text": "Coba bayangkan tanah yang ada di bawah kaki kita.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-008",
+          "text": "Di beberapa kawasan hutan Indonesia, ada tanah yang disebut gambut.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-009",
+          "text": "Mungkin kedengarannya biasa saja, ya?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-010",
+          "text": "Tapi gambut itu unik.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-011",
+          "text": "Ia terbentuk dari sisa-sisa tumbuhan yang menumpuk dan terurai sangat lambat, selama waktu yang panjang.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-012",
+          "text": "Dalam kondisi alaminya yang basah, gambut menyimpan banyak air.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-013",
+          "text": "Bayangkan sebuah spons yang penuh air.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-014",
+          "text": "Sekarang... bayangkan spons itu perlahan mengering.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-015",
+          "text": "Apa yang berubah?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-016",
+          "text": "Ketika gambut kehilangan kelembapannya, tanah itu menjadi jauh lebih rentan terbakar.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-017",
+          "text": "Dan yang sering nggak kita sadari...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-018",
+          "text": "Api pada lahan gambut bisa merambat di bawah permukaan tanah.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-019",
+          "text": "Jadi, meskipun dari atas semuanya terlihat tenang... bukan berarti nggak ada bahaya di bawahnya.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-020",
+          "text": "Tapi ada hal lain yang juga perlu kita pahami.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-021",
+          "text": "Kebakaran hutan dan lahan nggak selalu terjadi begitu saja.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-022",
+          "text": "Aktivitas manusia juga punya peran besar.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-023",
+          "text": "Pembukaan lahan menggunakan api, pengeringan gambut, dan pengelolaan lahan yang tidak bertanggung jawab dapat meningkatkan risiko kebakaran.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-024",
+          "text": "Dan ketika kondisi lingkungan sudah semakin kering...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-025",
+          "text": "Satu sumber api saja bisa membawa dampak yang jauh lebih luas.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-026",
+          "text": "Bukan hanya pada pepohonan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-027",
+          "text": "Tapi juga pada satwa yang kehilangan habitatnya, masyarakat yang harus menghadapi kabut asap, dan lingkungan yang membutuhkan waktu panjang untuk pulih.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-028",
+          "text": "Kadang aku berpikir...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-029",
+          "text": "Kenapa kita sering baru benar-benar memperhatikan hutan... ketika sesuatu yang buruk sudah terjadi?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-030",
+          "text": "Kenapa kita menunggu asapnya terlihat... sebelum mulai bertanya apa yang salah?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-031",
+          "text": "Padahal, ada banyak hal yang bisa diperhatikan lebih awal.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-032",
+          "text": "Kondisi air. Perubahan penggunaan lahan. Risiko kekeringan. Dan keputusan manusia dalam memperlakukan lingkungan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-033",
+          "text": "Karena mencegah kebakaran bukan cuma soal memadamkan api sebelum membesar.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-034",
+          "text": "Tapi juga tentang menjaga agar kondisi yang memungkinkan kebakaran itu terjadi... tidak semakin buruk.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-035",
+          "text": "Jadi, lain kali ketika kamu melihat hutan yang masih hijau dan tenang...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-036",
+          "text": "Ingatlah...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-037",
+          "text": "Ada hal-hal penting yang mungkin tidak terlihat oleh mata kita.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-038",
+          "text": "Karena sebelum api muncul...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-039",
+          "text": "selalu ada kondisi yang perlu kita pahami.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-040",
+          "text": "Dan kadang...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-041",
+          "text": "kesempatan terbaik untuk menjaga hutan...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "awareness-042",
+          "text": "datang jauh sebelum kita melihat asapnya.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "sorrow",
+      "label": "03 — SORROW",
+      "title": "Ketika Hutan Kehilangan Suaranya",
+      "theme": "Make It Personal",
+      "intro": "Ketika suara-suara hutan perlahan hilang, yang tersisa bukan sekadar sunyi. Ada rumah, habitat, dan keseharian yang berubah.",
+      "audioCandidatePath": "/assets/audio/meditations/sorrow/sorrow audio.mp3",
+      "audioContentsVerified": false,
+      "timingStatus": "UNALIGNED",
+      "cues": [
+        {
+          "id": "sorrow-001",
+          "text": "Coba ingat lagi... suara hutan yang tadi kita dengar.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-002",
+          "text": "Burung-burung yang saling memanggil. Angin yang melewati dedaunan. Dan kehidupan kecil yang terus berjalan... bahkan saat nggak ada manusia yang memperhatikannya.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-003",
+          "text": "Sekarang... coba bayangkan kalau suatu hari, suara-suara itu perlahan menghilang.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-004",
+          "text": "Bukan karena malam tiba.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-005",
+          "text": "Bukan karena hutan sedang beristirahat.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-006",
+          "text": "Tapi karena tempat yang selama ini menjadi rumah mereka... sudah nggak lagi sama.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-007",
+          "text": "Ada pohon yang dulu menjadi tempat berteduh, kini tinggal batang yang menghitam.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-008",
+          "text": "Ada sarang yang ditinggalkan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-009",
+          "text": "Ada satwa yang harus menjauh, mencari tempat lain... tanpa tahu apakah tempat itu masih aman.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-010",
+          "text": "Dan ada manusia yang harus menjalani hari-harinya dengan udara yang dipenuhi asap.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-011",
+          "text": "Bayangkan seorang anak yang biasanya bisa bermain di luar rumah.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-012",
+          "text": "Tapi hari itu... jendelanya harus ditutup.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-013",
+          "text": "Bukan karena hujan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-014",
+          "text": "Melainkan karena udara di luar sudah nggak nyaman untuk dihirup.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-015",
+          "text": "Kadang, kita melihat kebakaran hutan hanya lewat angka.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-016",
+          "text": "Berapa luas lahan yang terbakar.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-017",
+          "text": "Berapa banyak titik api yang ditemukan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-018",
+          "text": "Berapa lama petugas berusaha memadamkannya.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-019",
+          "text": "Tapi ada hal-hal yang sulit dijelaskan hanya dengan angka.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-020",
+          "text": "Seperti kehilangan tempat yang kita kenal sejak kecil.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-021",
+          "text": "Atau rasa cemas ketika orang-orang yang kita sayangi harus menghirup udara yang buruk.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-022",
+          "text": "Atau kehidupan satwa yang tiba-tiba kehilangan tempat berlindung.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-023",
+          "text": "Yang membuatku sedih...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-024",
+          "text": "Hutan nggak bisa meminta kita untuk berhenti.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-025",
+          "text": "Satwa-satwa itu juga nggak bisa menjelaskan apa yang mereka rasakan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-026",
+          "text": "Dan kita... sering kali baru benar-benar memperhatikan mereka ketika semuanya sudah terlanjur terjadi.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-027",
+          "text": "Padahal, sebuah hutan nggak tumbuh dalam semalam.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-028",
+          "text": "Ada waktu yang panjang. Ada proses yang pelan. Ada begitu banyak kehidupan yang saling bergantung.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-029",
+          "text": "Tapi ketika kebakaran terjadi...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-030",
+          "text": "semua itu bisa berubah dalam waktu yang jauh lebih singkat.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-031",
+          "text": "Dan yang paling sulit untuk diterima...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-032",
+          "text": "Sebagian kebakaran berkaitan dengan tindakan manusia yang sebenarnya bisa dihindari.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-033",
+          "text": "Ada lahan yang sengaja dibakar.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-034",
+          "text": "Ada keputusan yang diambil tanpa cukup memikirkan akibatnya bagi lingkungan dan orang lain.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-035",
+          "text": "Aku terus memikirkan satu pertanyaan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-036",
+          "text": "Kalau kita tahu ada kehidupan yang bisa hilang...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-037",
+          "text": "kalau kita tahu ada orang lain yang harus menanggung akibatnya...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-038",
+          "text": "kenapa masih ada yang memilih mengambil risiko itu?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-039",
+          "text": "Mungkin... yang paling menyedihkan bukan hanya melihat hutan terbakar.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-040",
+          "text": "Tapi menyadari...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-041",
+          "text": "bahwa sebagian kehilangan ini...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "sorrow-042",
+          "text": "seharusnya bisa dicegah.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "anger",
+      "label": "04 — ANGER",
+      "title": "Yang Seharusnya Tak Terjadi",
+      "theme": "Human Responsibility",
+      "intro": "Sebagian kehilangan seharusnya bisa dicegah. Episode ini mengajak kita mempertanyakan keputusan, kelalaian, dan tanggung jawab.",
+      "audioCandidatePath": "/assets/audio/meditations/anger/anger audio.mp3",
+      "audioContentsVerified": false,
+      "timingStatus": "UNALIGNED",
+      "cues": [
+        {
+          "id": "anger-001",
+          "text": "Kalau sebagian kehilangan itu sebenarnya bisa dicegah...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-002",
+          "text": "lalu kenapa... masih ada yang membiarkannya terjadi?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-003",
+          "text": "Aku mencoba memahami.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-004",
+          "text": "Mungkin ada yang hanya memikirkan bagaimana pekerjaan bisa selesai lebih cepat.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-005",
+          "text": "Bagaimana lahan bisa dibuka dengan biaya lebih murah.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-006",
+          "text": "Bagaimana keuntungan hari ini bisa didapat... tanpa terlalu memikirkan apa yang akan terjadi besok.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-007",
+          "text": "Tapi... bagaimana dengan orang lain?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-008",
+          "text": "Bagaimana dengan keluarga yang harus menghirup asap, padahal mereka nggak pernah ikut mengambil keputusan itu?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-009",
+          "text": "Bagaimana dengan anak-anak yang harus mengurangi aktivitas di luar rumah karena kualitas udara memburuk?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-010",
+          "text": "Dan bagaimana dengan satwa yang kehilangan habitat... tanpa pernah punya kesempatan untuk memilih?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-011",
+          "text": "Kita sering mendengar bahwa kebakaran hutan dan lahan adalah bencana.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-012",
+          "text": "Dan memang... dampaknya bisa menjadi bencana bagi begitu banyak kehidupan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-013",
+          "text": "Tapi kita juga harus berani mengakui satu hal.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-014",
+          "text": "Tidak semua kebakaran hanya soal cuaca panas atau musim kemarau.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-015",
+          "text": "Ada tindakan manusia yang meningkatkan risikonya.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-016",
+          "text": "Ada lahan yang dibakar dengan sengaja.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-017",
+          "text": "Ada gambut yang dikeringkan tanpa mempertimbangkan kerentanannya.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-018",
+          "text": "Dan ada keputusan yang akibatnya... bisa dirasakan oleh orang-orang yang bahkan nggak pernah tahu keputusan itu dibuat.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-019",
+          "text": "Yang membuatku marah...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-020",
+          "text": "bukan karena manusia nggak pernah melakukan kesalahan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-021",
+          "text": "Kita semua bisa salah.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-022",
+          "text": "Tapi ketika risiko sudah diketahui...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-023",
+          "text": "ketika dampaknya sudah berulang kali terlihat...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-024",
+          "text": "dan ketika masih ada yang memilih mengabaikannya...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-025",
+          "text": "rasanya sulit untuk terus menganggap semuanya sebagai sesuatu yang biasa.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-026",
+          "text": "Coba pikirkan sebentar.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-027",
+          "text": "Seseorang mungkin hanya melihat sebidang lahan yang ingin dibersihkan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-028",
+          "text": "Tapi bagi makhluk hidup yang tinggal di sana...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-029",
+          "text": "tempat itu adalah rumah.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-030",
+          "text": "Bagi masyarakat di sekitarnya...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-031",
+          "text": "udara yang bersih bukan kemewahan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-032",
+          "text": "Itu kebutuhan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-033",
+          "text": "Dan bagi generasi yang akan datang...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-034",
+          "text": "hutan bukan sesuatu yang bisa begitu saja kita gantikan ketika sudah hilang.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-035",
+          "text": "Lalu... siapa yang harus bertanggung jawab?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-036",
+          "text": "Apakah cukup hanya menunggu petugas datang ketika api sudah membesar?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-037",
+          "text": "Apakah cukup merasa sedih setiap kali melihat berita tentang kebakaran?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-038",
+          "text": "Lalu melupakannya ketika asap mulai menghilang?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-039",
+          "text": "Aku rasa... nggak.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-040",
+          "text": "Karena tanggung jawab nggak berhenti ketika api berhasil dipadamkan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-041",
+          "text": "Ada keputusan yang harus diperbaiki.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-042",
+          "text": "Ada aturan yang harus dijalankan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-043",
+          "text": "Ada tindakan yang harus dipertanggungjawabkan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-044",
+          "text": "Dan ada lingkungan yang harus dijaga... bahkan ketika nggak ada kebakaran yang sedang diberitakan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-045",
+          "text": "Kadang, yang paling mengecewakan bukan kenyataan bahwa hutan bisa terbakar.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-046",
+          "text": "Tapi kenyataan bahwa kita sudah tahu risikonya...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-047",
+          "text": "dan masih ada yang memilih untuk tidak peduli.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-048",
+          "text": "Tapi aku juga tahu...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-049",
+          "text": "marah saja nggak akan menyelamatkan satu pohon pun.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-050",
+          "text": "Kita boleh kecewa.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-051",
+          "text": "Kita boleh mempertanyakan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-052",
+          "text": "Kita bahkan perlu menuntut tanggung jawab.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-053",
+          "text": "Tapi setelah semua itu...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-054",
+          "text": "ada satu pertanyaan yang jauh lebih penting.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-055",
+          "text": "Kalau kita masih punya kesempatan untuk mencegah kehilangan berikutnya...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-056",
+          "text": "apa yang akan kita lakukan...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "anger-057",
+          "text": "sebelum semuanya terlambat?",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "hope",
+      "label": "05 — HOPE",
+      "title": "Kita Masih Punya Waktu",
+      "theme": "Take Action",
+      "intro": "Harapan bukan berarti semuanya sudah pulih. Harapan berarti masih ada kehidupan yang bisa dijaga, dan tindakan yang bisa kita pilih.",
+      "audioCandidatePath": "/assets/audio/meditations/hope/hope.mp3",
+      "audioContentsVerified": false,
+      "timingStatus": "UNALIGNED",
+      "cues": [
+        {
+          "id": "hope-001",
+          "text": "Setelah semua yang kita dengar...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-002",
+          "text": "tentang kehidupan yang hilang...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-003",
+          "text": "tentang keputusan yang menyakiti begitu banyak makhluk hidup...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-004",
+          "text": "mungkin ada satu pertanyaan yang masih tertinggal.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-005",
+          "text": "Apa masih ada yang bisa kita lakukan?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-006",
+          "text": "Aku percaya... masih ada.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-007",
+          "text": "Bukan karena semua yang rusak bisa kembali seperti semula.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-008",
+          "text": "Bukan karena hutan yang terbakar bisa tumbuh lagi dalam semalam.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-009",
+          "text": "Dan bukan karena satu tindakan kecil mampu menyelesaikan semuanya.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-010",
+          "text": "Tapi karena... masa depan belum sepenuhnya ditentukan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-011",
+          "text": "Coba ingat lagi...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-012",
+          "text": "Di awal perjalanan ini, kita mendengar suara burung.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-013",
+          "text": "Kita membayangkan cahaya matahari yang menembus dedaunan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-014",
+          "text": "Dan kita mengenal kehidupan yang selama ini berjalan tanpa banyak kita sadari.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-015",
+          "text": "Semua itu mengingatkan kita pada sesuatu.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-016",
+          "text": "Bahwa hutan bukan hanya tentang apa yang sudah hilang.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-017",
+          "text": "Tapi juga tentang apa yang masih ada...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-018",
+          "text": "dan masih bisa kita jaga.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-019",
+          "text": "Mungkin kamu pernah berpikir...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-020",
+          "text": "\"Aku cuma satu orang. Memangnya apa yang bisa aku lakukan?\"",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-021",
+          "text": "Aku paham.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-022",
+          "text": "Karena kalau kita melihat persoalan sebesar kebakaran hutan...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-023",
+          "text": "rasanya usaha kita terlalu kecil.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-024",
+          "text": "Tapi menjaga hutan nggak selalu berarti kita harus berada di tengah hutan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-025",
+          "text": "Kita bisa mulai dengan memahami persoalannya.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-026",
+          "text": "Mencari informasi dari sumber yang bisa dipercaya.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-027",
+          "text": "Berhenti sebentar sebelum membagikan berita yang belum jelas kebenarannya.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-028",
+          "text": "Mendukung komunitas dan orang-orang yang bekerja menjaga lingkungan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-029",
+          "text": "Dan mengajak orang lain untuk ikut peduli.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-030",
+          "text": "Mungkin langkah-langkah itu terlihat sederhana.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-031",
+          "text": "Tapi setidaknya...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-032",
+          "text": "kita memilih untuk tidak berpaling.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-033",
+          "text": "Dan tentu saja... tanggung jawab ini bukan hanya milik kita sebagai individu.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-034",
+          "text": "Ada pihak yang membuat keputusan tentang penggunaan lahan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-035",
+          "text": "Ada aturan yang harus ditegakkan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-036",
+          "text": "Ada masyarakat yang harus dilibatkan dan didengarkan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-037",
+          "text": "Dan ada orang-orang yang bekerja setiap hari untuk melindungi apa yang masih tersisa.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-038",
+          "text": "Mereka juga membutuhkan dukungan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-039",
+          "text": "Karena perubahan nggak bisa dibebankan pada satu orang saja.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-040",
+          "text": "Tahu nggak...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-041",
+          "text": "Ada sesuatu yang terasa berbeda ketika kita mulai peduli.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-042",
+          "text": "Hutan yang tadinya hanya terlihat seperti hamparan hijau...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-043",
+          "text": "perlahan menjadi sesuatu yang punya arti.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-044",
+          "text": "Kita mulai melihatnya sebagai rumah.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-045",
+          "text": "Sebagai tempat kehidupan saling bergantung.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-046",
+          "text": "Sebagai sesuatu yang keberadaannya nggak bisa kita anggap biasa.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-047",
+          "text": "Aku nggak tahu seperti apa keadaan hutan kita bertahun-tahun dari sekarang.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-048",
+          "text": "Aku juga nggak bisa menjanjikan bahwa semua kebakaran akan berhenti.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-049",
+          "text": "Tapi aku percaya...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-050",
+          "text": "kepedulian yang diikuti tindakan jauh lebih berarti daripada sekadar berharap semuanya baik-baik saja.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-051",
+          "text": "Dan mungkin...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-052",
+          "text": "itulah alasan kita perlu memulai sekarang.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-053",
+          "text": "Bukan setelah langit dipenuhi asap.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-054",
+          "text": "Bukan setelah berita kebakaran kembali memenuhi layar kita.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-055",
+          "text": "Tapi saat hutan masih berdiri.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-056",
+          "text": "Saat burung-burung masih bernyanyi.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-057",
+          "text": "Saat masih ada kehidupan yang bisa dilindungi.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-058",
+          "text": "Kalau suatu hari nanti kamu kembali mendengar suara angin di antara pepohonan...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-059",
+          "text": "atau melihat cahaya matahari menyentuh dedaunan...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-060",
+          "text": "aku harap kamu mengingat perjalanan ini.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-061",
+          "text": "Bahwa hutan menyimpan lebih banyak kehidupan daripada yang bisa kita lihat.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-062",
+          "text": "Bahwa kehilangan bukan sesuatu yang harus kita anggap biasa.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-063",
+          "text": "Dan bahwa kepedulian...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-064",
+          "text": "baru benar-benar berarti ketika kita memilih melakukan sesuatu.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-065",
+          "text": "Kita mungkin nggak bisa mengubah kemarin.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-066",
+          "text": "Tapi kita masih punya pilihan untuk hari ini.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-067",
+          "text": "Karena menjaga hutan...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-068",
+          "text": "bukan pekerjaan yang baru dimulai setelah semuanya terbakar.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-069",
+          "text": "Sebelum api muncul...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-070",
+          "text": "masih ada kesempatan.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-071",
+          "text": "Dan kesempatan itu...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-072",
+          "text": "ada di tangan kita bersama.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "hope-073",
+          "text": "#SebelumJadiApi.",
+          "start": null,
+          "end": null
+        }
+      ]
+    }
+  ]
+}

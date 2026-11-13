@@ -1,0 +1,192 @@
+[
+  {
+    "id": "anger",
+    "words": 417,
+    "cues": 78,
+    "samples": [
+      {
+        "id": "anger-001",
+        "start": 0.0,
+        "end": 2.2,
+        "text": "Kalau sebagian kehilangan itu sebenarnya bisa"
+      },
+      {
+        "id": "anger-021",
+        "start": 45.9,
+        "end": 47.12,
+        "text": "lahan adalah bencana."
+      },
+      {
+        "id": "anger-042",
+        "start": 94.44,
+        "end": 95.86,
+        "text": "Coba pikirkan sebentar."
+      },
+      {
+        "id": "anger-062",
+        "start": 140.34,
+        "end": 143.58,
+        "text": "yang harus dijalankan, ada tindakan yang harus"
+      },
+      {
+        "id": "anger-077",
+        "start": 181.82,
+        "end": 184.68,
+        "text": "kehilangan berikutnya, apa yang akan kita lakukan"
+      }
+    ],
+    "validation": "bounds/order/hash checked; machine alignment, not human listening certification"
+  },
+  {
+    "id": "awareness",
+    "words": 381,
+    "cues": 74,
+    "samples": [
+      {
+        "id": "awareness-001",
+        "start": 0.0,
+        "end": 2.78,
+        "text": "Tadi, kita sudah mendengar bagaimana hutan"
+      },
+      {
+        "id": "awareness-019",
+        "start": 42.06,
+        "end": 44.12,
+        "text": "Ia terbentuk dari sisa-sisa tumbuhan yang"
+      },
+      {
+        "id": "awareness-037",
+        "start": 85.04,
+        "end": 87.84,
+        "text": "pembukaan lahan menggunakan api, pengeringan"
+      },
+      {
+        "id": "awareness-056",
+        "start": 126.36,
+        "end": 129.0,
+        "text": "Kondisi air, perubahan penggunaan lahan,"
+      },
+      {
+        "id": "awareness-074",
+        "start": 164.46,
+        "end": 167.1,
+        "text": "datang jauh sebelum kita melihat asapnya."
+      }
+    ],
+    "validation": "bounds/order/hash checked; machine alignment, not human listening certification"
+  },
+  {
+    "id": "hope",
+    "words": 494,
+    "cues": 89,
+    "samples": [
+      {
+        "id": "hope-001",
+        "start": 0.0,
+        "end": 3.16,
+        "text": "Setelah semua yang kita dengar, tentang kehidupan"
+      },
+      {
+        "id": "hope-023",
+        "start": 54.18,
+        "end": 57.6,
+        "text": "hilang, tapi juga tentang apa yang masih ada, dan"
+      },
+      {
+        "id": "hope-048",
+        "start": 111.12,
+        "end": 114.28,
+        "text": "ditegakkan, ada masyarakat yang harus dilibatkan"
+      },
+      {
+        "id": "hope-067",
+        "start": 165.66,
+        "end": 167.84,
+        "text": "Bukan setelah langit dipenuhi asap,"
+      },
+      {
+        "id": "hope-088",
+        "start": 216.54,
+        "end": 219.64,
+        "text": "Dan kesempatan itu ada di tangan kita bersama."
+      }
+    ],
+    "validation": "bounds/order/hash checked; machine alignment, not human listening certification"
+  },
+  {
+    "id": "peace",
+    "words": 244,
+    "cues": 49,
+    "samples": [
+      {
+        "id": "peace-001",
+        "start": 4.72,
+        "end": 5.5,
+        "text": "Pernah nggak..."
+      },
+      {
+        "id": "peace-014",
+        "start": 30.74,
+        "end": 32.64,
+        "text": "hutan pada suatu pagi."
+      },
+      {
+        "id": "peace-027",
+        "start": 59.96,
+        "end": 62.8,
+        "text": "bagian penting dari kehidupan di sekitarnya dan"
+      },
+      {
+        "id": "peace-039",
+        "start": 89.38,
+        "end": 91.04,
+        "text": "mungkin kita anggap biasa saja."
+      },
+      {
+        "id": "peace-049",
+        "start": 111.56,
+        "end": 114.36,
+        "text": "dan kehidupan itu layak kita jaga."
+      }
+    ],
+    "validation": "bounds/order/hash checked; machine alignment, not human listening certification"
+  },
+  {
+    "id": "sorrow",
+    "words": 348,
+    "cues": 64,
+    "samples": [
+      {
+        "id": "sorrow-001",
+        "start": 0.0,
+        "end": 2.72,
+        "text": "Coba ingat lagi, suara hutan yang tadi kita"
+      },
+      {
+        "id": "sorrow-017",
+        "start": 41.34,
+        "end": 43.98,
+        "text": "Dan ada manusia yang harus menjalani hari-harinya"
+      },
+      {
+        "id": "sorrow-036",
+        "start": 82.42,
+        "end": 83.14,
+        "text": "tempat berlindung."
+      },
+      {
+        "id": "sorrow-054",
+        "start": 121.76,
+        "end": 124.42,
+        "text": "Ada keputusan yang diambil tanpa cukup memikirkan"
+      },
+      {
+        "id": "sorrow-064",
+        "start": 147.4,
+        "end": 150.24,
+        "text": "kehilangan ini seharusnya bisa dicegah."
+      }
+    ],
+    "validation": "bounds/order/hash checked; machine alignment, not human listening certification"
+  }
+]

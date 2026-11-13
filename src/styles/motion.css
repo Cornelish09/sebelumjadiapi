@@ -1,0 +1,8 @@
+/* Gerakan naratif belum diaktifkan. Aturan ini menjaga fondasi untuk fase lanjut. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}

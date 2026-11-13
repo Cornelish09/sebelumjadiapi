@@ -1,0 +1,37 @@
+{
+  "peat-monolith.webp": {
+    "createdAt": "2026-11-12",
+    "source": "Ilustrasi orisinal yang dibuat dengan ImageGen untuk #SebelumJadiApi",
+    "description": "Penampang gambut dengan lumut, akar, dan lapisan organik. Dikonversi ke WebP dengan kanal alfa.",
+    "usage": "Aset visual simulasi progres misi Take Action"
+  },
+  "join-panda-mobile.webp": {
+    "createdAt": "2026-11-12",
+    "source": "https://www.wwf.id/sites/default/files/slider/DSCF8750%20%281%29.jpg",
+    "originPage": "https://www.wwf.id/id/id/volunteer",
+    "description": "Foto dokumentasi kegiatan Volunteer WWF Indonesia, diambil sesuai instruksi eksplisit pengguna untuk prototipe akademik dengan kredit ke wwf.id tanpa klaim afiliasi resmi.",
+    "changes": "Resize 1280x719 dan konversi WebP",
+    "usage": "Thumbnail 04 / Join dan kartu program Volunteer Panda Mobile"
+  },
+  "join-earth-hour.webp": {
+    "createdAt": "2026-11-12",
+    "source": "https://www.wwf.id/sites/default/files/slider/48.EARTH%20HOUR_Dika%20Yudha%20Rio%20%281%29.jpg",
+    "originPage": "https://www.wwf.id/id/act/campaign/earth-hour",
+    "author": "Dika Yudha Rio / WWF Indonesia",
+    "description": "Foto dokumentasi aksi Earth Hour 60+ WWF Indonesia, diambil sesuai instruksi eksplisit pengguna untuk prototipe akademik dengan kredit fotografer & wwf.id.",
+    "changes": "Resize 1280x719 dan konversi WebP",
+    "usage": "Kartu program Youth Activist / Earth Hour"
+  },
+  "join-webinar.webp": {
+    "createdAt": "2026-11-12",
+    "source": "Komposit dari aset orisinal pledges/share-back.webp dan pledges/share-front.webp",
+    "description": "Meja kerja senja bernuansa hutan dengan buku catatan lapangan dan ponsel untuk materi diskusi konservasi.",
+    "usage": "Kartu program Webinar & Bincang Konservasi"
+  },
+  "invite-teman.webp": {
+    "createdAt": "2026-11-12",
+    "source": "Crop dari komposit orisinal pledges/share-back.webp dan pledges/share-front.webp",
+    "description": "Fokus dekat ponsel dan buku catatan lapangan untuk undangan personal antar teman.",
+    "usage": "Thumbnail 05 / Invite — Tantang Temanmu"
+  }
+}

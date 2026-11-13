@@ -1,0 +1,79 @@
+{
+  "section": "why-it-matters / Jelajahi keterhubungan hutan",
+  "createdOn": "2026-11-12",
+  "note": "Seluruh 18 aset visual (9 aset kondisi utuh + 9 aset kondisi rusak) dibangun baru khusus untuk fitur interaktif 2.5D Morph di Jelajahi keterhubungan hutan, tanpa memakai ulang gambar dari ForestStory atau bagian lain.",
+  "assets": [
+    {
+      "file": "eco-world.webp",
+      "role": "Intact 2.5D cross-section world backplate (1600x900)"
+    },
+    {
+      "file": "eco-world-broken.webp",
+      "role": "Disrupted/damaged 2.5D cross-section world backplate (1600x900)"
+    },
+    {
+      "file": "canopy-back.webp",
+      "role": "01 Canopy intact 16:9 backplate"
+    },
+    {
+      "file": "canopy-front.webp",
+      "role": "01 Canopy intact 2.5D foreground epiphyte cutout (RGBA)"
+    },
+    {
+      "file": "canopy-broken-back.webp",
+      "role": "01 Canopy disrupted 16:9 scorching sunbeam gap backplate"
+    },
+    {
+      "file": "canopy-broken-front.webp",
+      "role": "01 Canopy disrupted 2.5D withered fern & dead branch cutout (RGBA)"
+    },
+    {
+      "file": "hornbill-back.webp",
+      "role": "02 Seed Disperser intact 16:9 mist valley backplate"
+    },
+    {
+      "file": "hornbill-front.webp",
+      "role": "02 Rhinoceros Hornbill intact 2.5D foreground cutout (RGBA)"
+    },
+    {
+      "file": "hornbill-broken-back.webp",
+      "role": "02 Seed Disperser disrupted 16:9 empty smoky canopy backplate"
+    },
+    {
+      "file": "hornbill-broken-front.webp",
+      "role": "02 Disrupted bare dead branch with shriveled figs cutout (RGBA)"
+    },
+    {
+      "file": "mycorrhiza-back.webp",
+      "role": "03 Mycorrhiza intact 16:9 macro backplate"
+    },
+    {
+      "file": "mycorrhiza-front.webp",
+      "role": "03 Root & Mycorrhizal web intact 2.5D cutout (RGBA)"
+    },
+    {
+      "file": "mycorrhiza-broken-back.webp",
+      "role": "03 Mycorrhiza disrupted 16:9 parched cracked soil backplate"
+    },
+    {
+      "file": "mycorrhiza-broken-front.webp",
+      "role": "03 Disrupted brittle dead root without mycorrhiza cutout (RGBA)"
+    },
+    {
+      "file": "peatdome-back.webp",
+      "role": "04 Peat Hydrology intact 16:9 cutaway backplate"
+    },
+    {
+      "file": "peatdome-front.webp",
+      "role": "04 Saturated peat block intact 2.5D foreground cutout (RGBA)"
+    },
+    {
+      "file": "peatdome-broken-back.webp",
+      "role": "04 Peat Hydrology disrupted 16:9 drained canal & ember smoke backplate"
+    },
+    {
+      "file": "peatdome-broken-front.webp",
+      "role": "04 Disrupted dry cracked peat block with subterranean glowing embers cutout (RGBA)"
+    }
+  ]
+}

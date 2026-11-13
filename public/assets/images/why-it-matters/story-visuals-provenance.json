@@ -1,0 +1,24 @@
+[
+  {
+    "file": "community-air.webp",
+    "source": "exec-c669a3d1-0528-4ba5-9c0a-067657b7bf9d.png",
+    "description": "Permukiman tepi hutan dan paparan asap; visual orisinal.",
+    "method": "OpenAI ImageGen; WebP quality 84",
+    "dimensions": [
+      1600,
+      900
+    ],
+    "bytes": 144700
+  },
+  {
+    "file": "peat-carbon.webp",
+    "source": "exec-0f026bce-e40f-485b-998a-77b6f72c9110.png",
+    "description": "Penampang gambut dengan bahan organik, akar, dan air; visual edukasi orisinal.",
+    "method": "OpenAI ImageGen; WebP quality 84",
+    "dimensions": [
+      1600,
+      900
+    ],
+    "bytes": 308754
+  }
+]

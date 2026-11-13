@@ -1,0 +1,25 @@
+{
+  "createdAt": "2026-11-09",
+  "source": "LANDING SCREEN.png, diberikan pengguna sebagai dasar hero",
+  "sourcePath": "C:/Users/corne/Downloads/LANDING SCREEN.png",
+  "method": "Built-in ImageGen untuk pembersihan UI, inpainting dan cutout transparan; Sharp untuk konversi WebP kualitas 94, alpha 100.",
+  "status": "Interpretasi artistik untuk prototipe akademik; bukan foto dokumentasi WWF atau bukti afiliasi. Hak sumber masukan tidak diverifikasi secara independen.",
+  "prompts": {
+    "forest-clean.webp": "Preserve the exact magnificent tropical tree, original 16:9 composition, bark, moss and upper-left natural sunlight. Remove all typography and UI, inpaint those regions with continuous forest. No redesign, no text or logos.",
+    "forest-background.webp": "Remove the giant foreground tree, branches and roots. Inpaint its silhouette with the existing dense distant tropical rainforest, slender trunks, canopy and forest floor. Preserve upper-left sun, atmosphere and original distant forest. No new hero tree, no text.",
+    "tree-layer.webp": "Extract the foreground tree as a full registered 16:9 RGBA layer with real transparent background. Preserve trunk, major branches, roots, moss and attached leaves. Remove distant forest and floor between them. Do not recenter, zoom or redesign.",
+    "foreground-layer.webp": "Create a transparent full 16:9 foreground layer of nearest dark tropical ferns and glossy understory leaves at bottom edge/corners, leaving upper 75% transparent. Match original scale, perspective and warm upper-left light. No tree or text.",
+    "canopy-layer.webp": "Sparse transparent near overhead leaves at uppermost left and right corners only; central 70% and bottom 80% empty. Small dark tropical leaves, fine twigs, upper-left warm sunlight. No thick branches, forest, text or border.",
+    "forest-background-soft.webp": "Edit original registered background only: remove white-yellow sun hotspot and strong upper-left shafts, reconstruct continuous foliage under soft diffuse canopy daylight. No black shadow patch, vignette or gradient. Preserve forest geometry and canvas registration. Built-in ImageGen, 9 November 2026.",
+    "forest-clean-soft.webp": "Built-in ImageGen edit of original forest-clean: remove upper-left sun hotspot and shafts, soft diffuse foliage lighting with no dark patch or vignette. Preserve tree composition. 9 November 2026."
+  },
+  "layers": [
+    "forest-background-soft.webp",
+    "tree-layer.webp",
+    "foreground-layer.webp",
+    "canopy-layer.webp"
+  ],
+  "fallback": "forest-clean-soft.webp",
+  "depthMethod": "Empat bidang alpha dengan amplitudo parallax berbeda; tanpa depth map yang diklaim hasil pengukuran.",
+  "lightingMethod": "Relighting artistik berbasis luminansi, gradien tekstur dan lobe elips lembut; bukan simulasi pencahayaan geometri 3D penuh."
+}

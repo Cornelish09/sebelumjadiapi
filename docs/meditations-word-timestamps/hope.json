@@ -1,0 +1,2966 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.48,
+    "text": "Setelah",
+    "probability": 0.961
+  },
+  {
+    "start": 0.48,
+    "end": 0.78,
+    "text": "semua",
+    "probability": 0.934
+  },
+  {
+    "start": 0.78,
+    "end": 0.94,
+    "text": "yang",
+    "probability": 0.992
+  },
+  {
+    "start": 0.94,
+    "end": 1.12,
+    "text": "kita",
+    "probability": 0.997
+  },
+  {
+    "start": 1.12,
+    "end": 1.72,
+    "text": "dengar,",
+    "probability": 0.947
+  },
+  {
+    "start": 2.2,
+    "end": 2.52,
+    "text": "tentang",
+    "probability": 0.977
+  },
+  {
+    "start": 2.52,
+    "end": 3.16,
+    "text": "kehidupan",
+    "probability": 0.995
+  },
+  {
+    "start": 3.16,
+    "end": 3.3,
+    "text": "yang",
+    "probability": 0.992
+  },
+  {
+    "start": 3.3,
+    "end": 3.9,
+    "text": "hilang,",
+    "probability": 0.999
+  },
+  {
+    "start": 4.44,
+    "end": 4.78,
+    "text": "tentang",
+    "probability": 0.991
+  },
+  {
+    "start": 4.78,
+    "end": 5.38,
+    "text": "keputusan",
+    "probability": 0.964
+  },
+  {
+    "start": 5.38,
+    "end": 5.62,
+    "text": "yang",
+    "probability": 0.995
+  },
+  {
+    "start": 5.62,
+    "end": 6.14,
+    "text": "menyakiti",
+    "probability": 0.968
+  },
+  {
+    "start": 6.14,
+    "end": 6.58,
+    "text": "begitu",
+    "probability": 0.965
+  },
+  {
+    "start": 6.58,
+    "end": 7.08,
+    "text": "banyak",
+    "probability": 0.998
+  },
+  {
+    "start": 7.08,
+    "end": 7.5,
+    "text": "mahluk",
+    "probability": 0.779
+  },
+  {
+    "start": 7.5,
+    "end": 7.96,
+    "text": "hidup,",
+    "probability": 0.996
+  },
+  {
+    "start": 8.48,
+    "end": 8.9,
+    "text": "mungkin",
+    "probability": 0.96
+  },
+  {
+    "start": 8.9,
+    "end": 9.54,
+    "text": "ada",
+    "probability": 0.952
+  },
+  {
+    "start": 9.54,
+    "end": 9.9,
+    "text": "satu",
+    "probability": 0.987
+  },
+  {
+    "start": 9.9,
+    "end": 10.52,
+    "text": "pertanyaan",
+    "probability": 0.994
+  },
+  {
+    "start": 10.52,
+    "end": 10.62,
+    "text": "yang",
+    "probability": 0.984
+  },
+  {
+    "start": 10.62,
+    "end": 10.86,
+    "text": "masih",
+    "probability": 0.996
+  },
+  {
+    "start": 10.86,
+    "end": 11.48,
+    "text": "tertinggal.",
+    "probability": 0.884
+  },
+  {
+    "start": 12.58,
+    "end": 12.76,
+    "text": "Apa",
+    "probability": 0.889
+  },
+  {
+    "start": 12.76,
+    "end": 13.04,
+    "text": "masih",
+    "probability": 0.982
+  },
+  {
+    "start": 13.04,
+    "end": 13.3,
+    "text": "ada",
+    "probability": 0.985
+  },
+  {
+    "start": 13.3,
+    "end": 13.46,
+    "text": "yang",
+    "probability": 0.996
+  },
+  {
+    "start": 13.46,
+    "end": 13.62,
+    "text": "bisa",
+    "probability": 0.99
+  },
+  {
+    "start": 13.62,
+    "end": 13.8,
+    "text": "kita",
+    "probability": 0.998
+  },
+  {
+    "start": 13.8,
+    "end": 14.16,
+    "text": "lakukan?",
+    "probability": 0.994
+  },
+  {
+    "start": 15.4,
+    "end": 15.72,
+    "text": "Aku",
+    "probability": 0.99
+  },
+  {
+    "start": 15.72,
+    "end": 16.2,
+    "text": "percaya,",
+    "probability": 0.998
+  },
+  {
+    "start": 16.72,
+    "end": 17.14,
+    "text": "masih",
+    "probability": 0.997
+  },
+  {
+    "start": 17.14,
+    "end": 17.54,
+    "text": "ada.",
+    "probability": 0.999
+  },
+  {
+    "start": 18.46,
+    "end": 18.72,
+    "text": "Bukan",
+    "probability": 0.991
+  },
+  {
+    "start": 18.72,
+    "end": 19.02,
+    "text": "karena",
+    "probability": 0.995
+  },
+  {
+    "start": 19.02,
+    "end": 19.24,
+    "text": "semua",
+    "probability": 0.94
+  },
+  {
+    "start": 19.24,
+    "end": 19.48,
+    "text": "yang",
+    "probability": 0.983
+  },
+  {
+    "start": 19.48,
+    "end": 19.9,
+    "text": "rusak",
+    "probability": 0.962
+  },
+  {
+    "start": 19.9,
+    "end": 20.12,
+    "text": "bisa",
+    "probability": 0.979
+  },
+  {
+    "start": 20.12,
+    "end": 20.56,
+    "text": "kembali",
+    "probability": 0.988
+  },
+  {
+    "start": 20.56,
+    "end": 20.78,
+    "text": "seperti",
+    "probability": 0.973
+  },
+  {
+    "start": 20.78,
+    "end": 21.32,
+    "text": "semula.",
+    "probability": 0.971
+  },
+  {
+    "start": 21.86,
+    "end": 22.26,
+    "text": "Bukan",
+    "probability": 0.995
+  },
+  {
+    "start": 22.26,
+    "end": 22.52,
+    "text": "karena",
+    "probability": 0.997
+  },
+  {
+    "start": 22.52,
+    "end": 22.84,
+    "text": "hutan",
+    "probability": 0.861
+  },
+  {
+    "start": 22.84,
+    "end": 23.04,
+    "text": "yang",
+    "probability": 0.967
+  },
+  {
+    "start": 23.04,
+    "end": 23.64,
+    "text": "terbakar",
+    "probability": 0.991
+  },
+  {
+    "start": 23.64,
+    "end": 23.86,
+    "text": "bisa",
+    "probability": 0.985
+  },
+  {
+    "start": 23.86,
+    "end": 24.18,
+    "text": "tumbuh",
+    "probability": 0.99
+  },
+  {
+    "start": 24.18,
+    "end": 24.52,
+    "text": "lagi",
+    "probability": 0.994
+  },
+  {
+    "start": 24.52,
+    "end": 24.74,
+    "text": "dalam",
+    "probability": 0.994
+  },
+  {
+    "start": 24.74,
+    "end": 25.22,
+    "text": "semalam.",
+    "probability": 0.965
+  },
+  {
+    "start": 25.22,
+    "end": 26.04,
+    "text": "dan",
+    "probability": 0.701
+  },
+  {
+    "start": 26.04,
+    "end": 26.38,
+    "text": "bukan",
+    "probability": 0.986
+  },
+  {
+    "start": 26.38,
+    "end": 26.76,
+    "text": "karena",
+    "probability": 0.976
+  },
+  {
+    "start": 26.76,
+    "end": 27.16,
+    "text": "satu",
+    "probability": 0.879
+  },
+  {
+    "start": 27.16,
+    "end": 27.5,
+    "text": "tindakan",
+    "probability": 0.954
+  },
+  {
+    "start": 27.5,
+    "end": 28.0,
+    "text": "kecil",
+    "probability": 0.999
+  },
+  {
+    "start": 28.0,
+    "end": 28.6,
+    "text": "mampu",
+    "probability": 0.906
+  },
+  {
+    "start": 28.6,
+    "end": 29.16,
+    "text": "menyelesaikan",
+    "probability": 0.951
+  },
+  {
+    "start": 29.16,
+    "end": 29.7,
+    "text": "semuanya.",
+    "probability": 0.995
+  },
+  {
+    "start": 30.04,
+    "end": 30.84,
+    "text": "Tapi",
+    "probability": 0.647
+  },
+  {
+    "start": 30.84,
+    "end": 31.24,
+    "text": "karena",
+    "probability": 0.983
+  },
+  {
+    "start": 31.24,
+    "end": 31.86,
+    "text": "masa",
+    "probability": 0.983
+  },
+  {
+    "start": 31.86,
+    "end": 32.28,
+    "text": "depan",
+    "probability": 0.998
+  },
+  {
+    "start": 32.28,
+    "end": 32.56,
+    "text": "belum",
+    "probability": 0.971
+  },
+  {
+    "start": 32.56,
+    "end": 33.16,
+    "text": "sepenuhnya",
+    "probability": 0.998
+  },
+  {
+    "start": 33.16,
+    "end": 33.68,
+    "text": "ditentukan.",
+    "probability": 0.977
+  },
+  {
+    "start": 34.4,
+    "end": 34.9,
+    "text": "Coba",
+    "probability": 0.956
+  },
+  {
+    "start": 34.9,
+    "end": 35.16,
+    "text": "ingat",
+    "probability": 0.988
+  },
+  {
+    "start": 35.16,
+    "end": 35.46,
+    "text": "lagi,",
+    "probability": 0.998
+  },
+  {
+    "start": 36.06,
+    "end": 36.26,
+    "text": "di",
+    "probability": 0.901
+  },
+  {
+    "start": 36.26,
+    "end": 36.52,
+    "text": "awal",
+    "probability": 0.985
+  },
+  {
+    "start": 36.52,
+    "end": 37.02,
+    "text": "perjalanan",
+    "probability": 0.993
+  },
+  {
+    "start": 37.02,
+    "end": 37.4,
+    "text": "ini",
+    "probability": 0.988
+  },
+  {
+    "start": 37.4,
+    "end": 37.96,
+    "text": "kita",
+    "probability": 0.794
+  },
+  {
+    "start": 37.96,
+    "end": 38.44,
+    "text": "mendengar",
+    "probability": 0.993
+  },
+  {
+    "start": 38.44,
+    "end": 38.7,
+    "text": "suara",
+    "probability": 0.995
+  },
+  {
+    "start": 38.7,
+    "end": 39.2,
+    "text": "burung.",
+    "probability": 0.959
+  },
+  {
+    "start": 39.56,
+    "end": 39.94,
+    "text": "Kita",
+    "probability": 0.966
+  },
+  {
+    "start": 39.94,
+    "end": 40.62,
+    "text": "membayangkan",
+    "probability": 0.895
+  },
+  {
+    "start": 40.62,
+    "end": 41.0,
+    "text": "cahaya",
+    "probability": 0.993
+  },
+  {
+    "start": 41.0,
+    "end": 41.2,
+    "text": "mata",
+    "probability": 0.623
+  },
+  {
+    "start": 41.2,
+    "end": 41.62,
+    "text": "hari",
+    "probability": 0.825
+  },
+  {
+    "start": 41.62,
+    "end": 41.8,
+    "text": "yang",
+    "probability": 0.972
+  },
+  {
+    "start": 41.8,
+    "end": 42.26,
+    "text": "menembus",
+    "probability": 0.79
+  },
+  {
+    "start": 42.26,
+    "end": 42.92,
+    "text": "dedaunan,",
+    "probability": 0.721
+  },
+  {
+    "start": 43.34,
+    "end": 43.58,
+    "text": "dan",
+    "probability": 0.961
+  },
+  {
+    "start": 43.58,
+    "end": 44.0,
+    "text": "kita",
+    "probability": 0.998
+  },
+  {
+    "start": 44.0,
+    "end": 44.66,
+    "text": "mengenal",
+    "probability": 0.941
+  },
+  {
+    "start": 44.66,
+    "end": 45.32,
+    "text": "kehidupan",
+    "probability": 0.996
+  },
+  {
+    "start": 45.32,
+    "end": 45.44,
+    "text": "yang",
+    "probability": 0.994
+  },
+  {
+    "start": 45.44,
+    "end": 45.78,
+    "text": "selama",
+    "probability": 0.988
+  },
+  {
+    "start": 45.78,
+    "end": 45.98,
+    "text": "ini",
+    "probability": 0.994
+  },
+  {
+    "start": 45.98,
+    "end": 46.54,
+    "text": "berjalan",
+    "probability": 0.992
+  },
+  {
+    "start": 46.54,
+    "end": 47.12,
+    "text": "tanpa",
+    "probability": 0.981
+  },
+  {
+    "start": 47.12,
+    "end": 47.38,
+    "text": "bandar",
+    "probability": 0.473
+  },
+  {
+    "start": 47.38,
+    "end": 47.56,
+    "text": "kita",
+    "probability": 0.992
+  },
+  {
+    "start": 47.56,
+    "end": 48.06,
+    "text": "sadari.",
+    "probability": 0.953
+  },
+  {
+    "start": 48.84,
+    "end": 49.24,
+    "text": "Semua",
+    "probability": 0.956
+  },
+  {
+    "start": 49.24,
+    "end": 49.44,
+    "text": "itu",
+    "probability": 0.987
+  },
+  {
+    "start": 49.44,
+    "end": 49.96,
+    "text": "mengingatkan",
+    "probability": 0.989
+  },
+  {
+    "start": 49.96,
+    "end": 50.24,
+    "text": "kita",
+    "probability": 0.995
+  },
+  {
+    "start": 50.24,
+    "end": 50.5,
+    "text": "pada",
+    "probability": 0.973
+  },
+  {
+    "start": 50.5,
+    "end": 51.04,
+    "text": "sesuatu,",
+    "probability": 0.997
+  },
+  {
+    "start": 51.64,
+    "end": 51.94,
+    "text": "bahwa",
+    "probability": 0.993
+  },
+  {
+    "start": 51.94,
+    "end": 52.36,
+    "text": "hutan",
+    "probability": 0.965
+  },
+  {
+    "start": 52.36,
+    "end": 52.8,
+    "text": "bukan",
+    "probability": 0.968
+  },
+  {
+    "start": 52.8,
+    "end": 53.18,
+    "text": "hanya",
+    "probability": 0.996
+  },
+  {
+    "start": 53.18,
+    "end": 53.4,
+    "text": "tentang",
+    "probability": 0.996
+  },
+  {
+    "start": 53.4,
+    "end": 53.84,
+    "text": "apa",
+    "probability": 0.998
+  },
+  {
+    "start": 53.84,
+    "end": 54.0,
+    "text": "yang",
+    "probability": 0.998
+  },
+  {
+    "start": 54.0,
+    "end": 54.18,
+    "text": "sudah",
+    "probability": 0.991
+  },
+  {
+    "start": 54.18,
+    "end": 54.64,
+    "text": "hilang,",
+    "probability": 0.999
+  },
+  {
+    "start": 54.64,
+    "end": 55.3,
+    "text": "tapi",
+    "probability": 0.216
+  },
+  {
+    "start": 55.3,
+    "end": 55.52,
+    "text": "juga",
+    "probability": 0.977
+  },
+  {
+    "start": 55.52,
+    "end": 55.76,
+    "text": "tentang",
+    "probability": 0.99
+  },
+  {
+    "start": 55.76,
+    "end": 56.24,
+    "text": "apa",
+    "probability": 0.989
+  },
+  {
+    "start": 56.24,
+    "end": 56.44,
+    "text": "yang",
+    "probability": 0.975
+  },
+  {
+    "start": 56.44,
+    "end": 56.72,
+    "text": "masih",
+    "probability": 0.987
+  },
+  {
+    "start": 56.72,
+    "end": 57.02,
+    "text": "ada,",
+    "probability": 0.998
+  },
+  {
+    "start": 57.28,
+    "end": 57.6,
+    "text": "dan",
+    "probability": 0.992
+  },
+  {
+    "start": 57.6,
+    "end": 57.98,
+    "text": "masih",
+    "probability": 0.983
+  },
+  {
+    "start": 57.98,
+    "end": 58.28,
+    "text": "bisa",
+    "probability": 0.985
+  },
+  {
+    "start": 58.28,
+    "end": 58.44,
+    "text": "kita",
+    "probability": 0.995
+  },
+  {
+    "start": 58.44,
+    "end": 59.06,
+    "text": "jaga.",
+    "probability": 0.988
+  },
+  {
+    "start": 59.78,
+    "end": 60.28,
+    "text": "Mungkin",
+    "probability": 0.916
+  },
+  {
+    "start": 60.28,
+    "end": 60.58,
+    "text": "kamu",
+    "probability": 0.939
+  },
+  {
+    "start": 60.58,
+    "end": 60.82,
+    "text": "pernah",
+    "probability": 0.996
+  },
+  {
+    "start": 60.82,
+    "end": 61.5,
+    "text": "berpikir,",
+    "probability": 0.898
+  },
+  {
+    "start": 61.94,
+    "end": 62.2,
+    "text": "aku",
+    "probability": 0.655
+  },
+  {
+    "start": 62.2,
+    "end": 62.4,
+    "text": "cuma",
+    "probability": 0.931
+  },
+  {
+    "start": 62.4,
+    "end": 62.68,
+    "text": "satu",
+    "probability": 0.949
+  },
+  {
+    "start": 62.68,
+    "end": 63.06,
+    "text": "orang,",
+    "probability": 0.996
+  },
+  {
+    "start": 63.64,
+    "end": 64.02,
+    "text": "memangnya",
+    "probability": 0.785
+  },
+  {
+    "start": 64.02,
+    "end": 64.3,
+    "text": "apa",
+    "probability": 0.996
+  },
+  {
+    "start": 64.3,
+    "end": 64.48,
+    "text": "yang",
+    "probability": 0.989
+  },
+  {
+    "start": 64.48,
+    "end": 64.62,
+    "text": "bisa",
+    "probability": 0.988
+  },
+  {
+    "start": 64.62,
+    "end": 64.84,
+    "text": "aku",
+    "probability": 0.997
+  },
+  {
+    "start": 64.84,
+    "end": 65.24,
+    "text": "lakukan.",
+    "probability": 0.991
+  },
+  {
+    "start": 65.92,
+    "end": 66.24,
+    "text": "Aku",
+    "probability": 0.981
+  },
+  {
+    "start": 66.24,
+    "end": 66.68,
+    "text": "paham,",
+    "probability": 0.987
+  },
+  {
+    "start": 67.26,
+    "end": 67.48,
+    "text": "karena",
+    "probability": 0.985
+  },
+  {
+    "start": 67.48,
+    "end": 67.74,
+    "text": "kalau",
+    "probability": 0.878
+  },
+  {
+    "start": 67.74,
+    "end": 67.92,
+    "text": "kita",
+    "probability": 0.993
+  },
+  {
+    "start": 67.92,
+    "end": 68.28,
+    "text": "melihat",
+    "probability": 0.996
+  },
+  {
+    "start": 68.28,
+    "end": 68.78,
+    "text": "persoalan",
+    "probability": 0.985
+  },
+  {
+    "start": 68.78,
+    "end": 69.2,
+    "text": "sebesar",
+    "probability": 0.969
+  },
+  {
+    "start": 69.2,
+    "end": 69.64,
+    "text": "kebakaran",
+    "probability": 0.971
+  },
+  {
+    "start": 69.64,
+    "end": 70.08,
+    "text": "hutan,",
+    "probability": 0.965
+  },
+  {
+    "start": 70.64,
+    "end": 71.08,
+    "text": "rasanya",
+    "probability": 0.944
+  },
+  {
+    "start": 71.08,
+    "end": 71.42,
+    "text": "usaha",
+    "probability": 0.944
+  },
+  {
+    "start": 71.42,
+    "end": 71.68,
+    "text": "kita",
+    "probability": 0.999
+  },
+  {
+    "start": 71.68,
+    "end": 72.04,
+    "text": "terlalu",
+    "probability": 0.997
+  },
+  {
+    "start": 72.04,
+    "end": 72.48,
+    "text": "kecil.",
+    "probability": 0.999
+  },
+  {
+    "start": 73.06,
+    "end": 73.4,
+    "text": "Tapi",
+    "probability": 0.937
+  },
+  {
+    "start": 73.4,
+    "end": 73.72,
+    "text": "menjaga",
+    "probability": 0.985
+  },
+  {
+    "start": 73.72,
+    "end": 74.14,
+    "text": "hutan,",
+    "probability": 0.995
+  },
+  {
+    "start": 74.44,
+    "end": 74.56,
+    "text": "gak",
+    "probability": 0.484
+  },
+  {
+    "start": 74.56,
+    "end": 74.88,
+    "text": "selalu",
+    "probability": 0.992
+  },
+  {
+    "start": 74.88,
+    "end": 75.26,
+    "text": "berarti",
+    "probability": 0.981
+  },
+  {
+    "start": 75.26,
+    "end": 75.52,
+    "text": "kita",
+    "probability": 0.972
+  },
+  {
+    "start": 75.52,
+    "end": 75.84,
+    "text": "harus",
+    "probability": 0.99
+  },
+  {
+    "start": 75.84,
+    "end": 76.2,
+    "text": "berada",
+    "probability": 0.996
+  },
+  {
+    "start": 76.2,
+    "end": 76.4,
+    "text": "di",
+    "probability": 0.978
+  },
+  {
+    "start": 76.4,
+    "end": 76.6,
+    "text": "tengah",
+    "probability": 0.991
+  },
+  {
+    "start": 76.6,
+    "end": 76.9,
+    "text": "hutan.",
+    "probability": 0.989
+  },
+  {
+    "start": 77.8,
+    "end": 78.08,
+    "text": "Kita",
+    "probability": 0.99
+  },
+  {
+    "start": 78.08,
+    "end": 78.3,
+    "text": "bisa",
+    "probability": 0.999
+  },
+  {
+    "start": 78.3,
+    "end": 78.68,
+    "text": "mulai",
+    "probability": 0.998
+  },
+  {
+    "start": 78.68,
+    "end": 78.9,
+    "text": "dengan",
+    "probability": 0.982
+  },
+  {
+    "start": 78.9,
+    "end": 79.4,
+    "text": "memahami",
+    "probability": 0.992
+  },
+  {
+    "start": 79.4,
+    "end": 80.14,
+    "text": "persoalannya,",
+    "probability": 0.922
+  },
+  {
+    "start": 80.66,
+    "end": 80.98,
+    "text": "mencari",
+    "probability": 0.98
+  },
+  {
+    "start": 80.98,
+    "end": 81.62,
+    "text": "informasi",
+    "probability": 0.997
+  },
+  {
+    "start": 81.62,
+    "end": 81.84,
+    "text": "dari",
+    "probability": 0.998
+  },
+  {
+    "start": 81.84,
+    "end": 82.26,
+    "text": "sumber",
+    "probability": 0.972
+  },
+  {
+    "start": 82.26,
+    "end": 82.4,
+    "text": "yang",
+    "probability": 0.998
+  },
+  {
+    "start": 82.4,
+    "end": 82.66,
+    "text": "bisa",
+    "probability": 0.999
+  },
+  {
+    "start": 82.66,
+    "end": 83.24,
+    "text": "dipercaya,",
+    "probability": 0.959
+  },
+  {
+    "start": 83.24,
+    "end": 84.18,
+    "text": "berhenti",
+    "probability": 0.779
+  },
+  {
+    "start": 84.18,
+    "end": 84.68,
+    "text": "sebentar",
+    "probability": 0.933
+  },
+  {
+    "start": 84.68,
+    "end": 85.12,
+    "text": "sebelum",
+    "probability": 0.972
+  },
+  {
+    "start": 85.12,
+    "end": 85.54,
+    "text": "membagikan",
+    "probability": 0.94
+  },
+  {
+    "start": 85.54,
+    "end": 86.0,
+    "text": "berita",
+    "probability": 0.972
+  },
+  {
+    "start": 86.0,
+    "end": 86.18,
+    "text": "yang",
+    "probability": 0.976
+  },
+  {
+    "start": 86.18,
+    "end": 86.38,
+    "text": "belum",
+    "probability": 0.993
+  },
+  {
+    "start": 86.38,
+    "end": 86.74,
+    "text": "jelas",
+    "probability": 0.985
+  },
+  {
+    "start": 86.74,
+    "end": 87.46,
+    "text": "kebenarannya,",
+    "probability": 0.91
+  },
+  {
+    "start": 87.62,
+    "end": 88.42,
+    "text": "mendukung",
+    "probability": 0.988
+  },
+  {
+    "start": 88.42,
+    "end": 89.06,
+    "text": "komunitas",
+    "probability": 0.986
+  },
+  {
+    "start": 89.06,
+    "end": 89.3,
+    "text": "dan",
+    "probability": 0.937
+  },
+  {
+    "start": 89.3,
+    "end": 89.84,
+    "text": "orang-orang",
+    "probability": 0.997
+  },
+  {
+    "start": 89.84,
+    "end": 90.02,
+    "text": "yang",
+    "probability": 0.994
+  },
+  {
+    "start": 90.02,
+    "end": 90.54,
+    "text": "bekerja",
+    "probability": 0.998
+  },
+  {
+    "start": 90.54,
+    "end": 90.86,
+    "text": "menjaga",
+    "probability": 0.974
+  },
+  {
+    "start": 90.86,
+    "end": 91.24,
+    "text": "lingkungan,",
+    "probability": 0.957
+  },
+  {
+    "start": 91.82,
+    "end": 92.06,
+    "text": "dan",
+    "probability": 0.994
+  },
+  {
+    "start": 92.06,
+    "end": 92.52,
+    "text": "mengajak",
+    "probability": 0.945
+  },
+  {
+    "start": 92.52,
+    "end": 92.7,
+    "text": "orang",
+    "probability": 0.998
+  },
+  {
+    "start": 92.7,
+    "end": 93.08,
+    "text": "lain",
+    "probability": 0.997
+  },
+  {
+    "start": 93.08,
+    "end": 93.36,
+    "text": "untuk",
+    "probability": 0.987
+  },
+  {
+    "start": 93.36,
+    "end": 93.74,
+    "text": "ikut",
+    "probability": 0.996
+  },
+  {
+    "start": 93.74,
+    "end": 94.14,
+    "text": "peduli.",
+    "probability": 0.842
+  },
+  {
+    "start": 94.84,
+    "end": 95.3,
+    "text": "Mungkin",
+    "probability": 0.987
+  },
+  {
+    "start": 95.3,
+    "end": 95.9,
+    "text": "langkah-langkah",
+    "probability": 0.991
+  },
+  {
+    "start": 95.9,
+    "end": 96.16,
+    "text": "itu",
+    "probability": 0.996
+  },
+  {
+    "start": 96.16,
+    "end": 96.56,
+    "text": "terlihat",
+    "probability": 0.981
+  },
+  {
+    "start": 96.56,
+    "end": 97.1,
+    "text": "sederhana,",
+    "probability": 0.976
+  },
+  {
+    "start": 97.66,
+    "end": 97.9,
+    "text": "tapi",
+    "probability": 0.983
+  },
+  {
+    "start": 97.9,
+    "end": 98.58,
+    "text": "setidaknya,",
+    "probability": 0.987
+  },
+  {
+    "start": 98.94,
+    "end": 99.14,
+    "text": "kita",
+    "probability": 0.996
+  },
+  {
+    "start": 99.14,
+    "end": 99.74,
+    "text": "memilih",
+    "probability": 0.992
+  },
+  {
+    "start": 99.74,
+    "end": 99.88,
+    "text": "untuk",
+    "probability": 0.995
+  },
+  {
+    "start": 99.88,
+    "end": 100.14,
+    "text": "tidak",
+    "probability": 0.997
+  },
+  {
+    "start": 100.14,
+    "end": 100.66,
+    "text": "berpaling.",
+    "probability": 0.961
+  },
+  {
+    "start": 101.68,
+    "end": 102.02,
+    "text": "Dan",
+    "probability": 0.931
+  },
+  {
+    "start": 102.02,
+    "end": 102.28,
+    "text": "tentu",
+    "probability": 0.988
+  },
+  {
+    "start": 102.28,
+    "end": 102.62,
+    "text": "saja,",
+    "probability": 0.99
+  },
+  {
+    "start": 103.1,
+    "end": 103.38,
+    "text": "tanggung",
+    "probability": 0.962
+  },
+  {
+    "start": 103.38,
+    "end": 103.68,
+    "text": "jawab",
+    "probability": 0.846
+  },
+  {
+    "start": 103.68,
+    "end": 103.92,
+    "text": "ini",
+    "probability": 0.996
+  },
+  {
+    "start": 103.92,
+    "end": 104.14,
+    "text": "bukan",
+    "probability": 0.985
+  },
+  {
+    "start": 104.14,
+    "end": 104.4,
+    "text": "hanya",
+    "probability": 0.999
+  },
+  {
+    "start": 104.4,
+    "end": 104.72,
+    "text": "milik",
+    "probability": 0.97
+  },
+  {
+    "start": 104.72,
+    "end": 105.0,
+    "text": "kita",
+    "probability": 0.999
+  },
+  {
+    "start": 105.0,
+    "end": 105.24,
+    "text": "sebagai",
+    "probability": 0.996
+  },
+  {
+    "start": 105.24,
+    "end": 105.9,
+    "text": "individu.",
+    "probability": 0.974
+  },
+  {
+    "start": 106.44,
+    "end": 106.7,
+    "text": "Ada",
+    "probability": 0.991
+  },
+  {
+    "start": 106.7,
+    "end": 107.1,
+    "text": "pihak",
+    "probability": 0.992
+  },
+  {
+    "start": 107.1,
+    "end": 107.28,
+    "text": "yang",
+    "probability": 0.996
+  },
+  {
+    "start": 107.28,
+    "end": 107.58,
+    "text": "membuat",
+    "probability": 0.995
+  },
+  {
+    "start": 107.58,
+    "end": 108.18,
+    "text": "keputusan",
+    "probability": 0.972
+  },
+  {
+    "start": 108.18,
+    "end": 108.48,
+    "text": "tentang",
+    "probability": 0.996
+  },
+  {
+    "start": 108.48,
+    "end": 109.08,
+    "text": "penggunaan",
+    "probability": 0.989
+  },
+  {
+    "start": 109.08,
+    "end": 109.56,
+    "text": "lahan,",
+    "probability": 0.64
+  },
+  {
+    "start": 109.98,
+    "end": 110.22,
+    "text": "ada",
+    "probability": 0.987
+  },
+  {
+    "start": 110.22,
+    "end": 110.62,
+    "text": "aturan",
+    "probability": 0.993
+  },
+  {
+    "start": 110.62,
+    "end": 110.84,
+    "text": "yang",
+    "probability": 0.998
+  },
+  {
+    "start": 110.84,
+    "end": 111.12,
+    "text": "harus",
+    "probability": 0.999
+  },
+  {
+    "start": 111.12,
+    "end": 111.7,
+    "text": "ditegarkan,",
+    "probability": 0.88
+  },
+  {
+    "start": 111.7,
+    "end": 112.5,
+    "text": "ada",
+    "probability": 0.339
+  },
+  {
+    "start": 112.5,
+    "end": 113.14,
+    "text": "masyarakat",
+    "probability": 0.979
+  },
+  {
+    "start": 113.14,
+    "end": 113.3,
+    "text": "yang",
+    "probability": 0.987
+  },
+  {
+    "start": 113.3,
+    "end": 113.54,
+    "text": "harus",
+    "probability": 0.997
+  },
+  {
+    "start": 113.54,
+    "end": 114.28,
+    "text": "dilibatkan",
+    "probability": 0.922
+  },
+  {
+    "start": 114.28,
+    "end": 114.48,
+    "text": "dan",
+    "probability": 0.983
+  },
+  {
+    "start": 114.48,
+    "end": 115.08,
+    "text": "didengarkan",
+    "probability": 0.884
+  },
+  {
+    "start": 115.08,
+    "end": 115.82,
+    "text": "dan",
+    "probability": 0.819
+  },
+  {
+    "start": 115.82,
+    "end": 116.08,
+    "text": "ada",
+    "probability": 0.994
+  },
+  {
+    "start": 116.08,
+    "end": 116.6,
+    "text": "orang-orang",
+    "probability": 0.997
+  },
+  {
+    "start": 116.6,
+    "end": 116.78,
+    "text": "yang",
+    "probability": 0.994
+  },
+  {
+    "start": 116.78,
+    "end": 117.28,
+    "text": "bekerja",
+    "probability": 0.997
+  },
+  {
+    "start": 117.28,
+    "end": 117.66,
+    "text": "setiap",
+    "probability": 0.998
+  },
+  {
+    "start": 117.66,
+    "end": 118.0,
+    "text": "hari",
+    "probability": 0.992
+  },
+  {
+    "start": 118.0,
+    "end": 118.54,
+    "text": "untuk",
+    "probability": 0.939
+  },
+  {
+    "start": 118.54,
+    "end": 119.18,
+    "text": "melindungi",
+    "probability": 0.994
+  },
+  {
+    "start": 119.18,
+    "end": 119.5,
+    "text": "apa",
+    "probability": 0.994
+  },
+  {
+    "start": 119.5,
+    "end": 119.7,
+    "text": "yang",
+    "probability": 0.993
+  },
+  {
+    "start": 119.7,
+    "end": 119.9,
+    "text": "masih",
+    "probability": 0.995
+  },
+  {
+    "start": 119.9,
+    "end": 120.44,
+    "text": "tersisa",
+    "probability": 0.987
+  },
+  {
+    "start": 120.44,
+    "end": 121.2,
+    "text": "mereka",
+    "probability": 0.804
+  },
+  {
+    "start": 121.2,
+    "end": 121.5,
+    "text": "juga",
+    "probability": 0.997
+  },
+  {
+    "start": 121.5,
+    "end": 122.1,
+    "text": "membutuhkan",
+    "probability": 0.985
+  },
+  {
+    "start": 122.1,
+    "end": 122.72,
+    "text": "dukungan",
+    "probability": 0.958
+  },
+  {
+    "start": 122.72,
+    "end": 123.28,
+    "text": "karena",
+    "probability": 0.918
+  },
+  {
+    "start": 123.28,
+    "end": 123.82,
+    "text": "perubahan",
+    "probability": 0.997
+  },
+  {
+    "start": 123.82,
+    "end": 124.2,
+    "text": "gak",
+    "probability": 0.435
+  },
+  {
+    "start": 124.2,
+    "end": 124.48,
+    "text": "bisa",
+    "probability": 0.998
+  },
+  {
+    "start": 124.48,
+    "end": 125.16,
+    "text": "dibebankan",
+    "probability": 0.723
+  },
+  {
+    "start": 125.16,
+    "end": 125.34,
+    "text": "pada",
+    "probability": 0.988
+  },
+  {
+    "start": 125.34,
+    "end": 125.62,
+    "text": "satu",
+    "probability": 0.962
+  },
+  {
+    "start": 125.62,
+    "end": 125.82,
+    "text": "orang",
+    "probability": 0.998
+  },
+  {
+    "start": 125.82,
+    "end": 126.22,
+    "text": "saja",
+    "probability": 0.982
+  },
+  {
+    "start": 126.22,
+    "end": 127.5,
+    "text": "tau",
+    "probability": 0.352
+  },
+  {
+    "start": 127.5,
+    "end": 127.74,
+    "text": "gak,",
+    "probability": 0.575
+  },
+  {
+    "start": 128.16,
+    "end": 128.42,
+    "text": "ada",
+    "probability": 0.992
+  },
+  {
+    "start": 128.42,
+    "end": 128.86,
+    "text": "sesuatu",
+    "probability": 0.998
+  },
+  {
+    "start": 128.86,
+    "end": 129.04,
+    "text": "yang",
+    "probability": 0.996
+  },
+  {
+    "start": 129.04,
+    "end": 129.32,
+    "text": "terasa",
+    "probability": 0.935
+  },
+  {
+    "start": 129.32,
+    "end": 129.84,
+    "text": "berbeda",
+    "probability": 0.997
+  },
+  {
+    "start": 129.84,
+    "end": 130.14,
+    "text": "ketika",
+    "probability": 0.995
+  },
+  {
+    "start": 130.14,
+    "end": 130.38,
+    "text": "kita",
+    "probability": 0.999
+  },
+  {
+    "start": 130.38,
+    "end": 130.7,
+    "text": "mulai",
+    "probability": 0.997
+  },
+  {
+    "start": 130.7,
+    "end": 131.1,
+    "text": "peduli",
+    "probability": 0.953
+  },
+  {
+    "start": 131.1,
+    "end": 132.08,
+    "text": "hutan",
+    "probability": 0.854
+  },
+  {
+    "start": 132.08,
+    "end": 132.26,
+    "text": "yang",
+    "probability": 0.987
+  },
+  {
+    "start": 132.26,
+    "end": 132.62,
+    "text": "tadinya",
+    "probability": 0.977
+  },
+  {
+    "start": 132.62,
+    "end": 132.82,
+    "text": "hanya",
+    "probability": 0.975
+  },
+  {
+    "start": 132.82,
+    "end": 133.3,
+    "text": "terlihat",
+    "probability": 0.992
+  },
+  {
+    "start": 133.3,
+    "end": 133.5,
+    "text": "seperti",
+    "probability": 0.994
+  },
+  {
+    "start": 133.5,
+    "end": 134.0,
+    "text": "hamparan",
+    "probability": 0.924
+  },
+  {
+    "start": 134.0,
+    "end": 134.56,
+    "text": "hijau",
+    "probability": 0.977
+  },
+  {
+    "start": 134.56,
+    "end": 135.5,
+    "text": "perlahan",
+    "probability": 0.83
+  },
+  {
+    "start": 135.5,
+    "end": 135.76,
+    "text": "menjadi",
+    "probability": 0.994
+  },
+  {
+    "start": 135.76,
+    "end": 136.3,
+    "text": "sesuatu",
+    "probability": 0.997
+  },
+  {
+    "start": 136.3,
+    "end": 136.48,
+    "text": "yang",
+    "probability": 0.997
+  },
+  {
+    "start": 136.48,
+    "end": 136.72,
+    "text": "punya",
+    "probability": 0.998
+  },
+  {
+    "start": 136.72,
+    "end": 137.64,
+    "text": "arti",
+    "probability": 0.934
+  },
+  {
+    "start": 137.64,
+    "end": 137.98,
+    "text": "kita",
+    "probability": 0.986
+  },
+  {
+    "start": 137.98,
+    "end": 138.28,
+    "text": "mulai",
+    "probability": 0.998
+  },
+  {
+    "start": 138.28,
+    "end": 138.8,
+    "text": "melihatnya",
+    "probability": 0.987
+  },
+  {
+    "start": 138.8,
+    "end": 139.0,
+    "text": "sebagai",
+    "probability": 0.998
+  },
+  {
+    "start": 139.0,
+    "end": 139.5,
+    "text": "rumah",
+    "probability": 0.996
+  },
+  {
+    "start": 139.5,
+    "end": 140.2,
+    "text": "sebagai",
+    "probability": 0.358
+  },
+  {
+    "start": 140.2,
+    "end": 140.66,
+    "text": "tempat",
+    "probability": 0.965
+  },
+  {
+    "start": 140.66,
+    "end": 141.22,
+    "text": "kehidupan",
+    "probability": 0.968
+  },
+  {
+    "start": 141.22,
+    "end": 141.6,
+    "text": "saling",
+    "probability": 0.914
+  },
+  {
+    "start": 141.6,
+    "end": 142.58,
+    "text": "bergantung",
+    "probability": 0.874
+  },
+  {
+    "start": 142.58,
+    "end": 142.92,
+    "text": "sebagai",
+    "probability": 0.695
+  },
+  {
+    "start": 142.92,
+    "end": 143.52,
+    "text": "sesuatu",
+    "probability": 0.995
+  },
+  {
+    "start": 143.52,
+    "end": 143.7,
+    "text": "yang",
+    "probability": 0.99
+  },
+  {
+    "start": 143.7,
+    "end": 144.42,
+    "text": "keberadaannya",
+    "probability": 0.974
+  },
+  {
+    "start": 144.42,
+    "end": 144.64,
+    "text": "nggak",
+    "probability": 0.356
+  },
+  {
+    "start": 144.64,
+    "end": 144.98,
+    "text": "bisa",
+    "probability": 0.993
+  },
+  {
+    "start": 144.98,
+    "end": 145.22,
+    "text": "kita",
+    "probability": 0.991
+  },
+  {
+    "start": 145.22,
+    "end": 145.5,
+    "text": "anggap",
+    "probability": 0.905
+  },
+  {
+    "start": 145.5,
+    "end": 145.96,
+    "text": "biasa",
+    "probability": 0.99
+  },
+  {
+    "start": 145.96,
+    "end": 146.48,
+    "text": "aku",
+    "probability": 0.711
+  },
+  {
+    "start": 146.48,
+    "end": 146.68,
+    "text": "nggak",
+    "probability": 0.886
+  },
+  {
+    "start": 146.68,
+    "end": 147.06,
+    "text": "tahu",
+    "probability": 0.574
+  },
+  {
+    "start": 147.06,
+    "end": 147.32,
+    "text": "seperti",
+    "probability": 0.97
+  },
+  {
+    "start": 147.32,
+    "end": 147.74,
+    "text": "apa",
+    "probability": 0.956
+  },
+  {
+    "start": 147.74,
+    "end": 148.18,
+    "text": "keadaan",
+    "probability": 0.969
+  },
+  {
+    "start": 148.18,
+    "end": 148.38,
+    "text": "hutan",
+    "probability": 0.83
+  },
+  {
+    "start": 148.38,
+    "end": 148.7,
+    "text": "kita",
+    "probability": 0.997
+  },
+  {
+    "start": 148.7,
+    "end": 149.56,
+    "text": "bertahun-tahun",
+    "probability": 0.98
+  },
+  {
+    "start": 149.56,
+    "end": 149.8,
+    "text": "dari",
+    "probability": 0.991
+  },
+  {
+    "start": 149.8,
+    "end": 150.14,
+    "text": "sekarang",
+    "probability": 0.996
+  },
+  {
+    "start": 150.14,
+    "end": 151.0,
+    "text": "aku",
+    "probability": 0.903
+  },
+  {
+    "start": 151.0,
+    "end": 151.2,
+    "text": "juga",
+    "probability": 0.998
+  },
+  {
+    "start": 151.2,
+    "end": 151.38,
+    "text": "nggak",
+    "probability": 0.984
+  },
+  {
+    "start": 151.38,
+    "end": 151.68,
+    "text": "bisa",
+    "probability": 0.998
+  },
+  {
+    "start": 151.68,
+    "end": 152.34,
+    "text": "menjanjikan",
+    "probability": 0.991
+  },
+  {
+    "start": 152.34,
+    "end": 152.7,
+    "text": "bahwa",
+    "probability": 0.972
+  },
+  {
+    "start": 152.7,
+    "end": 153.06,
+    "text": "semua",
+    "probability": 0.983
+  },
+  {
+    "start": 153.06,
+    "end": 153.58,
+    "text": "kebakaran",
+    "probability": 0.984
+  },
+  {
+    "start": 153.58,
+    "end": 153.78,
+    "text": "akan",
+    "probability": 0.981
+  },
+  {
+    "start": 153.78,
+    "end": 154.28,
+    "text": "berhenti",
+    "probability": 0.955
+  },
+  {
+    "start": 154.28,
+    "end": 155.04,
+    "text": "tapi",
+    "probability": 0.959
+  },
+  {
+    "start": 155.04,
+    "end": 155.22,
+    "text": "aku",
+    "probability": 0.988
+  },
+  {
+    "start": 155.22,
+    "end": 155.72,
+    "text": "percaya,",
+    "probability": 0.997
+  },
+  {
+    "start": 155.94,
+    "end": 156.8,
+    "text": "kepedulian",
+    "probability": 0.798
+  },
+  {
+    "start": 156.8,
+    "end": 156.98,
+    "text": "yang",
+    "probability": 0.997
+  },
+  {
+    "start": 156.98,
+    "end": 157.34,
+    "text": "diikuti",
+    "probability": 0.954
+  },
+  {
+    "start": 157.34,
+    "end": 157.9,
+    "text": "tindakan",
+    "probability": 0.959
+  },
+  {
+    "start": 157.9,
+    "end": 158.6,
+    "text": "jauh",
+    "probability": 0.978
+  },
+  {
+    "start": 158.6,
+    "end": 158.78,
+    "text": "lebih",
+    "probability": 0.997
+  },
+  {
+    "start": 158.78,
+    "end": 159.34,
+    "text": "berarti",
+    "probability": 0.969
+  },
+  {
+    "start": 159.34,
+    "end": 159.78,
+    "text": "daripada",
+    "probability": 0.916
+  },
+  {
+    "start": 159.78,
+    "end": 160.14,
+    "text": "sekedar",
+    "probability": 0.863
+  },
+  {
+    "start": 160.14,
+    "end": 160.76,
+    "text": "berharap",
+    "probability": 0.994
+  },
+  {
+    "start": 160.76,
+    "end": 161.08,
+    "text": "semuanya",
+    "probability": 0.991
+  },
+  {
+    "start": 161.08,
+    "end": 161.54,
+    "text": "baik-baik",
+    "probability": 0.996
+  },
+  {
+    "start": 161.54,
+    "end": 161.88,
+    "text": "saja",
+    "probability": 0.992
+  },
+  {
+    "start": 162.23,
+    "end": 162.6,
+    "text": "dan",
+    "probability": 0.934
+  },
+  {
+    "start": 162.6,
+    "end": 162.94,
+    "text": "mungkin",
+    "probability": 0.996
+  },
+  {
+    "start": 162.94,
+    "end": 163.88,
+    "text": "itulah",
+    "probability": 0.934
+  },
+  {
+    "start": 163.88,
+    "end": 164.14,
+    "text": "alasan",
+    "probability": 0.99
+  },
+  {
+    "start": 164.14,
+    "end": 164.46,
+    "text": "kita",
+    "probability": 0.997
+  },
+  {
+    "start": 164.46,
+    "end": 164.86,
+    "text": "perlu",
+    "probability": 0.99
+  },
+  {
+    "start": 164.86,
+    "end": 165.24,
+    "text": "mulai",
+    "probability": 0.819
+  },
+  {
+    "start": 165.24,
+    "end": 165.66,
+    "text": "sekarang",
+    "probability": 0.999
+  },
+  {
+    "start": 165.66,
+    "end": 166.4,
+    "text": "Bukan",
+    "probability": 0.707
+  },
+  {
+    "start": 166.4,
+    "end": 166.76,
+    "text": "setelah",
+    "probability": 0.991
+  },
+  {
+    "start": 166.76,
+    "end": 167.02,
+    "text": "langit",
+    "probability": 0.959
+  },
+  {
+    "start": 167.02,
+    "end": 167.14,
+    "text": "di",
+    "probability": 0.676
+  },
+  {
+    "start": 167.14,
+    "end": 167.42,
+    "text": "penuhi",
+    "probability": 0.879
+  },
+  {
+    "start": 167.42,
+    "end": 167.84,
+    "text": "asap,",
+    "probability": 0.949
+  },
+  {
+    "start": 168.06,
+    "end": 168.52,
+    "text": "Bukan",
+    "probability": 0.568
+  },
+  {
+    "start": 168.52,
+    "end": 168.88,
+    "text": "setelah",
+    "probability": 0.991
+  },
+  {
+    "start": 168.88,
+    "end": 169.16,
+    "text": "beritaku",
+    "probability": 0.799
+  },
+  {
+    "start": 169.16,
+    "end": 169.54,
+    "text": "bakaran",
+    "probability": 0.968
+  },
+  {
+    "start": 169.54,
+    "end": 170.08,
+    "text": "kembali",
+    "probability": 0.905
+  },
+  {
+    "start": 170.08,
+    "end": 170.54,
+    "text": "memenuhi",
+    "probability": 0.91
+  },
+  {
+    "start": 170.54,
+    "end": 170.8,
+    "text": "layar",
+    "probability": 0.994
+  },
+  {
+    "start": 170.8,
+    "end": 171.08,
+    "text": "kita,",
+    "probability": 0.998
+  },
+  {
+    "start": 171.5,
+    "end": 171.74,
+    "text": "Tapi",
+    "probability": 0.644
+  },
+  {
+    "start": 171.74,
+    "end": 171.94,
+    "text": "saat",
+    "probability": 0.981
+  },
+  {
+    "start": 171.94,
+    "end": 172.36,
+    "text": "hutan",
+    "probability": 0.907
+  },
+  {
+    "start": 172.36,
+    "end": 172.66,
+    "text": "masih",
+    "probability": 0.994
+  },
+  {
+    "start": 172.66,
+    "end": 173.12,
+    "text": "berdiri,",
+    "probability": 0.979
+  },
+  {
+    "start": 173.54,
+    "end": 173.82,
+    "text": "Saat",
+    "probability": 0.825
+  },
+  {
+    "start": 173.82,
+    "end": 174.4,
+    "text": "burung-burung",
+    "probability": 0.98
+  },
+  {
+    "start": 174.4,
+    "end": 174.66,
+    "text": "masih",
+    "probability": 0.988
+  },
+  {
+    "start": 174.66,
+    "end": 175.3,
+    "text": "bernyanyi,",
+    "probability": 0.945
+  },
+  {
+    "start": 175.52,
+    "end": 175.8,
+    "text": "Saat",
+    "probability": 0.977
+  },
+  {
+    "start": 175.8,
+    "end": 176.04,
+    "text": "masih",
+    "probability": 0.989
+  },
+  {
+    "start": 176.04,
+    "end": 176.4,
+    "text": "ada",
+    "probability": 0.993
+  },
+  {
+    "start": 176.4,
+    "end": 177.04,
+    "text": "kehidupan",
+    "probability": 0.991
+  },
+  {
+    "start": 177.04,
+    "end": 177.18,
+    "text": "yang",
+    "probability": 0.982
+  },
+  {
+    "start": 177.18,
+    "end": 177.58,
+    "text": "bisa",
+    "probability": 0.995
+  },
+  {
+    "start": 177.58,
+    "end": 177.92,
+    "text": "dilindungi.",
+    "probability": 0.934
+  },
+  {
+    "start": 178.84,
+    "end": 179.1,
+    "text": "Kalau",
+    "probability": 0.672
+  },
+  {
+    "start": 179.1,
+    "end": 179.3,
+    "text": "suatu",
+    "probability": 0.995
+  },
+  {
+    "start": 179.3,
+    "end": 179.58,
+    "text": "hari",
+    "probability": 0.973
+  },
+  {
+    "start": 179.58,
+    "end": 180.0,
+    "text": "nanti,",
+    "probability": 0.996
+  },
+  {
+    "start": 180.16,
+    "end": 180.26,
+    "text": "kamu",
+    "probability": 0.875
+  },
+  {
+    "start": 180.26,
+    "end": 180.72,
+    "text": "kembali",
+    "probability": 0.998
+  },
+  {
+    "start": 180.72,
+    "end": 181.14,
+    "text": "mendengar",
+    "probability": 0.994
+  },
+  {
+    "start": 181.14,
+    "end": 181.4,
+    "text": "suara",
+    "probability": 0.995
+  },
+  {
+    "start": 181.4,
+    "end": 181.8,
+    "text": "angin",
+    "probability": 0.99
+  },
+  {
+    "start": 181.8,
+    "end": 182.0,
+    "text": "di",
+    "probability": 0.923
+  },
+  {
+    "start": 182.0,
+    "end": 182.2,
+    "text": "antara",
+    "probability": 0.925
+  },
+  {
+    "start": 182.2,
+    "end": 182.96,
+    "text": "pepohonan,",
+    "probability": 0.684
+  },
+  {
+    "start": 183.26,
+    "end": 183.52,
+    "text": "Atau",
+    "probability": 0.957
+  },
+  {
+    "start": 183.52,
+    "end": 183.82,
+    "text": "melihat",
+    "probability": 0.992
+  },
+  {
+    "start": 183.82,
+    "end": 184.18,
+    "text": "cahaya",
+    "probability": 0.971
+  },
+  {
+    "start": 184.18,
+    "end": 184.82,
+    "text": "matahari",
+    "probability": 0.861
+  },
+  {
+    "start": 184.82,
+    "end": 185.22,
+    "text": "menyentuh",
+    "probability": 0.943
+  },
+  {
+    "start": 185.22,
+    "end": 185.36,
+    "text": "di",
+    "probability": 0.861
+  },
+  {
+    "start": 185.36,
+    "end": 185.86,
+    "text": "daunan.",
+    "probability": 0.984
+  },
+  {
+    "start": 186.26,
+    "end": 186.46,
+    "text": "Aku",
+    "probability": 0.981
+  },
+  {
+    "start": 186.46,
+    "end": 186.82,
+    "text": "harap",
+    "probability": 0.997
+  },
+  {
+    "start": 186.82,
+    "end": 187.22,
+    "text": "kamu",
+    "probability": 0.5
+  },
+  {
+    "start": 187.22,
+    "end": 187.72,
+    "text": "mengingat",
+    "probability": 0.986
+  },
+  {
+    "start": 187.72,
+    "end": 188.24,
+    "text": "perjalanan",
+    "probability": 0.992
+  },
+  {
+    "start": 188.24,
+    "end": 188.5,
+    "text": "ini,",
+    "probability": 0.996
+  },
+  {
+    "start": 188.98,
+    "end": 189.26,
+    "text": "Bahwa",
+    "probability": 0.928
+  },
+  {
+    "start": 189.26,
+    "end": 189.64,
+    "text": "hutan",
+    "probability": 0.984
+  },
+  {
+    "start": 189.64,
+    "end": 190.1,
+    "text": "menyimpan",
+    "probability": 0.935
+  },
+  {
+    "start": 190.1,
+    "end": 190.3,
+    "text": "lebih",
+    "probability": 0.994
+  },
+  {
+    "start": 190.3,
+    "end": 190.8,
+    "text": "banyak",
+    "probability": 0.998
+  },
+  {
+    "start": 190.8,
+    "end": 191.44,
+    "text": "kehidupan",
+    "probability": 0.999
+  },
+  {
+    "start": 191.44,
+    "end": 191.78,
+    "text": "daripada",
+    "probability": 0.935
+  },
+  {
+    "start": 191.78,
+    "end": 191.98,
+    "text": "yang",
+    "probability": 0.996
+  },
+  {
+    "start": 191.98,
+    "end": 192.32,
+    "text": "bisa",
+    "probability": 0.994
+  },
+  {
+    "start": 192.32,
+    "end": 192.54,
+    "text": "kita",
+    "probability": 0.994
+  },
+  {
+    "start": 192.54,
+    "end": 192.9,
+    "text": "lihat.",
+    "probability": 0.982
+  },
+  {
+    "start": 192.9,
+    "end": 193.52,
+    "text": "Bahwa",
+    "probability": 0.639
+  },
+  {
+    "start": 193.52,
+    "end": 194.04,
+    "text": "kehilangan",
+    "probability": 0.992
+  },
+  {
+    "start": 194.04,
+    "end": 194.58,
+    "text": "bukan",
+    "probability": 0.966
+  },
+  {
+    "start": 194.58,
+    "end": 195.08,
+    "text": "sesuatu",
+    "probability": 0.998
+  },
+  {
+    "start": 195.08,
+    "end": 195.28,
+    "text": "yang",
+    "probability": 0.994
+  },
+  {
+    "start": 195.28,
+    "end": 195.62,
+    "text": "harus",
+    "probability": 0.995
+  },
+  {
+    "start": 195.62,
+    "end": 195.86,
+    "text": "kita",
+    "probability": 0.995
+  },
+  {
+    "start": 195.86,
+    "end": 196.12,
+    "text": "anggap",
+    "probability": 0.855
+  },
+  {
+    "start": 196.12,
+    "end": 196.58,
+    "text": "biasa.",
+    "probability": 0.992
+  },
+  {
+    "start": 196.72,
+    "end": 197.1,
+    "text": "Dan",
+    "probability": 0.871
+  },
+  {
+    "start": 197.1,
+    "end": 197.38,
+    "text": "bahwa",
+    "probability": 0.997
+  },
+  {
+    "start": 197.38,
+    "end": 198.04,
+    "text": "kepedulian",
+    "probability": 0.899
+  },
+  {
+    "start": 198.04,
+    "end": 198.76,
+    "text": "baru",
+    "probability": 0.562
+  },
+  {
+    "start": 198.76,
+    "end": 199.34,
+    "text": "benar-benar",
+    "probability": 0.987
+  },
+  {
+    "start": 199.34,
+    "end": 199.86,
+    "text": "berarti",
+    "probability": 0.964
+  },
+  {
+    "start": 199.86,
+    "end": 200.48,
+    "text": "ketika",
+    "probability": 0.958
+  },
+  {
+    "start": 200.48,
+    "end": 200.84,
+    "text": "kita",
+    "probability": 0.997
+  },
+  {
+    "start": 200.84,
+    "end": 201.54,
+    "text": "memilih",
+    "probability": 0.985
+  },
+  {
+    "start": 201.54,
+    "end": 201.84,
+    "text": "melakukan",
+    "probability": 0.979
+  },
+  {
+    "start": 201.84,
+    "end": 202.5,
+    "text": "sesuatu.",
+    "probability": 0.999
+  },
+  {
+    "start": 203.04,
+    "end": 203.28,
+    "text": "Kita",
+    "probability": 0.98
+  },
+  {
+    "start": 203.28,
+    "end": 203.58,
+    "text": "mungkin",
+    "probability": 0.993
+  },
+  {
+    "start": 203.58,
+    "end": 203.8,
+    "text": "gak",
+    "probability": 0.414
+  },
+  {
+    "start": 203.8,
+    "end": 204.14,
+    "text": "bisa",
+    "probability": 0.998
+  },
+  {
+    "start": 204.14,
+    "end": 204.56,
+    "text": "mengubah",
+    "probability": 0.992
+  },
+  {
+    "start": 204.56,
+    "end": 205.02,
+    "text": "kemarin,",
+    "probability": 0.931
+  },
+  {
+    "start": 205.34,
+    "end": 205.56,
+    "text": "tapi",
+    "probability": 0.967
+  },
+  {
+    "start": 205.56,
+    "end": 205.78,
+    "text": "kita",
+    "probability": 0.994
+  },
+  {
+    "start": 205.78,
+    "end": 206.0,
+    "text": "masih",
+    "probability": 0.991
+  },
+  {
+    "start": 206.0,
+    "end": 206.28,
+    "text": "punya",
+    "probability": 0.999
+  },
+  {
+    "start": 206.28,
+    "end": 206.8,
+    "text": "pilihan",
+    "probability": 0.994
+  },
+  {
+    "start": 206.8,
+    "end": 207.04,
+    "text": "untuk",
+    "probability": 0.99
+  },
+  {
+    "start": 207.04,
+    "end": 207.28,
+    "text": "hari",
+    "probability": 0.996
+  },
+  {
+    "start": 207.28,
+    "end": 207.56,
+    "text": "ini.",
+    "probability": 0.999
+  },
+  {
+    "start": 207.94,
+    "end": 208.16,
+    "text": "Karena",
+    "probability": 0.953
+  },
+  {
+    "start": 208.16,
+    "end": 208.54,
+    "text": "menjaga",
+    "probability": 0.977
+  },
+  {
+    "start": 208.54,
+    "end": 208.94,
+    "text": "hutan,",
+    "probability": 0.968
+  },
+  {
+    "start": 209.42,
+    "end": 209.72,
+    "text": "bukan",
+    "probability": 0.975
+  },
+  {
+    "start": 209.72,
+    "end": 210.3,
+    "text": "pekerjaan",
+    "probability": 0.992
+  },
+  {
+    "start": 210.3,
+    "end": 210.4,
+    "text": "yang",
+    "probability": 0.992
+  },
+  {
+    "start": 210.4,
+    "end": 210.72,
+    "text": "baru",
+    "probability": 0.997
+  },
+  {
+    "start": 210.72,
+    "end": 211.26,
+    "text": "dimulai",
+    "probability": 0.992
+  },
+  {
+    "start": 211.26,
+    "end": 211.66,
+    "text": "setelah",
+    "probability": 0.997
+  },
+  {
+    "start": 211.66,
+    "end": 212.14,
+    "text": "semuanya",
+    "probability": 0.984
+  },
+  {
+    "start": 212.14,
+    "end": 212.8,
+    "text": "terbakar.",
+    "probability": 0.985
+  },
+  {
+    "start": 213.26,
+    "end": 213.66,
+    "text": "Sebelum",
+    "probability": 0.995
+  },
+  {
+    "start": 213.66,
+    "end": 213.9,
+    "text": "api",
+    "probability": 0.975
+  },
+  {
+    "start": 213.9,
+    "end": 214.34,
+    "text": "muncul,",
+    "probability": 0.99
+  },
+  {
+    "start": 214.78,
+    "end": 215.04,
+    "text": "masih",
+    "probability": 0.997
+  },
+  {
+    "start": 215.04,
+    "end": 215.42,
+    "text": "ada",
+    "probability": 0.998
+  },
+  {
+    "start": 215.42,
+    "end": 216.16,
+    "text": "kesempatan.",
+    "probability": 0.993
+  },
+  {
+    "start": 216.54,
+    "end": 216.7,
+    "text": "Dan",
+    "probability": 0.965
+  },
+  {
+    "start": 216.7,
+    "end": 217.26,
+    "text": "kesempatan",
+    "probability": 0.997
+  },
+  {
+    "start": 217.26,
+    "end": 217.52,
+    "text": "itu",
+    "probability": 0.995
+  },
+  {
+    "start": 217.52,
+    "end": 218.28,
+    "text": "ada",
+    "probability": 0.741
+  },
+  {
+    "start": 218.28,
+    "end": 218.5,
+    "text": "di",
+    "probability": 0.817
+  },
+  {
+    "start": 218.5,
+    "end": 218.74,
+    "text": "tangan",
+    "probability": 0.991
+  },
+  {
+    "start": 218.74,
+    "end": 219.04,
+    "text": "kita",
+    "probability": 0.999
+  },
+  {
+    "start": 219.04,
+    "end": 219.64,
+    "text": "bersama.",
+    "probability": 0.998
+  },
+  {
+    "start": 220.14,
+    "end": 220.66,
+    "text": "Tagar",
+    "probability": 0.662
+  },
+  {
+    "start": 220.66,
+    "end": 221.44,
+    "text": "sebelum",
+    "probability": 0.852
+  },
+  {
+    "start": 221.44,
+    "end": 221.66,
+    "text": "jadi",
+    "probability": 0.976
+  },
+  {
+    "start": 221.66,
+    "end": 222.1,
+    "text": "api.",
+    "probability": 0.99
+  }
+]

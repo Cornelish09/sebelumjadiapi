@@ -1,0 +1,91 @@
+{
+  "created": "2026-11-09",
+  "method": "OpenAI ImageGen; penyuntingan state dari satu kamera; WebP quality 87",
+  "notes": "Skenario ilustratif. State berbeda disejajarkan lewat komposisi acuan; bukan dokumentasi kejadian atau rekonstruksi volumetrik. Layer batang/akar dan foreground benar-benar memiliki alpha terpisah.",
+  "reusedOriginals": [
+    "/assets/hero/canopy-layer.webp",
+    "/assets/images/why-it-matters/orangutan-bridge.webp"
+  ],
+  "assets": [
+    {
+      "file": "forest-alive.webp",
+      "source": "exec-4f9b9b32-1017-4b0e-aa66-7aef9bd6d86b.png",
+      "size": [
+        1672,
+        941
+      ],
+      "transparent": false,
+      "bytes": 360676
+    },
+    {
+      "file": "forest-drying.webp",
+      "source": "exec-6b85b66b-69f5-4ae3-b537-9a4e3346cff3.png",
+      "size": [
+        1672,
+        941
+      ],
+      "transparent": false,
+      "bytes": 385746
+    },
+    {
+      "file": "forest-burning.webp",
+      "source": "exec-23971656-bce4-427e-bab3-b846f2380fa7.png",
+      "size": [
+        1672,
+        941
+      ],
+      "transparent": false,
+      "bytes": 342676
+    },
+    {
+      "file": "forest-ash.webp",
+      "source": "exec-81a0867e-225a-421b-b5d4-286a7c9d22f3.png",
+      "size": [
+        1672,
+        941
+      ],
+      "transparent": false,
+      "bytes": 279860
+    },
+    {
+      "file": "tree-alive.webp",
+      "source": "exec-4b5ebb0c-bb9a-48db-8af4-d1d1c5310e37.png",
+      "size": [
+        1122,
+        1402
+      ],
+      "transparent": true,
+      "bytes": 646016
+    },
+    {
+      "file": "tree-ash.webp",
+      "source": "exec-5425a9a7-31ca-4662-a1ce-5bdee3f974b3.png",
+      "size": [
+        1122,
+        1402
+      ],
+      "transparent": true,
+      "bytes": 504692
+    },
+    {
+      "file": "foreground-alive.webp",
+      "source": "exec-2ab1aeca-8b3f-4a3a-bb44-a2c5567908fe.png",
+      "size": [
+        1672,
+        941
+      ],
+      "transparent": true,
+      "bytes": 234628
+    },
+    {
+      "file": "foreground-ash.webp",
+      "source": "exec-6887df44-db24-499e-9a2f-c3b79575f9ea.png",
+      "size": [
+        1672,
+        941
+      ],
+      "transparent": true,
+      "bytes": 161062
+    }
+  ]
+}

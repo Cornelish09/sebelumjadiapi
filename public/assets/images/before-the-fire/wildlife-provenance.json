@@ -1,0 +1,58 @@
+{
+  "created": "2026-11-10",
+  "method": "OpenAI ImageGen bawaan, cutout orisinal; WebP quality 87",
+  "description": "Lima pose satu orangutan: hidup, gelisah, lemas, terkulai, lalu kehilangan non-grafis. Skenario artistik, bukan dokumentasi satwa individual atau kejadian nyata.",
+  "promptFile": "wildlife-prompts.json",
+  "assets": [
+    {
+      "file": "orangutan-grounded.webp",
+      "source": "exec-02da3563-73eb-4014-8550-d53f9ea5bbcd.png",
+      "size": [
+        1000,
+        750
+      ],
+      "bytes": 190714,
+      "transparent": true
+    },
+    {
+      "file": "orangutan-drying.webp",
+      "source": "exec-b2bca776-545a-4e9b-8bea-1d4c19ec2001.png",
+      "size": [
+        1000,
+        750
+      ],
+      "bytes": 216724,
+      "transparent": true
+    },
+    {
+      "file": "orangutan-risk.webp",
+      "source": "exec-09f75890-59bc-4d22-8ddb-11b5d4e45cae.png",
+      "size": [
+        1000,
+        750
+      ],
+      "bytes": 176270,
+      "transparent": true
+    },
+    {
+      "file": "orangutan-burning.webp",
+      "source": "exec-4d3d6f77-f674-448a-b421-842070fe1546.png",
+      "size": [
+        1000,
+        750
+      ],
+      "bytes": 166830,
+      "transparent": true
+    },
+    {
+      "file": "orangutan-loss.webp",
+      "source": "exec-c7f9ffc1-c01a-4408-8305-1a4914f93c30.png",
+      "size": [
+        1000,
+        750
+      ],
+      "bytes": 125418,
+      "transparent": true
+    }
+  ]
+}

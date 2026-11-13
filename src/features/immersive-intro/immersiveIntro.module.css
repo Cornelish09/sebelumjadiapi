@@ -1,0 +1,12 @@
+.intro { position: relative; }
+.heading { position: absolute; z-index: 2; left: var(--layout-gutter); bottom: 5.4rem; max-width: 48rem; pointer-events: none; }
+.heading > :first-child { display: none; }
+.heading h1 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; font-size: clamp(3.8rem, 6.8vw, 7.5rem); line-height: 0.99; letter-spacing: -0.045em; color: #f4efdf; margin-block: 0 1.4rem; text-shadow: 0 2px 28px #020806; }
+.heading h1 span { color: #f4efdf; }
+.lead { max-width: 24rem; font-size: 0.95rem; color: #c8cec2; line-height: 1.6; }
+@media(max-width:40rem) {
+  .heading { bottom: 8rem; left: 1.5rem; right: 1.5rem; }
+  .heading h1 { font-size: clamp(2.4rem, 11.5vw, 4.5rem); }
+  .lead { font-size: 0.85rem; max-width: 19rem; }
+}
+

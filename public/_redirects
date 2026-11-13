@@ -1,0 +1,2 @@
+/api/pledges /.netlify/functions/pledges 200
+/api/newsletter /.netlify/functions/newsletter 200

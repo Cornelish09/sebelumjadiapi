@@ -1,0 +1,405 @@
+{
+  "id": "sorrow",
+  "label": "03 — SORROW",
+  "title": "Ketika Hutan Kehilangan Suaranya",
+  "theme": "Make It Personal",
+  "intro": "Ketika suara-suara hutan perlahan hilang, yang tersisa bukan sekadar sunyi. Ada rumah, habitat, dan keseharian yang berubah.",
+  "audioCandidatePath": "/assets/audio/meditations/sorrow/sorrow audio.mp3",
+  "audioContentsVerified": true,
+  "timingStatus": "AUTO_ALIGNED",
+  "cues": [
+    {
+      "id": "sorrow-001",
+      "start": 0.0,
+      "end": 2.72,
+      "text": "Coba ingat lagi, suara hutan yang tadi kita"
+    },
+    {
+      "id": "sorrow-002",
+      "start": 2.72,
+      "end": 5.4,
+      "text": "dengar, burung-burung yang saling memanggil,"
+    },
+    {
+      "id": "sorrow-003",
+      "start": 6.02,
+      "end": 9.08,
+      "text": "angin yang melewati dedaunan, dan kehidupan kecil"
+    },
+    {
+      "id": "sorrow-004",
+      "start": 9.08,
+      "end": 11.56,
+      "text": "yang terus berjalan, bahkan saat nggak ada"
+    },
+    {
+      "id": "sorrow-005",
+      "start": 11.56,
+      "end": 12.98,
+      "text": "manusia yang memperhatikannya."
+    },
+    {
+      "id": "sorrow-006",
+      "start": 13.4,
+      "end": 16.18,
+      "text": "Sekarang, coba bayangkan kalau suatu hari,"
+    },
+    {
+      "id": "sorrow-007",
+      "start": 16.64,
+      "end": 18.44,
+      "text": "suara-suara itu perlahan menghilang."
+    },
+    {
+      "id": "sorrow-008",
+      "start": 19.5,
+      "end": 21.06,
+      "text": "Bukan karena malam tiba,"
+    },
+    {
+      "id": "sorrow-009",
+      "start": 21.76,
+      "end": 24.48,
+      "text": "bukan karena hutan sedang beristirahat, tapi"
+    },
+    {
+      "id": "sorrow-010",
+      "start": 24.48,
+      "end": 26.36,
+      "text": "karena tempat yang selama ini menjadi rumah"
+    },
+    {
+      "id": "sorrow-011",
+      "start": 26.36,
+      "end": 28.3,
+      "text": "mereka, sudah nggak lagi sama."
+    },
+    {
+      "id": "sorrow-012",
+      "start": 28.3,
+      "end": 31.68,
+      "text": "Ada pohon yang dulu menjadi tempat berteduh, kini"
+    },
+    {
+      "id": "sorrow-013",
+      "start": 31.68,
+      "end": 32.94,
+      "text": "tinggal batang yang menghitam."
+    },
+    {
+      "id": "sorrow-014",
+      "start": 33.22,
+      "end": 35.0,
+      "text": "Ada sarang yang ditinggalkan."
+    },
+    {
+      "id": "sorrow-015",
+      "start": 35.5,
+      "end": 38.06,
+      "text": "Ada satwa yang harus menjauh, mencari tempat"
+    },
+    {
+      "id": "sorrow-016",
+      "start": 38.06,
+      "end": 40.9,
+      "text": "lain, tanpa tahu apakah tempat itu masih aman."
+    },
+    {
+      "id": "sorrow-017",
+      "start": 41.34,
+      "end": 43.98,
+      "text": "Dan ada manusia yang harus menjalani hari-harinya"
+    },
+    {
+      "id": "sorrow-018",
+      "start": 43.98,
+      "end": 45.8,
+      "text": "dengan udara yang dipenuhi asap."
+    },
+    {
+      "id": "sorrow-019",
+      "start": 46.18,
+      "end": 48.58,
+      "text": "Bayangkan seorang anak yang biasanya bisa bermain"
+    },
+    {
+      "id": "sorrow-020",
+      "start": 48.58,
+      "end": 49.2,
+      "text": "di luar rumah."
+    },
+    {
+      "id": "sorrow-021",
+      "start": 49.68,
+      "end": 52.16,
+      "text": "Tapi hari itu, jendelanya harus ditutup."
+    },
+    {
+      "id": "sorrow-022",
+      "start": 52.6,
+      "end": 53.56,
+      "text": "Bukan karena hujan."
+    },
+    {
+      "id": "sorrow-023",
+      "start": 54.18,
+      "end": 56.12,
+      "text": "Melainkan karena udara di luar sudah nggak"
+    },
+    {
+      "id": "sorrow-024",
+      "start": 56.12,
+      "end": 57.22,
+      "text": "nyaman untuk dihirup."
+    },
+    {
+      "id": "sorrow-025",
+      "start": 57.22,
+      "end": 60.38,
+      "text": "Kadang kita melihat kebakaran hutan hanya lewat"
+    },
+    {
+      "id": "sorrow-026",
+      "start": 60.38,
+      "end": 60.9,
+      "text": "angka."
+    },
+    {
+      "id": "sorrow-027",
+      "start": 61.12,
+      "end": 64.1,
+      "text": "Berapa luas lahan yang terbakar, berapa banyak"
+    },
+    {
+      "id": "sorrow-028",
+      "start": 64.1,
+      "end": 66.96,
+      "text": "titik api yang ditemukan, berapa lama petugas"
+    },
+    {
+      "id": "sorrow-029",
+      "start": 66.96,
+      "end": 68.34,
+      "text": "berusaha memadamkannya."
+    },
+    {
+      "id": "sorrow-030",
+      "start": 68.72,
+      "end": 71.06,
+      "text": "Tapi ada hal-hal yang sulit dijelaskan hanya"
+    },
+    {
+      "id": "sorrow-031",
+      "start": 71.06,
+      "end": 71.74,
+      "text": "dengan angka."
+    },
+    {
+      "id": "sorrow-032",
+      "start": 72.2,
+      "end": 74.44,
+      "text": "Seperti kehilangan tempat yang kita kenal sejak"
+    },
+    {
+      "id": "sorrow-033",
+      "start": 74.44,
+      "end": 77.1,
+      "text": "kecil, atau rasa cemas ketika orang-orang yang"
+    },
+    {
+      "id": "sorrow-034",
+      "start": 77.1,
+      "end": 79.72,
+      "text": "kita sayangi harus menghirup udara yang buruk,"
+    },
+    {
+      "id": "sorrow-035",
+      "start": 80.2,
+      "end": 82.42,
+      "text": "atau kehidupan satwa yang tiba-tiba kehilangan"
+    },
+    {
+      "id": "sorrow-036",
+      "start": 82.42,
+      "end": 83.14,
+      "text": "tempat berlindung."
+    },
+    {
+      "id": "sorrow-037",
+      "start": 83.14,
+      "end": 84.74,
+      "text": "yang membuatku sedih,"
+    },
+    {
+      "id": "sorrow-038",
+      "start": 85.46,
+      "end": 87.48,
+      "text": "hutan nggak bisa meminta kita untuk berhenti."
+    },
+    {
+      "id": "sorrow-039",
+      "start": 88.08,
+      "end": 90.54,
+      "text": "Satwa-satwa itu juga nggak bisa menjelaskan apa"
+    },
+    {
+      "id": "sorrow-040",
+      "start": 90.54,
+      "end": 91.4,
+      "text": "yang mereka rasakan."
+    },
+    {
+      "id": "sorrow-041",
+      "start": 91.68,
+      "end": 94.32,
+      "text": "Dan kita, sering kali baru benar-benar"
+    },
+    {
+      "id": "sorrow-042",
+      "start": 94.32,
+      "end": 96.62,
+      "text": "memperhatikan mereka ketika semuanya sudah"
+    },
+    {
+      "id": "sorrow-043",
+      "start": 96.62,
+      "end": 97.62,
+      "text": "terlanjur terjadi."
+    },
+    {
+      "id": "sorrow-044",
+      "start": 98.04,
+      "end": 100.82,
+      "text": "Padahal, sebuah hutan nggak tumbuh dalam semalam."
+    },
+    {
+      "id": "sorrow-045",
+      "start": 101.32,
+      "end": 104.2,
+      "text": "Ada waktu yang panjang, ada proses yang pelan,"
+    },
+    {
+      "id": "sorrow-046",
+      "start": 104.66,
+      "end": 106.54,
+      "text": "ada begitu banyak kehidupan yang saling"
+    },
+    {
+      "id": "sorrow-047",
+      "start": 106.54,
+      "end": 107.18,
+      "text": "bergantung."
+    },
+    {
+      "id": "sorrow-048",
+      "start": 107.44,
+      "end": 110.24,
+      "text": "Tapi ketika kebakaran terjadi, semua itu bisa"
+    },
+    {
+      "id": "sorrow-049",
+      "start": 110.24,
+      "end": 112.52,
+      "text": "berubah dalam waktu yang jauh lebih singkat."
+    },
+    {
+      "id": "sorrow-050",
+      "start": 112.52,
+      "end": 114.56,
+      "text": "dan yang paling sulit untuk diterima."
+    },
+    {
+      "id": "sorrow-051",
+      "start": 115.04,
+      "end": 117.18,
+      "text": "Sebagian kebakaran berkaitan dengan tindakan"
+    },
+    {
+      "id": "sorrow-052",
+      "start": 117.18,
+      "end": 119.32,
+      "text": "manusia yang sebenarnya bisa dihindari."
+    },
+    {
+      "id": "sorrow-053",
+      "start": 119.5,
+      "end": 121.4,
+      "text": "Ada lahan yang sengaja dibakar."
+    },
+    {
+      "id": "sorrow-054",
+      "start": 121.76,
+      "end": 124.42,
+      "text": "Ada keputusan yang diambil tanpa cukup memikirkan"
+    },
+    {
+      "id": "sorrow-055",
+      "start": 124.42,
+      "end": 126.48,
+      "text": "akibatnya bagi lingkungan dan orang lain."
+    },
+    {
+      "id": "sorrow-056",
+      "start": 126.88,
+      "end": 128.96,
+      "text": "Aku terus memikirkan satu pertanyaan."
+    },
+    {
+      "id": "sorrow-057",
+      "start": 129.46,
+      "end": 131.68,
+      "text": "Kalau kita tahu ada kehidupan yang bisa hilang."
+    },
+    {
+      "id": "sorrow-058",
+      "start": 131.96,
+      "end": 134.3,
+      "text": "Kalau kita tahu ada orang lain yang harus"
+    },
+    {
+      "id": "sorrow-059",
+      "start": 134.3,
+      "end": 135.48,
+      "text": "menanggung akibatnya."
+    },
+    {
+      "id": "sorrow-060",
+      "start": 136.08,
+      "end": 138.28,
+      "text": "Kenapa masih ada yang memilih mengambil risiko"
+    },
+    {
+      "id": "sorrow-061",
+      "start": 138.28,
+      "end": 138.62,
+      "text": "itu?"
+    },
+    {
+      "id": "sorrow-062",
+      "start": 138.62,
+      "end": 143.16,
+      "text": "Mungkin yang paling menyedihkan bukan hanya melihat"
+    },
+    {
+      "id": "sorrow-063",
+      "start": 143.16,
+      "end": 147.4,
+      "text": "hutan terbakar, tapi menyadari bahwa sebagian"
+    },
+    {
+      "id": "sorrow-064",
+      "start": 147.4,
+      "end": 150.24,
+      "text": "kehilangan ini seharusnya bisa dicegah."
+    }
+  ],
+  "audioKind": "narration",
+  "alignment": {
+    "audioSrc": "/assets/audio/meditations/sorrow/sorrow audio.mp3",
+    "duration": 163.635,
+    "reviewedAt": "",
+    "method": "faster-whisper small multilingual CPU float32 language=id word_timestamps=True",
+    "audioSha256": "105e2cf7bbf19b515be7cb319651b130743d4a31e124aa5e40d4cbffb522e91c"
+  },
+  "wordCount": 348
+}
